@@ -3,6 +3,7 @@
 I'm super excited to have you all join me for what will be a really fun and exciting three months. Below you'll find a bunch of useful information to get you prepared and started learning how to code. One of our awesome instructors in Houston put most of this together. Thanks [Matt](http://github.com/matthiasak)!
 
 Cheers!
+
 Aaron
 
 # Instructor Contact Info
