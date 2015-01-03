@@ -37,3 +37,6 @@
     </body>
 </html>
 ```
+
+The first line is called the **doctype** declaration. It tells the browser which version of HTML to use. We will be writing all of our HTML using HTML5.
+`<!DOCTYPE html>`
