@@ -38,6 +38,12 @@
 </html>
 ```
 
+## Anatomy of an HTML element
+
+fill in stuff here
+
+## Line by line description
+
 The first line is called the **doctype** declaration. It tells the browser which version of HTML to use. We will be writing all of our HTML using HTML5. Almost all HTML tags require both an opening tag <...> and a closing tag </...>. The doctype declaration is one of the few that does not require a closing tag.
 
 	<!DOCTYPE html>
@@ -59,6 +65,8 @@ The fifth line opens and closes the title element. The title element specifies w
 ![Screen shot of where the title is displayed.](/images/title-favicon.png)
 
 			<title>this is my really cool webpage</title>
+
+The sixth line links a CSS file to the HTML page. 
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
