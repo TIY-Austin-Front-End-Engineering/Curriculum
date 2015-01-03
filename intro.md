@@ -18,18 +18,13 @@ Katlyn Whittenburg - katlyn@theironyard.com
 
 # Schedule
 
-- Class is from `__START__` to `__END__`.
+- Class is from `January 5th` to `March 27th`.
 - Lecture is from `9.30 AM to 12:30 or 1 PM Monday-Thursday`, with breaks during that time. Depending on the topic, we may end earlier or later. :-)
 - Lab time is from `1 PM to 5 PM Monday-Thursday` and `9 AM to 5 PM` on Friday!
 
 # Office hours and one-on-one instruction
 
 I will be available Monday-Friday from 9 AM to 5 PM at minimum. During lab time, you can schedule one-on-one time with me. After hours, I may be available in the classroom or in [HipChat](https://www.hipchat.com/), which we will use for group communication.
-
-# Holidays
-
-__HOLIDAYS__
-We will take three days off for Thanksgiving, November 26-28th.
 
 # Materials
 
@@ -147,147 +142,6 @@ Sounds boring, but these are important:
 
 > Also called the *Capstone Projects*
 
-This is going to be a large project that you will carry out **BY YOURSELF OR WITH A RAILS STUDENT** to show off on Demo Day (Friday, December 12th).
+This is going to be a large project that you will carry out **BY YOURSELF OR WITH A RAILS STUDENT** to show off on Demo Day.
 
-## Here are some technical requirements for your Final Projects:
-
-- You must either do the project **BY YOURSELF OR WITH A RAILS STUDENT**. If you partner with a Rails student, the Rails student will create an API, and you will connect to it via vanilla jQuery or Backbone.js.
-- You must make atleast 25 commits throughout the 3 week period.
-- You must have tests written for your project. No matter how simple they are, **You must write tests**.
-- You must use a script loader. (loader.js)
-- You must have `"use strict";` in your code.
-- You must implement proper error handling if arguments don't meet expectations (`throw new Error("some error message")`).
-- You must use lodash templates.
-- You must use use atleast 2 different service APIs.
-- You must use atleast 2 different Browser APIs.
-- You must either include polyfills for older browsers, or gracefully show error messages for browsers that don't support a Browser API.
-- You must structure your code with Single Responsibility Principle in mind.
-- Your UI must be **responsive** and work on both desktop and mobile
-- Your app must **SAVE DATA** be it through an authenticated API from `hello.js`, a Rails API, or Firebase.
-
-## Further Requirements BEFORE YOU CODE ANYTHING
-
-- If you have 2 REST APIs, you will probably have two sets of (Collections / Models) for each. List what they would be.
-- You will always focus on an MVP (Minimum Viable Product); which means you will have to *ruthlessly* prioritize features of your app
-- Your Project proposal to me (Matt) must start with an elevator pitch:
-    - 15 to 25 words of what your app does
-- You will outline the MVP features in a clearly documented bulletpoint list.
-- You will need to research your APIs (especially when doing a solo project) to ensure you can talk to that API without a server-side proxy. If a server-side proxy is needed, **you need to verify this immediately and let Matt know**.
-- You will document **all** the technologies and libraries to be used in the project.
-- You will document atleast 5 User Stories about your app.
-    - e.g. _"As an admin user, I want the ability to create courses so that learners can see what courses are available."_
-
-    > User stories follow this structure: "As a ________ I want _______ so that ________"
-
-## Pitching The Projects
-
-Start thinking about final projects a week ahead of time, and meet with me if you're devoid of ideas. Try to make sure your projects are centered around things you truly care about; bee-keeping, beer, dancing, hiking, basketball, etc. This makes a huge difference and can make the project a lot of fun.
-
-Remember to check the [Resources Section](#resources) for inspiration.
-
-Community feedback is invaluable in keeping scope-creep out (not having hidden challenges surface in the middle of the project) and making sure the projects are the right mix of ambition, talent, feasibility, and hubris (a careful mixture of all four is required, IMHO). **SO, ASK YOUR PEERS FOR FEEDBACK.**
-
-## Start Small, Grow with Agility
-
-Start with a prioritized list of Developer Tasks, APIs, Models/Collections, User Stories, and Screens. We will tell you if we think what you proposed as doable in 3 weeks.
-
-Either way, we will help you prioritize what to do first so make sure you can reach a point that you can demo your app on Demo Day.
-
-**How does Matt typically prioritize and group tasks?**
-
-Usually, I consider the User Experience. If I have a feature, I expect it to work, and work well. Then, as I complete tasks, I know if I am on-schedule, or behind schedule.
-
-This process is somewhat akin to building a Car, but starting with a Scooter:
-
-![](./examples/mvp/mvp-howto.jpg)
-
-> see https://pickcrew.com/how-to-build-an-online-business/balance-design-and-launching-early/ for more on this.
-
-## Chronological outline and things to consider
-
-- **EVERY DAY** - you will checkin with me, tell me what you did yesterday, what you plan to do today, and what "blockers" you are running into.
-
-#### Week 1
-
-- wireframe the UI, draw it out, and plan it step by step
-- plan your API code, coordinate with your Ruby teammate (if any), and figure out how to save information to Ruby from Backbone.
-- use Agile practices to breakdown your **software features** into **user stories**.
-    - prioritize the most important features
-    - then prioritize the most important user stories
-
-#### Week 2
-
-- develop
-- write tests
-- review with Matt atleast twice during the week
-
-#### Week 3
-
-- develop
-- write tests
-- review with Matt atleast twice during the week
-
-## Resources
-
-We already outlined a [TON of REST / Browser APIs and UX Patterns here](./day24.md)
-
-## Final Project Q&A
-
-1. Where do we have to be during final projects? In the lab? Home?
-
-    Monday through Thursday, be at START in the morning. We will be holding some small lectures here and there, and I will be helping to answer questions. **If you don't show up, ask questions, and drive your project in this crucial 3-week period, you won't receive career support.**
-
-    Fridays you will be free to work from home. (But we'll still have `#IronPints™`)
-
-- How often will lectures happen, and will they be optional?
-
-    They will happen probably two to three times each week; in the mornings. Some lectures will be optional, some will not. I will let you know in Hipchat ahead of time.
-
-- How long will lectures be?
-
-    They will be kept to a maximum of 1.5 or 2 hours.
-
-- What content will be covered?
-
-    Check the [Lectures Remaining](#lectures-remaining) section.
-
-- How often do we checkin with the instructor? What about the campus director?
-
-    You must checkin with your instructor, in the morning, twice a week (we'll be counting). Twice each week, you should also be checking in with the campus director to discuss career support.
-
-- How much job-related stuff should they be doing?
-
-    This is a case-by-case basis, but The Iron Yard staff will be sending y'all job-related resources to help kickstart the job searches. Best rule of thumb:
-
-    - During final projects, do only two 1-hr job searches each week. That means, pick two evenings (Tues, Thurs), schedule them on your calendar (to get alerts so you don't forget), and don't do anything more.
-    - After final projects, you will want to apply to 3 jobs each day.
-
-    **I (Matt) already have some cool job sites and search engines for you, [collected here (link)](./examples/extras/job-resources.md). You're welcome :-)**
-
-- What are the deliverables? Should we have feature X done by next week, etc.?
-
-    We will plan projects out and have some good prioritized task lists for projects. Students' jobs will be to come to the instructor with the plan in mind, and the instructor will help you tweak it.
-
-- What do they have to wear/say/bring/do at Demo Day? Are there going to be practice runs?
-
-    We will discuss this with the class; but Demo Day will be done in a "Houston Livestock & Rodeo Show" style, where projects will get voted on while displayed around the room, and then the top 4 projects will get to demo the app for everyone.
-
-- What happens if I don't finish?
-
-    You don't present.
-
-- If I don't finish, will I receive career support?
-
-    Not until you finish the project (you get to do that after class) and show you worked hard. The real hustle begins after class, when you start the job hunt. I'll teach you to fish, but I won't fish for you. :-)
-
-# Lectures Remaining
-
-- Week 10
-    - Monday - SCSS
-    - Tuesday - SMACSS
-    - Thursday - CSS Frameworks (Bootstrap / ZURB / TopCoat / etc)
-- Week 11
-    - Monday - Lazy loading content (only show/load when scrolled into view)
-    - Tuesday - jQuery, jQuery plugins
-- Week 12
-    - nada
+More information on your final project will be posted here as demo day draws closer.
