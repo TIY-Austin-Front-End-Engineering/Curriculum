@@ -30,10 +30,10 @@
         <meta charset="utf-8">
         <title></title>
         <link rel="stylesheet" href="style.css">
-        <script src="greeting.js"></script>
     </head>
     <body>
         <p>Hello world! This is a HTML5 page.</p>
+        <script src="greeting.js"></script>
     </body>
 </html>
 ```
@@ -43,3 +43,9 @@ The first line is called the **doctype** declaration. It tells the browser which
 `<!DOCTYPE html>`
 
 In the second line we are opening the HTML document. Every HTML document is opened with the `<html>` tag and closed with the `</html>` tag. The opening and closing HTML tags are like the pieces of bread at the top and bottom of a sandwich (a formality - all the good stuff is inside!).
+
+`<html>`
+
+The third line opens the head tag. Notice that it is indented (with a tab) to denote that the head tag resides *inside* the html element. The head tag contains a bunch of information about the HTML page, including the page title that appears at the top of the browser window, the icon that appears next to the title, etc.
+
+	`<head>`
