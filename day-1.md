@@ -71,7 +71,9 @@ The sixth line links a CSS file to the HTML page. Notice that the link element h
 #### Absolute paths
 **Example:** `http://900dpi.com/images/logo_vert.png`
 
-Absolute paths basically point to a place on the internet, just like any webpage you would visit. Sometimes they are a webpage, but they can also be an image or really any other type of file. I recommend against using absolute paths unless absolutely necessary, because as you can see they include the domain of the website. If that ever changes, it screws up *all of your paths!**.
+Absolute paths basically point to a place on the internet, just like any webpage you would visit. Sometimes they are a webpage, but they can also be an image or really any other type of file. I think about it like this: If `http://900dpi.com` is the address of a folder on some computer (server) out there in the abyss, then `http://900dpi.com/images/logo_vert.png` is going to be the logo_vert.png file located inside the images sub-folder of the parent folder. Simple right! :)
+
+I recommend *against* using absolute paths unless absolutely necessary, because as you can see they include the domain of the website. If the domain ever changes, it screws up *all of your paths!**. This happens more frequently than you might expect.
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
