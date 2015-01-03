@@ -119,7 +119,7 @@ Sounds boring, but these are important:
 
 - Absences and timeliness - You can miss up to 4 lectures; after that, your enrollment in career support is forfeit. I don't recommend missing any, as we will be moving very fast! This is to help with expectations: I show up, you show up, we all show up --- and kick ass! :-) Also, please show up on time. We count 2 lates as an absence. All I ask for is general respect of the crew and class so that we can learn without constant hiccups and interruptions!
 
-- Late or incomplete homework - Your homework is due by 9 AM on the assigned day. After that, it is late. If you miss homework assignments, come talk to me, because I know problems and emergencies can happen. However, you will be required to make up for late/incomplete assignments, so don't fall behind! I would rather see a solid attempt on time than a complete assignment late. Solid attempts are not considered late!
+- Late or incomplete homework - Your homework is due by 12 midnight on the assigned day. After that, it is late. If you miss homework assignments, come talk to me, because I know problems and emergencies can happen. However, you will be required to make up for late/incomplete assignments, so don't fall behind! I would rather see a solid attempt on time than a complete assignment late. Solid attempts are not considered late!
 
 - Honor - You are expected to do your own work. If you don't, why are you here? You should use all resources available to you, including open-source code, but copy and pasting open-source code is prohibited: you should use it only for inspiration or as a library in a bigger project. Copying homework is taken very seriously and can result in forfeiting career support.
 
