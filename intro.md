@@ -65,7 +65,7 @@ There is no commercial software required for the class. We will install a number
 
 Here is some prework to prepare for The Iron Yard's Front End Course!
 
-Prework is material to help you get on the same page as others. Do the best you can, and let Matt know how it's going! :-)
+Prework is material to help you get on the same page as others. Do the best you can, and let Aaron know how it's going! :-)
 
 What is prework?
 
@@ -73,58 +73,45 @@ What is prework?
 - starting learning before the class is like training for a marathon. You don't show up the day of the race and start, you need to train beforehand. In our classes, your brain is the muscle that needs to train. This prework is training for your brain.
 - Prework only covers the basics of a language; What we teach goes much deeper than tutorials can cover.
 
-**Part 0**
+### JavaScript
+> This is not how our course will be taught ­­ but it’s great to get yourself as familiar as 
+possible with some of the syntax of the language. 
 
-Check the software and accounts you will need in the [Materials sections](#materials). Signup for any accounts that you currently do no have.
-
-**Part 1**
-
-Read [Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives](http://www.brainpickings.org/2014/01/29/carol-dweck-mindset/)
-
-Compose an email to Matt answering the following questions:
-
-- Which type of mindset (growth or fixed) do you think you are most strongly associated with? Why?
-- What difficulties do you predict that you will encounter during our course? How have you reacted to similar situations in the past? How do you plan on reacting to these situations during the class?
-
-**Part 2**
-
-Start these and finish (as much as humanly possible):
-
-1. Learn to use the terminal (estimated time, 4 hours)
-
-    The command line is an interface to the internals of your computer, as opposed to the graphical user interface (GUI) that we commonly use. We will be using the command line extensively in our class, but the point of this prework is not to be an expert, just to start to get comfortable.
-
-    Especially if you’ve never used the command line before, you may want to go through these more than once. Make sure not just to read/watch, but really dive in and use the commands that you learn about.
-
-    Read the following article and complete the course on Treehouse:
-
-    > Note: Treehouse has free 14-day trials. Just use a trial.
-
-    - http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything
-    - http://teamtreehouse.com/library/console-foundations#getting-started-with-the-console
-
-2. Learn some basic HTML and CSS
-
-    - http://www.codecademy.com/tracks/web,
-    - https://dash.generalassemb.ly/
-
-3. Start learning JavaScript
-
-    - http://www.codecademy.com/tracks/javascript
-
-4. Start learning Git
-
-    - https://www.codeschool.com/courses/git-real
-
-Spend ~ 1-2 hours each day on the courses to round out any foundational knowledge necessary to start Matt's class.
-
-**Part 3**
-
-If you are ready for more advanced stuff, whet your whistle with this bonus material:
-
-- watch these podcasts (there are new releases approx. every week): http://www.atozcss.com/
-- start the Codecademy jQuery course: http://www.codecademy.com/tracks/jquery
-- Rocked the other stuff and still hungry for more? Have a read through of Douglas Crockford’s “JavaScript: The Good Parts”: http://it-ebooks.info/book/274/
+http://www.codecademy.com/tracks/javascript 
+ 
+### HTML/CSS:
+> HTML and CSS are the foundation of all the content of a webpage or web app. However, we 
+will only be spending about a week on HTML and CSS, so having a basic foundation before 
+class will be very helpful. 
+ 
+Check out the Codecademy course at http://www.codecademy.com/en/tracks/web. 
+This should take you approximately 7 hours, depending on your prior experience. 
+ 
+ 
+### GitHub:
+> GitHub is a web­based hosting and communication service for software development projects 
+that uses the Git revision control system. 
+ 
+Sign up for a GitHub account at https://github.com/ 
+ 
+Make sure to add a profile picture and your full name, since this will help me learn your 
+name. 
+ 
+Check out the [GitHub Guides](https://guides.github.com/) if you want to learn 
+how to use GitHub prior to class.  
+ 
+### Programmers’ Tools:
+ 
+Command Line: Mastery of command line basics is essential for any developer (and 
+extremely useful for non­devs) and will make your life much easier. 
+ 
+http://cli.learncodethehardway.org/book/ 
+ 
+Git: Git and version control are central to how we will be working on projects. This may 
+be a bit much to fully wrap your head around before class, but it’s worth a read to start 
+getting familiar with the terms and concepts. 
+ 
+http://git­scm.com/book/en/Getting­Started­About­Version­Control 
 
 # Policies
 
