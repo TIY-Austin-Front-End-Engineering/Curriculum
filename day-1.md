@@ -23,7 +23,7 @@
 
 # Goal 2: Put together a basic HTML5 page
 ## Bare bones HTML5 page
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
