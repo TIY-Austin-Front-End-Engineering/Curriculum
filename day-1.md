@@ -28,7 +28,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title></title>
+        <title>this is my really cool webpage</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -57,6 +57,8 @@ The fourth line specifies the character set that should be used by the browser. 
 The fifth line opens and closes the title element. The title element specifies what the title of the page should say in the browser tab. In addition to being helpful for visitors with multiple tabs open, the words in your title tag are also used by search engines to rank your website for those keywords. As a rule of thumb, no two pages should have the same title.
 
 ![Screen shot of where the title is displayed.](/images/title-favicon.png)
+
+		`<title>this is my really cool webpage</title>`
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
