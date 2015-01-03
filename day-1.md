@@ -66,7 +66,13 @@ The fifth line opens and closes the title element. The title element specifies w
 
 			<title>this is my really cool webpage</title>
 
-The sixth line links a CSS file to the HTML page. 
+The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web). I'll breifly describe the different types of paths below.
+
+#### Absolute paths
+**Example:** `http://900dpi.com/images/logo_vert.png`
+
+Absolute paths basically point to a place on the internet, just like any webpage you would visit. Sometimes they are a webpage, but they can also be an image or really any other type of file. I recommend against using absolute paths unless absolutely necessary, because as you can see they include the domain of the website. If that ever changes, it screws up *all of your paths!**.
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
+* [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
