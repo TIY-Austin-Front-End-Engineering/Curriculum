@@ -83,28 +83,28 @@ I'll breifly describe the different types of paths below.
 
 > I recommend *against* using absolute paths unless absolutely necessary, because as you can see they include the domain of the website. If the domain ever changes, it screws up *all of your paths!**. This happens more frequently than you might expect.
 
-#### Site root-relative paths
-**Example:** `/images/logo_vert.png`
+> #### Site root-relative paths
+> **Example:** `/images/logo_vert.png`
 
-Site root-relative paths always start with a forward slash (/) and, as their name suggests, are always relative to the site root. The site root is the folder at the root of your site.
+> Site root-relative paths always start with a forward slash (/) and, as their name suggests, are always relative to the site root. The site root is the folder at the root of your site.
 
-Site root-relative paths should be used over other methods whenever possible because 1. they are not dependent on the domain, and 2. they are not dependent on which file you are referencing from.
+> Site root-relative paths should be used over other methods whenever possible because 1. they are not dependent on the domain, and 2. they are not dependent on which file you are referencing from.
 
-#### Document-relative paths
+> #### Document-relative paths
 
-Document-relative paths are based on the location of the current document (the HTML document in our case). The easiest way is to go through an example:
+> Document-relative paths are based on the location of the current document (the HTML document in our case). The easiest way is to go through an example:
 
-**Example 1:** 
-Let's say you are on a webpage that is located at `http://foo.com/pages/hello.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. We can tell that this is a document relative path because it doesn't start with a `http://`, `https://`, `/`, or `\\`. In this case, the path of the CSS file will resolve to `http://foo.com/pages/css/style.css`.
+> **Example 1:** 
+> Let's say you are on a webpage that is located at `http://foo.com/pages/hello.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. We can tell that this is a document relative path because it doesn't start with a `http://`, `https://`, `/`, or `\\`. In this case, the path of the CSS file will resolve to `http://foo.com/pages/css/style.css`.
 
-**Example 2:** 
-Let's say you are on a webpage that is located at `http://foo.com/index.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. Just as above, this is a document relative path with the same href attribute. In this case, the path of the CSS file will resolve to `http://foo.com/css/style.css`. Notice how this differs from example 1 even though the path is exactly the same! That's because the HTML file is in a different location this time, and the path is relative to the location of the HTML file.
+> **Example 2:** 
+> Let's say you are on a webpage that is located at `http://foo.com/index.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. Just as above, this is a document relative path with the same href attribute. In this case, the path of the CSS file will resolve to `http://foo.com/css/style.css`. Notice how this differs from example 1 even though the path is exactly the same! That's because the HTML file is in a different location this time, and the path is relative to the location of the HTML file.
 
-**Example 3:**
-What if we wanted to use a document relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
+> **Example 3:**
+> What if we wanted to use a document relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
 
-**Example 4:**
-Sometimes you will see a path that is prefixed with a `./`. For example: `<link rel="stylesheet" href="./css/style.css">`. This is *not* the same as the `../` prefix. The one dot makes a difference! A single dot slash prefix is a reference to the current directory. Therefore the reference to the CSS file above would be equivalent to `<link rel="stylesheet" href="css/style.css">` because leaving out the `./` also references the current directory by default. I prefer to leave out the `./` notation, but you might see it somewhere.
+> **Example 4:**
+> Sometimes you will see a path that is prefixed with a `./`. For example: `<link rel="stylesheet" href="./css/style.css">`. This is *not* the same as the `../` prefix. The one dot makes a difference! A single dot slash prefix is a reference to the current directory. Therefore the reference to the CSS file above would be equivalent to `<link rel="stylesheet" href="css/style.css">` because leaving out the `./` also references the current directory by default. I prefer to leave out the `./` notation, but you might see it somewhere.
 
 
 
