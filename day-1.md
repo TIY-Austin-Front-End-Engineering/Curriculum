@@ -114,7 +114,7 @@ Next we open up the body element. Each HTML document has only one head and one b
 
 		<body>
 
-An empty page would be pretty boring, so we'll add a paragraph of text, denoted by the paragraph (p) element. In most cases, any text you write inside of an element will show up on the page.
+An empty page would be pretty boring, so we'll add a paragraph of text, denoted by the paragraph (p) element. In most cases, any text you write inside of an element will show up on the page. There are a whole slew of other types of elements. [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) is a great resource for learning the purposes of all of the elements that go inside of the body element.
 
 			<p>Hello world! This is a HTML5 page.</p>
 
@@ -130,3 +130,4 @@ Finally we need to close out all of the tags that we've opened.
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
+* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
