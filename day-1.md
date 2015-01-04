@@ -127,6 +127,9 @@ Finally we need to close out all of the tags that we've opened.
 		</body>
 	</html>
 
+# Goal 3: Understand how to layout a fixed width page with CSS.
+
+
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
