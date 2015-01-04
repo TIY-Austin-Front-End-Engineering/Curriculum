@@ -159,7 +159,7 @@ HTML elements can also have multiple classes. For example:
 **Any element that has a specific class will get all of the properties of that class**. There are a whole slew of different CSS properties, [which you can look up here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 
 Let's start with a blank HTML page with one main element and a little bit of text.
-```
+```html
 <html>
 	<head>
 		<meta charset="utf-8">
