@@ -129,6 +129,8 @@ Finally we need to close out all of the tags that we've opened.
 
 # Goal 3: Understand how to layout a fixed width page with CSS.
 
+We use CSS to style the look and feel of our HTML pages. If your HTML elements were the foundation and scaffolding of a building, CSS would be the walls and paint and everything else that makes it look like a real structure.
+
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
