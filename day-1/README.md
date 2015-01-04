@@ -132,7 +132,7 @@ Finally we need to close out all of the tags that we've opened.
 We use CSS to style the look and feel of our HTML pages. If your HTML elements were the foundation and scaffolding of a house, CSS would be the walls and paint and everything else that makes it look like a real building.
 
 After creating a style.css file and using the `<link>` element to link the stylesheet in your HTML we can start writing some CSS. All CSS is written in the form of:
-```
+```css
 selector {
 	property1: value1;
 	property2: value2;
@@ -142,7 +142,7 @@ selector {
 
 There are many different ways to specify what elements you want to style. We'll start with classes, which are the simplest. Class selections all start with a dot (.) followed by the name of the class. Class names must start with a letter, but can be followed by numbers, dashes and underscores. For example:
 
-```
+```css
 .my-awesome-class {
 	
 }
@@ -167,12 +167,21 @@ Let's start with a blank HTML page with one main element and a little bit of tex
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
-		<main>
+		<main class="centered">
 			This is some text inside the main element.
 		</main>
 	</body>
 </html>
 ```
+
+Notice that the `main` element has a class on it called `centered`. We will use that class within our style.css file.
+
+```css
+.centered {
+	background-color: blue;
+}
+```
+
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
