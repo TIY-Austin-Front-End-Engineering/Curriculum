@@ -69,9 +69,13 @@ The fifth line opens and closes the title element. The title element specifies w
 The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web). I'll breifly describe the different types of paths below.
 
 #### Absolute paths
-**Example:** `http://900dpi.com/images/logo_vert.png`
+**Example 1:** `http://900dpi.com/images/logo_vert.png`
 
 Absolute paths basically point to a place on the internet, just like any webpage you would visit. Sometimes they are a webpage, but they can also be an image or really any other type of file. I think about it like this: If `http://900dpi.com` is the address of a folder (sometimes called the site root) on a computer (server) out there in the abyss, then `http://900dpi.com/images/logo_vert.png` is going to be the logo_vert.png file located inside the images sub-folder of the parent folder. Simple right! :)
+
+**Example 2:** `//www.youtube.com/embed/gmar4gh5nIw`
+
+Sometimes you will see an absolute path that looks like example 2. This is equivalent to `http://www.youtube.com/embed/gmar4gh5nIw` or `https://www.youtube.com/embed/gmar4gh5nIw`, depending on whether the page you are referencing from is using the `http` or `https` protocol. You'll often seeing this when embedding widgets like videos into your page.
 
 I recommend *against* using absolute paths unless absolutely necessary, because as you can see they include the domain of the website. If the domain ever changes, it screws up *all of your paths!**. This happens more frequently than you might expect.
 
