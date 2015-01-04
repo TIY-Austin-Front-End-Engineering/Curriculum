@@ -29,7 +29,7 @@
     <head>
         <meta charset="utf-8">
         <title>this is my really cool webpage</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
         <p>Hello world! This is a HTML5 page.</p>
@@ -66,7 +66,11 @@ The fifth line opens and closes the title element. The title element specifies w
 
 			<title>this is my really cool webpage</title>
 
-The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web). I'll breifly describe the different types of paths below.
+The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web).
+
+			<link rel="stylesheet" href="/css/style.css">
+
+I'll breifly describe the different types of paths below.
 
 #### Absolute paths
 **Example 1:** `http://900dpi.com/images/logo_vert.png`
@@ -97,7 +101,7 @@ Let's say you are on a webpage that is located at `http://foo.com/pages/hello.ht
 Let's say you are on a webpage that is located at `http://foo.com/index.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. Just as above, this is a document relative path with the same href attribute. In this case, the path of the CSS file will resolve to `http://foo.com/css/style.css`. Notice how this differs from example 1 even though the path is exactly the same! That's because the HTML file is in a different location this time, and the path is relative to the location of the HTML file.
 
 **Example 3:**
-What if we wanted to use a relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
+What if we wanted to use a document relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
 
 **Example 4:**
 Sometimes you will see a path that is prefixed with a `./`. For example: `<link rel="stylesheet" href="./css/style.css">`. This is *not* the same as the `../` prefix. The one dot makes a difference! A single dot slash prefix is a reference to the current directory. Therefore the reference to the CSS file above would be equivalent to `<link rel="stylesheet" href="css/style.css">` because leaving out the `./` also references the current directory by default. I prefer to leave out the `./` notation, but you might see it somewhere.
