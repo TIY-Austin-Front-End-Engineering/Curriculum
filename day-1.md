@@ -33,7 +33,7 @@
     </head>
     <body>
         <p>Hello world! This is a HTML5 page.</p>
-        <script src="greeting.js"></script>
+        <script src="/js/greeting.js"></script>
     </body>
 </html>
 ```
@@ -66,7 +66,7 @@ The fifth line opens and closes the title element. The title element specifies w
 
 			<title>this is my really cool webpage</title>
 
-The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web).
+The sixth line links a CSS file to the HTML page. Notice that the link element has two *attributes*. The `rel` attribute specifies what we are linking. "stylesheet" is the only value I've ever seen for this attribute. The `href` attribute specifies where the actual CSS file is located. There are a number of ways to specify where the target CSS file is located. I've previously written a more in-depth guide on paths, which you [can find here](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web). The link element is one of the special ones that *does not* require a closing tag.
 
 			<link rel="stylesheet" href="/css/style.css">
 
@@ -108,8 +108,24 @@ I'll breifly describe the different types of paths below.
 
 The seventh line closes out the head section of our HTML document. Remember that almost every type of HTML element requires both an opening tag and a closing tag.
 
-			</head>
+		</head>
 
+Next we open up the body element. Each HTML document has only one head and one body element. The body element is where everything that you see on the page lives.
+
+		<body>
+
+An empty page would be pretty boring, so we'll add a paragraph of text, denoted by the paragraph (p) element. In most cases, any text you write inside of an element will show up on the page.
+
+			<p>Hello world! This is a HTML5 page.</p>
+
+This final script element is very similar to the `<link>` element that we used at the beginning to load our CSS. Instead of CSS, the `<script>` element loads a javascript file, and uses the same path rules that we went over when discussing the `<link>` element. The script element has one attribute `src`, which specifies where the javascript file is located. `src` is equivalent to `href` on the link element.
+
+			<script src="/js/greeting.js"></script>
+
+Finally we need to close out all of the tags that we've opened.
+
+		</body>
+	</html>
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
