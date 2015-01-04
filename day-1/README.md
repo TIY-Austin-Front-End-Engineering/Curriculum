@@ -131,6 +131,14 @@ Finally we need to close out all of the tags that we've opened.
 
 We use CSS to style the look and feel of our HTML pages. If your HTML elements were the foundation and scaffolding of a house, CSS would be the walls and paint and everything else that makes it look like a real building.
 
+After creating a style.css file and using the `<link>` element to link the stylesheet in your HTML we can start writing some CSS. All CSS is written in the form of:
+```
+selector {
+	attribute1: value1;
+	attribute2: value2;
+	attribute3: value3;
+}
+```
 
 
 # Resources
