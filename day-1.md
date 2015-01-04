@@ -87,7 +87,15 @@ Site root-relative paths should be used over other methods whenever possible bec
 Document-relative paths are based on the location of the current document (the HTML document in our case). The easiest way is to go through an example:
 
 **Example 1:** 
-Let's say you are on a webpage that is located at `http://foo.com/pages/hello.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. We can tell that this is a document relative path because it doesn't start with a `http://`, `https://`, `/`, or `\\`. In this case, the path of the CSS file will resolve to __http://foo.com/pages__/css/style.css.
+Let's say you are on a webpage that is located at `http://foo.com/pages/hello.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. We can tell that this is a document relative path because it doesn't start with a `http://`, `https://`, `/`, or `\\`. In this case, the path of the CSS file will resolve to `http://foo.com/pages/css/style.css`.
+
+**Example 2:** 
+Let's say you are on a webpage that is located at `http://foo.com/index.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. Just as above, this is a document relative path with the same href attribute. In this case, the path of the CSS file will resolve to `http://foo.com/css/style.css`. Notice how this differs from example 1 even though the path is exactly the same! That's because the HTML file is in a different location this time, and the path is relative to the location of the HTML file.
+
+**Example 3:**
+What if we wanted to use a relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
+
+
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
