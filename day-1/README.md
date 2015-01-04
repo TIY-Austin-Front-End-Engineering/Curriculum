@@ -184,6 +184,19 @@ Notice that the `main` element has a class on it called `centered`. We will use 
 
 The CSS above tells the browser that any element with a class of `centered` should have a `background-color` of `blue`. The selector is `.centered` (meaning: select all elements with a class of centered). The property is `background-color`. The value of the property is `blue`.
 
+Let's add a few more properties:
+
+```css
+.centered {
+	background-color: blue;
+	width: 960px;
+	height: 500px;
+	margin: 0 auto;
+}
+```
+
+The width and height properties specify how big the element should be. `margin: 0 auto;` centers the element on the screen.
+
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
