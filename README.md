@@ -1,4 +1,4 @@
 # Table of Contents
 
-* [Welcome!](/intro/notes.md)
-* [Day 1: Structure of HTML Documents](/day-1/notes.md)
+* [Welcome!](/intro/README.md)
+* [Day 1: Structure of HTML Documents](/day-1/README.md)
