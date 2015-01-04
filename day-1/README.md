@@ -140,6 +140,14 @@ selector {
 }
 ```
 
+There are many different ways to specify what elements you want to style. We'll start with classes, which are the simplest. Class selections all start with a dot (.) followed by the name of the class. Class names must start with a letter, but can be followed by numbers, dashes and underscores.
+
+```
+.my-awesome-class {
+	
+}
+```
+
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
