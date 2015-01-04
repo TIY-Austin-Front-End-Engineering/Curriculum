@@ -82,6 +82,13 @@ Site root-relative paths always start with a forward slash (/) and, as their nam
 
 Site root-relative paths should be used over other methods whenever possible because 1. they are not dependent on the domain, and 2. they are not dependent on which file you are referencing from.
 
+#### Document-relative paths
+
+Document-relative paths are based on the location of the current document (the HTML document in our case). The easiest way is to go through an example:
+
+**Example 1:** 
+Let's say you are on a webpage that is located at `http://foo.com/pages/hello.html`. This page references a CSS file like so: `<link rel="stylesheet" href="css/style.css">`. We can tell that this is a document relative path because it doesn't start with a `http://`, `https://`, `/`, or `\\`. In this case, the path of the CSS file will resolve to **http://foo.com/pages**/css/style.css.
+
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
