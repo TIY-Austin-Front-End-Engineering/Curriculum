@@ -95,6 +95,9 @@ Let's say you are on a webpage that is located at `http://foo.com/index.html`. T
 **Example 3:**
 What if we wanted to use a relative path to reference the CSS file in example 2, but we are on the HTML page in example 1? We will have to go "up" a directory. That's done by prefixing our path with a `../`. So if we are on a page located at `http://foo.com/pages/hello.html` and you link to a CSS file like so `<link rel="stylesheet" href="css/style.css">` it will reference the CSS file located at `http://foo.com/css/style.css`.
 
+**Example 4:**
+Sometimes you will see a path that is prefixed with a `./`. For example: `<link rel="stylesheet" href="./css/style.css">`. This is *not* the same as the `../` prefix. The one dot makes a difference! A single dot slash prefix is a reference to the current directory. Therefore the reference to the CSS file above would be equivalent to `<link rel="stylesheet" href="css/style.css">` because leaving out the `./` also references the current directory by default. I prefer to leave out the `./` notation, but you might see it somewhere.
+
 
 
 # Resources
