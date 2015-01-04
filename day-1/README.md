@@ -134,9 +134,9 @@ We use CSS to style the look and feel of our HTML pages. If your HTML elements w
 After creating a style.css file and using the `<link>` element to link the stylesheet in your HTML we can start writing some CSS. All CSS is written in the form of:
 ```
 selector {
-	attribute1: value1;
-	attribute2: value2;
-	attribute3: value3;
+	property1: value1;
+	property2: value2;
+	property3: value3;
 }
 ```
 
@@ -156,7 +156,10 @@ HTML elements can also have multiple classes. For example:
 
 `<p class="my-awesome-class class2">This is some text</p>`
 
+**Any element that has a specific class will get all of the properties of that class**. There are a whole slew of different CSS properties, [which you can look up here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). 
+
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
 * [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+* [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
