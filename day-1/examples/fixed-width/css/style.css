@@ -1,4 +1,25 @@
-main {
+.centered {
 	width: 960px;
 	margin: 0 auto;
+	background: red;
+}
+
+.navigation {
+	float: left;
+	width: 260px;
+	height: 500px;
+	background: green;
+	margin: 0;
+}
+
+.content {
+	float: left;
+	width: 700px;
+	height: 700px;
+	background: blue;
+	margin: 0;
+}
+
+.footer {
+	clear: both;
 }
