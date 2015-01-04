@@ -106,6 +106,9 @@ I'll breifly describe the different types of paths below.
 > **Example 4:**
 > Sometimes you will see a path that is prefixed with a `./`. For example: `<link rel="stylesheet" href="./css/style.css">`. This is *not* the same as the `../` prefix. The one dot makes a difference! A single dot slash prefix is a reference to the current directory. Therefore the reference to the CSS file above would be equivalent to `<link rel="stylesheet" href="css/style.css">` because leaving out the `./` also references the current directory by default. I prefer to leave out the `./` notation, but you might see it somewhere.
 
+The seventh line closes out the head section of our HTML document. Remember that almost every type of HTML element requires both an opening tag and a closing tag.
+
+			</head>
 
 
 # Resources
