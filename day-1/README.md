@@ -156,7 +156,23 @@ HTML elements can also have multiple classes. For example:
 
 `<p class="my-awesome-class class2">This is some text</p>`
 
-**Any element that has a specific class will get all of the properties of that class**. There are a whole slew of different CSS properties, [which you can look up here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference). 
+**Any element that has a specific class will get all of the properties of that class**. There are a whole slew of different CSS properties, [which you can look up here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+
+Let's start with a blank HTML page with one main element and a little bit of text.
+```
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>HTML Page with CSS</title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<main>
+			This is some text inside the main element.
+		</main>
+	</body>
+</html>
+```
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
