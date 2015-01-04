@@ -197,6 +197,21 @@ Let's add a few more properties:
 
 The width and height properties specify how big the element should be. `margin: 0 auto;` centers the element on the screen.
 
+# Assignment
+1. Try out six different HTML elements that are listed in the [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Write up a quick description of how each of the elements differ from each other. If you're having trouble pick from the following list:
+* `<strong>`
+* `<em>`
+* `<p>`
+* `<span>`
+* `<div>`
+* `<h1>`
+* `<h2>`
+* `<h3>`
+* `<br>`
+* `<section>`
+* `<del>`
+2. Style your elements using six different properties listed in the [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+3. Try out 
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
