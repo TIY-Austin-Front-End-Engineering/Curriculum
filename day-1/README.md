@@ -62,7 +62,7 @@ The fourth line specifies the character set that should be used by the browser. 
 
 The fifth line opens and closes the title element. The title element specifies what the title of the page should say in the browser tab. In addition to being helpful for visitors with multiple tabs open, the words in your title tag are also used by search engines to rank your website for those keywords. As a rule of thumb, no two pages should have the same title.
 
-![Screen shot of where the title is displayed.](/day-1/images/title-favicon.png)
+![Screen shot of where the title is displayed.](/day-1/assets/title-favicon.png)
 
 			<title>this is my really cool webpage</title>
 
@@ -211,6 +211,7 @@ The width and height properties specify how big the element should be. `margin: 
 * `<section>`
 * `<del>`
 2. Style your elements using six different properties listed in the [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+3. http://learnlayout.com/display.html
 3. Try out 
 
 # Resources
