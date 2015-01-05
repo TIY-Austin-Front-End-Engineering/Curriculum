@@ -221,7 +221,7 @@ The width and height properties specify how big the element should be. `margin: 
 	* [Layout 4](/day-1/assets/layout-4.png)
 	* [Layout 5](/day-1/assets/layout-5.png)
 4. Read through http://learnlayout.com
-5. Put together a basic portfolio site with an assignments page that links out to each of the pages you created for assignments 1-4.
+5. Put together a basic portfolio site using [900dpi](http://900dpi.com) with an assignments page that links out to each of the pages you created for assignments 1-4.
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
@@ -229,3 +229,4 @@ The width and height properties specify how big the element should be. `margin: 
 * [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Eric Meyer’s CSS reset](http://www.cssreset.com/scripts/eric-meyer-reset-css/)
 * [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [900dpi](http://900dpi.com)
