@@ -141,7 +141,7 @@ selector {
 ```
 
 > ### A note on CSS reset
-> Three are many different browers out there, and each one has a different default set of CSS properties that it applies to different HTML elements. This can make things really frustrating when trying to get a consistent style across browers. To fix this problem we use a [css reset](http://www.cssreset.com/scripts/eric-meyer-reset-css/) to set our own default styles for each element, so that each browser starts from the same base point. I HIGHLY RECOMMEND using this CSS reset to avoid issues.
+> There are many different browers out there, and each one has a different default set of CSS properties that it applies to different HTML elements. This can make things really frustrating when trying to get a consistent style across browers. To fix this problem we use a [css reset](http://www.cssreset.com/scripts/eric-meyer-reset-css/) to set our own default styles for each element, so that each browser starts from the same base point. I **HIGHLY RECOMMEND** using this CSS reset to avoid issues.
 
 There are many different ways to specify what elements you want to style. We'll start with classes, which are the simplest. Class selections all start with a dot (.) followed by the name of the class. Class names must start with a letter, but can be followed by numbers, dashes and underscores. For example:
 
