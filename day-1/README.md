@@ -215,11 +215,11 @@ The width and height properties specify how big the element should be. `margin: 
 	* `<del>`
 2. Style your elements using six different properties listed in the [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 3. Implement each of the following layouts.
-	* [Layout 1](/day-1/assets/layout-1.png)
-	* [Layout 2](/day-1/assets/layout-2.png)
-	* [Layout 3](/day-1/assets/layout-3.png)
-	* [Layout 4](/day-1/assets/layout-4.png)
-	* [Layout 5](/day-1/assets/layout-5.png)
+	* [Layout 1](/master/day-1/assets/layout-1.png)
+	* [Layout 2](/master/day-1/assets/layout-2.png)
+	* [Layout 3](/master/day-1/assets/layout-3.png)
+	* [Layout 4](/master/day-1/assets/layout-4.png)
+	* [Layout 5](/master/day-1/assets/layout-5.png)
 4. Read through http://learnlayout.com
 5. Put together a basic portfolio site with an assignments page that links out to each of the pages you created for assignments 1-4.
 
