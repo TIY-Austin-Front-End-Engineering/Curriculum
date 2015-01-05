@@ -3,7 +3,7 @@
 # Day 1: Structure of HTML Documents
 
 ## Goals
-1. Get all necessary software installed (Sublime, Dropbox, Chrome)
+1. Get all necessary software installed (Sublime, Dropbox, Chrome, Breadcrumbs)
 2. Put together a basic HTML5 page linking in a CSS file, a JS file and an image.
 3. Understand how to layout a fixed width page with CSS.
 
@@ -20,6 +20,10 @@
 ##[Download & Install Google Chome](http://www.google.com/chrome/)
 
 > Chrome is the browser of choice for many web developers because it is fast, has a powerful set of tools for manipulating web pages and debugging problems in your code. It also uses the Webkit rending engine, which is also used by Apple's Safari browser, so if it works on Chrome, it's likely to work on Safari too.
+
+##[Sign up for TIY Breadcrumbs](http://tiy.breadcrumbsqa.com)
+
+> Breadcrumbs is a tool for you to ask me and your classmates questions when you are having issues. We use breadcrumbs so that once a question is answered, anyone else can learn from that answer, not just you.
 
 # Goal 2: Put together a basic HTML5 page
 ## Bare bones HTML5 page
