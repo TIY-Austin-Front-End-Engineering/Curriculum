@@ -199,17 +199,17 @@ The width and height properties specify how big the element should be. `margin: 
 
 # Assignment
 1. Try out six different HTML elements that are listed in the [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element). Write up a quick description of how each of the elements differ from each other. If you're having trouble pick from the following list:
-* `<strong>`
-* `<em>`
-* `<p>`
-* `<span>`
-* `<div>`
-* `<h1>`
-* `<h2>`
-* `<h3>`
-* `<br>`
-* `<section>`
-* `<del>`
+	* `<strong>`
+	* `<em>`
+	* `<p>`
+	* `<span>`
+	* `<div>`
+	* `<h1>`
+	* `<h2>`
+	* `<h3>`
+	* `<br>`
+	* `<section>`
+	* `<del>`
 2. Style your elements using six different properties listed in the [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
 3. http://learnlayout.com/display.html
 3. Try out 
