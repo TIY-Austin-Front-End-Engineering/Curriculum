@@ -218,14 +218,15 @@ The width and height properties specify how big the element should be. `margin: 
 	* `<section>`
 	* `<del>`
 2. Style your elements using six different properties listed in the [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
-3. Implement each of the following layouts.
+3. Ask or answer at least one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com).
+4. Implement each of the following layouts.
 	* [Layout 1](/day-1/assets/layout-1.png)
 	* [Layout 2](/day-1/assets/layout-2.png)
 	* [Layout 3](/day-1/assets/layout-3.png)
 	* [Layout 4](/day-1/assets/layout-4.png)
 	* [Layout 5](/day-1/assets/layout-5.png)
-4. Read through http://learnlayout.com
-5. Put together a basic portfolio site using [900dpi](http://900dpi.com) with an assignments page that links out to each of the pages you created for assignments 1-4.
+5. Read through http://learnlayout.com
+6. Put together a basic portfolio site using [900dpi](http://900dpi.com) with an assignments page that links out to each of the pages you created for assignments 1-4.
 
 # Resources
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
