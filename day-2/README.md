@@ -139,6 +139,15 @@ h1 {
 
 # Goal 3: Intro to command line
 
+- `pwd`: **p**rint **w**orking **d**irectory... Print the the path of the directory where you are located.
+- `ls`:  **l**i**s**t... Show the contents of the current directory. `ls -al` will show additional information and hidden files.
+- `cd`: **c**hange **d**irectory... Use a root based or relative path to move to a different directory.
+- `say`: Have the computer **say** something...
+- `mkdir`: **m**a**k**e **dir**ectory... Create a new directory (folder) at the specified location. This command needs to be passed a path. 
+- `rm`: **r**e**m**ove a file... Use `rm -r` to remove a directory and everything within it.
+- `rmdir`: **r**e**m**ove a **dir**ectory... The directory must be empty first. This command needs to be passed a path.
+- `nano`: A command line text editor. This command needs to be passed a path of the file to create or edit. You cannot use your mouse, only arrow keys. `ctrl + o` to save the file. It will ask you the file name you want to save as. Defaults to the file you opened and will overwrite that file. `ctrl + x` to exit. If the file is unsaved and you try to exit it will ask you if you want to save first.
+
 # Assignment Format
 All assignments that involve code should be submitted in the following format:
 ```
