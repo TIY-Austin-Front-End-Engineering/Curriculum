@@ -4,4 +4,4 @@
 
 * [Welcome!](/intro/README.md)
 * [Day 1: Structure of HTML Documents](/day-1)
-* [Day 2: CSS Review and Responsive Web](/day-1)
+* [Day 2: CSS Review and Introduction to the Command Line](/day-2)
