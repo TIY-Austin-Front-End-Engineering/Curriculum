@@ -1,4 +1,4 @@
-[Table of Contents](/)
+[Table of Contents](/README.md)
 
 # Day 2: CSS Box Model and Responsive Layout
 
