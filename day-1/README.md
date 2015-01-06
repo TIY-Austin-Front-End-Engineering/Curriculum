@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-> @todo:
+> @todo (Notes for Aaron):
 > - Fill in content about structure of a HTML element.
 > - Add notes about floats and clearing
 > - Include content about clearfix
