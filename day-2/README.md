@@ -48,7 +48,12 @@ Here's an example of how this might work:
 			</nav>
 			<section class="content">
 				<h1>Responsive Website Example</h1>
-				This is an example of mobile first design. We have three breakpoints: &lt;768px, &ge;768px, and &ge;992px. Devices that fall within different breakpoints get a slightly different version of the design and layout. Pay particular attention to how the images change as you decrease or increase the size of the browser window.
+				This is an example of mobile first design. We have
+				three breakpoints: &lt;768px, &ge;768px, and &ge;992px.
+				Devices that fall within different breakpoints get
+				a slightly different version of the design and layout.
+				Pay particular attention to how the images change as
+				you decrease or increase the size of the browser window.
 			</section>
 			<section class="pictures">
 				<img src="images/img1.jpg">
