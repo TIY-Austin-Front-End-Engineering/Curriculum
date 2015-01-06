@@ -29,7 +29,14 @@ The basic strategy for accomplishing this in a way that doesn't make us pull our
 
 Since mobile devices usually have the most simple design, I recommend starting by laying out the HTML for the *small* breakpoint first and then enhancing the CSS for larger versions. This is much easier than starting with the desktop version and taking things away. The concept of starting with the mobile layout is called **mobile first design**.
 
-# Goal 3: Understand how to layout a fixed width page with CSS.
+Here's an example of how this might work:
+```html
+```
+
+```css
+```
+
+# Goal 3: Intro to command line
 
 # Assignment Format
 All assignments that involve code should be submitted in the following format:

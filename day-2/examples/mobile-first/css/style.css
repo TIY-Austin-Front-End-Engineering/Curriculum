@@ -1,0 +1,66 @@
+/* Default CSS: CSS for small devices <768px */
+body {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+	margin: 10px 0;
+}
+
+.centered {
+	display: block;
+    position: absolute;
+    height: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 8px;
+}
+
+.pictures {
+	font-size: 0;
+}
+
+.pictures img {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 768px) {
+	.centered {
+		margin: 0 auto;
+		width: 736px;
+		padding: 0;
+	}
+
+	.pictures img {
+		width: 240px;
+		margin-right: 8px;
+	}
+
+	.pictures img:last-child {
+		margin-right: 0;
+	}
+}
+
+/* CSS for large devices ≥992px */
+@media (min-width: 992px) {
+	.centered {
+		width: 960px;
+	}
+
+	.pictures img {
+		width: 300px;
+		margin-right: 30px;
+	}
+
+	.pictures img:last-child {
+		margin-right: 0;
+	}
+}
