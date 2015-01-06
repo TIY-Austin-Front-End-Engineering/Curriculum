@@ -13,12 +13,12 @@
 
 - Use an `<img>` element with an **absolute path** to show your favorite animated gif on the page.
 
-.* If you need some inspiration check out:
+	- If you need some inspiration check out:
 
-..* [http://i.imgur.com/vWse3ro.gif](http://i.imgur.com/vWse3ro.gif)
-..* [http://i.imgur.com/fHMDck1.gif](http://i.imgur.com/fHMDck1.gif)
-..* [http://i.imgur.com/op8V7KE.gif](http://i.imgur.com/op8V7KE.gif)
-..* [http://i.imgur.com/269OzV8.gif](http://i.imgur.com/269OzV8.gif)
+		- [http://i.imgur.com/vWse3ro.gif](http://i.imgur.com/vWse3ro.gif)
+		- [http://i.imgur.com/fHMDck1.gif](http://i.imgur.com/fHMDck1.gif)
+		- [http://i.imgur.com/op8V7KE.gif](http://i.imgur.com/op8V7KE.gif)
+		- [http://i.imgur.com/269OzV8.gif](http://i.imgur.com/269OzV8.gif)
 
 - Use a `<script>` element with a **site root relative path** load the greeting.js javascript file located in the js folder. Check the console to make sure that it's working when you visit the about.html page.
 
