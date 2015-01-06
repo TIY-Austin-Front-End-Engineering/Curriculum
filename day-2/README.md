@@ -31,9 +31,104 @@ Since mobile devices usually have the most simple design, I recommend starting b
 
 Here's an example of how this might work:
 ```html
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Mobile First Page</title>
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<main class="centered">
+			<nav class="navigation">
+				<a href="#">link 1</a>
+				<a href="#">link 2</a>
+				<a href="#">link 3</a>
+			</nav>
+			<section class="content">
+				<h1>Responsive Website Example</h1>
+				This is an example of mobile first design. We have three breakpoints: &lt;768px, &ge;768px, and &ge;992px. Devices that fall within different breakpoints get a slightly different version of the design and layout. Pay particular attention to how the images change as you decrease or increase the size of the browser window.
+			</section>
+			<section class="pictures">
+				<img src="images/img1.jpg">
+				<img src="images/img2.jpg">
+				<img src="images/img3.jpg">
+			</section>
+			<footer class="footer">
+				the footer
+			</footer>
+		</main>
+	</body>
+</html>
 ```
 
 ```css
+/* Default CSS: CSS for small devices <768px */
+body {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+	margin: 10px 0;
+}
+
+.centered {
+	display: block;
+    position: absolute;
+    height: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 8px;
+}
+
+.pictures {
+	font-size: 0;
+}
+
+.pictures img {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 768px) {
+	.centered {
+		margin: 0 auto;
+		width: 736px;
+		padding: 0;
+	}
+
+	.pictures img {
+		width: 240px;
+		margin-right: 8px;
+	}
+
+	.pictures img:last-child {
+		margin-right: 0;
+	}
+}
+
+/* CSS for large devices ≥992px */
+@media (min-width: 992px) {
+	.centered {
+		width: 960px;
+	}
+
+	.pictures img {
+		width: 300px;
+		margin-right: 30px;
+	}
+
+	.pictures img:last-child {
+		margin-right: 0;
+	}
+}
 ```
 
 # Goal 3: Intro to command line
