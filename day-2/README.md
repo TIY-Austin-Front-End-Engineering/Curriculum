@@ -21,6 +21,8 @@ Now that web users consume content on all kinds of different devices and screen 
 
 The basic strategy for accomplishing this in a way that doesn't make us pull our hair out is to make use of a concept called "breakpoints." Essentially, we use a few different versions of our CSS, depending on the screen size that the viewer is using. For example, we might create the following breakpoints:
 
+| Description    | Size               |
+| -------------- |--------------------|
 | Small devices  | <768px (phones)    |
 | Medium devices | ≥768px (tablets)   |
 | Large devices  | ≥992px (desktops)  |
