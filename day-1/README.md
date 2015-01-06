@@ -1,5 +1,10 @@
 [Table of Contents](/README.md)
 
+> @todo:
+> - Fill in content about structure of a HTML element.
+> - Add notes about floats and clearing
+> - Include content about clearfix
+
 # Day 1: Structure of HTML Documents
 
 ## Goals
