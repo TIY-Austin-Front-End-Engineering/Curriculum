@@ -1,4 +1,4 @@
-[Table of Contents](/README.md)
+[Table of Contents](/)
 
 # Day 1: Structure of HTML Documents
 
