@@ -13,7 +13,7 @@
 3. Intro to command line
 
 
-# Goal 1: Understandinf the CSS Box Model
+# Goal 1: Understanding the CSS Box Model
 I'm not going to put in notes about this because MD already does a perfect job. Everything you want to know about the box model [can be found here](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model) in a clear concise description.
 
 # Goal 2: Intro to CSS Media Queries / Mobile first development
