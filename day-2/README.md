@@ -195,12 +195,12 @@ All assignments that involve code should be submitted in the following format:
 # Assignment
 1. Watch: https://www.youtube.com/watch?v=0fKg7e37bQE
 - Write up a description in your own words for each of the basic git commands. Put the descriptions in a HTML file.
-	- git clone
-	- git status
-	- git add
-	- git commit
-	- git push
-	- git pull
+	- `git clone`
+	- `git status`
+	- `git add`
+	- `git commit`
+	- `git push`
+	- `git pull`
 2. Duplicate this layout including colors and style: http://purecss.io/layouts/pricing/
 3. Install xcode command line tools. No deliverables required other than having it properly installed. We will use these tomorrow and will not be going over how to install them in class so if you need help ask before tomorrow.
 
