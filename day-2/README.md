@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 2: CSS Box Model and Responsive Layout
+# Day 2: CSS Review and Introduction to the Command Line
 
 # Review
 - Have everyone talk about a HTML element or CSS property that they learned about.
@@ -83,10 +83,4 @@ All assignments that involve code should be submitted in the following format:
 3. Install xcode command line tools. No deliverables required other than having it properly installed. We will use these tomorrow and will not be going over how to install them in class so if you need help ask before tomorrow.
 
 # Resources
-* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html)
-* [What the ../ ?? Everything you ever wanted to know about paths on the web](http://900dpi.com/blog/Learn-HTML/What-the-Everything-you-ever-wanted-to-know-about-paths-on-the-web)
-* [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [Eric Meyer’s CSS reset](http://www.cssreset.com/scripts/eric-meyer-reset-css/)
-* [CSS property reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [900dpi](http://900dpi.com)
-* [Breadcrumbs](http://tiy.breadcrumbsqa.com)
+* [Video: Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
