@@ -1,4 +1,4 @@
-[Table of Contents](/README.md)
+[Day 2 Notes](/day-2)
 
 # Review: HTML paths
 
