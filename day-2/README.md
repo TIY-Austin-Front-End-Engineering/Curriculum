@@ -21,12 +21,13 @@ Now that web users consume content on all kinds of different devices and screen 
 
 The basic strategy for accomplishing this in a way that doesn't make us pull our hair out is to make use of a concept called "breakpoints." Essentially, we use a few different versions of our CSS, depending on the screen size that the viewer is using. For example, we might create the following breakpoints:
 
-| Description    | Size               |
+| Breakpoint     | Size               |
 | -------------- |--------------------|
-| Small devices  | <768px (phones)    |
-| Medium devices | ≥768px (tablets)   |
-| Large devices  | ≥992px (desktops)  |
-| Large devices  | ≥1200px (desktops) |
+| Small          | <768px (phones)    |
+| Medium         | ≥768px (tablets)   |
+| Large          | ≥992px (desktops)  |
+
+Since mobile devices usually have the most simple design, I recommend starting by laying out the HTML for the *small* breakpoint first and then enhancing the CSS for larger versions. This is much easier than starting with the desktop version and taking things away. The concept of starting with the mobile layout is called **mobile first design**.
 
 # Goal 3: Understand how to layout a fixed width page with CSS.
 
