@@ -31,6 +31,7 @@ Since mobile devices usually have the most simple design, I recommend starting b
 
 Here's an example of how this might work:
 ```html
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8">
