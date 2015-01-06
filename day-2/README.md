@@ -201,7 +201,7 @@ All assignments that involve code should be submitted in the following format:
 	- `git commit`
 	- `git push`
 	- `git pull`
-2. Duplicate this layout including colors and style: http://purecss.io/layouts/pricing/ - NO COPYING CODE from this example. You can look at CSS for the purpose of getting hex colors but that's it. You can view the page to see how the breakpoints are laid out and what content it changed as the page size changes.
+2. Duplicate this layout including colors and style: http://purecss.io/layouts/pricing/ - **NO COPYING CODE** from this example. You can look at CSS for the purpose of getting hex colors but that's it. You can view the page to see how the breakpoints are laid out and what content it changed as the page size changes.
 3. Install xcode command line tools. No deliverables required other than having it properly installed. We will use these tomorrow and will not be going over how to install them in class so if you need help ask before tomorrow.
 
 # Resources
