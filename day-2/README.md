@@ -1,5 +1,11 @@
 [Table of Contents](/README.md)
 
+> @todo (Notes for Aaron):
+> - Homework assignment was too difficult. Each breakpoint should be one days assignment.
+> - Talk about aligning content (text-align for inline and margin: 0 auto for block)
+> - Stress importance of mobile first for assignment.
+> - Go through some box model examples.
+
 # Day 2: CSS Review and Introduction to the Command Line
 
 # Review
