@@ -1,0 +1,27 @@
+Overall Layout
+ - margin trick
+Red: logo
+ - text transform
+ - color property
+Purple: Nav
+ - hover pseudo selector
+ - color property
+Pink: Image
+ - text-shadow
+ - http://css3gen.com/text-shadow/
+ - text-align
+Orange: Price box
+ - font-weight
+ - text-align
+Green: Plan features
+ - border
+ - :first-child / :last-child
+ - text-align
+Blue: Choose button
+ - border-radius
+Yellow: Description
+ - text-transform
+ - margin trick
+Black: Footer
+ - text-decoration
+ - text-align
