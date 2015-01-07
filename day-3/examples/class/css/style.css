@@ -1,0 +1,65 @@
+#the-container {
+	background-color: #cccccc;
+}
+
+.with-margins {
+	margin: 0 10%;
+	background-color: #AAAAAA;
+	text-transform: uppercase;
+	color: yellow;
+	font-size: 0;
+}
+
+.with-margins a {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #333;
+	color: #ccc;
+	font-size: 18px;
+	width: 57px;
+	margin-right: 3px;
+}
+
+.fixed-width {
+	height: 200px;
+	background: red;
+	width: 397px;
+}
+
+.fixed-width a:last-child {
+	margin-right: 0;
+}
+
+.with-margins > div > a:hover {
+	background-color: #666;
+}
+
+.center-me {
+	display: inline;
+	width: 200px;
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+
+
+.line-height-example {
+	line-height: 100px;
+	display: block;
+
+	border: 1px solid red;
+
+	border-style: double;
+	border-color: #000000;
+	border-width: 1px;
+
+
+	border-top-width: 10px;
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+
+	background-color: #333;
+
+	text-decoration: underline;
+}

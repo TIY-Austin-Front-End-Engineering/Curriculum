@@ -1,0 +1,246 @@
+body {
+
+}
+
+/* Logo and navigation */
+
+.logo a {
+	text-decoration: none;
+	display: inline-block;
+	color: #526066;
+	font-family: sans-serif;
+	font-size: 90%;
+	margin: 10px 20px 8px 20px;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #526066;
+	font-family: sans-serif;
+	padding: 10px 20px;
+	display: inline-block;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu a:hover {
+	background-color: #ddd;
+}
+
+.pricing a {
+	color: black;
+}
+
+/* Banner */
+
+.banner {
+	background-image: url(http://24.media.tumblr.com/ccb268832580ac12951828a1c179de69/tumblr_mo2xbk8JUK1st5lhmo1_1280.jpg);
+	height: 200px;
+	margin-bottom: 48px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.image-text {
+	text-align: center;
+	color: #ffffff;
+	font-size: 32px;
+	font-family: sans-serif;
+	font-weight: 500;
+	padding-top: 68px;
+	text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+}
+
+
+
+/* Pricing boxes */
+
+.container {
+	text-align: center;
+}
+
+#green {
+	background-color: #519251;
+}
+
+#blue {
+	background-color: #2c4985;
+}
+
+#black {
+	background-color: #000000;
+}
+
+.box-header {
+	font-size: 1em;
+	font-family: sans-serif;
+	letter-spacing: 0.25em;
+	color: #fff;
+	padding-top: 2em;
+	margin-bottom: 0.5em;
+}
+
+.box-price {
+	font-size: 6em;
+	color: #fff;
+	margin-bottom: 0.2em;
+	font-weight: 100;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.box-footer {
+	text-transform: uppercase;
+	font-size: 1.2em;
+	padding-bottom: 2em;
+	font-weight: 400;
+	color: rgba(255, 255, 255, 0.5);
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.pricing-options {
+	margin: 0 8px 32px 8px;
+}
+
+.lists {
+	/*margin: 0 8px 32px 8px;*/
+
+}
+
+.lists li {
+	text-align: center;
+	background-color: #f7f7f7;
+	color: rgb(82, 96, 102);
+	border-color: #e7e7e7;
+	border-width: 1px;
+	border-style: solid;
+	border-top: 0;
+	padding: 0.8em 0;
+	font-family: sans-serif;
+}
+
+.buttonBox {
+	margin: 0 auto;
+	text-align: center;
+	border-color: #e7e7e7;
+	border-width: 1px;
+	border-style: solid;
+	border-top: 0;
+	padding-bottom: 48px
+
+}
+
+button {
+	border-radius: 2em;
+	border-color: #e7e7e7;
+	border-style: solid;
+	background-color: #ffffff;
+	font-weight: bold;
+	position: relative;
+	bottom: -1.5em;
+	padding: .5em 1em;
+	font-size: 100%;
+	border-width: 1px;
+}
+
+button:hover {
+	cursor: pointer;
+	background: rgba(255,255,255,1);
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 10%, rgba(242,242,242,1) 69%, rgba(242,242,242,1) 81%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(10%, rgba(255,255,255,1)), color-stop(69%, rgba(242,242,242,1)), color-stop(81%, rgba(242,242,242,1)));
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 10%, rgba(242,242,242,1) 69%, rgba(242,242,242,1) 81%);
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 10%, rgba(242,242,242,1) 69%, rgba(242,242,242,1) 81%);
+	background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 10%, rgba(242,242,242,1) 69%, rgba(242,242,242,1) 81%);
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 10%, rgba(242,242,242,1) 69%, rgba(242,242,242,1) 81%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2', GradientType=0 );
+}
+
+/* Desciptions */
+
+section {
+	margin: 0 auto;
+	padding: 8px 32px;
+}
+
+div h1 {
+	font-size: 19px;
+	font-weight: 500;
+	letter-spacing: 4.6px;
+	font-family: sans-serif;
+	margin: 18px 0;
+}
+
+div p {
+	font-family: sans-serif;
+	font-size: 16px;
+	line-height: 25.6px;
+	margin: 16px 0;
+	margin-bottom: 50px;
+	color: rgb(82, 96, 102);
+
+}
+
+#lastp {
+	margin-bottom: 18px;
+}
+
+footer {
+	background-color: black;
+	color:#888;
+	font-family:sans-serif;
+	line-height: 1.6em;
+	text-align: center;
+	padding: 8px 32px;
+}
+
+footer a {
+	color: #ddd;
+}
+
+footer p {
+	margin: 16px 0;
+}
+
+
+
+
+
+
+
+.purple {
+	background-color: purple;
+	
+}
+
+.margin1 {
+	background-color: white;
+	padding: 0 7.5px;
+}
+
+.green {
+	background-color: green;
+
+}
+
+.blue {
+	background-color: blue;
+}
+
+.margin2 {
+	background-color: white;
+	padding: 8px 32px;
+}
+
+.yellow {
+	background-color: yellow;
+
+
+}
+
+.black {
+	background-color: black;
+	height: 82px;
+}

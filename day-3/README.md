@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 3: More CSS and git
+# Day 3: Mobile First Development
 
 # Review
 - Work on responsive design group project.
