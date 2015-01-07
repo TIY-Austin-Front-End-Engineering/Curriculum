@@ -12,6 +12,7 @@
 
 # Assignment
 1. Create the medium device breakpoint for the responsive website we've been working on in class. Push your assignment to github.
+2. Answer one question on Breadcrumbs.
 2. Read: [How CSS Selectors Work](http://css-tricks.com/how-css-selectors-work/)
 3. Read: [Meet the Pseudo Class Selectors](http://css-tricks.com/pseudo-class-selectors/)
 
