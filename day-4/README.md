@@ -1,10 +1,6 @@
 [Table of Contents](/README.md)
 
-> @todo (Notes for Aaron):
-> - probably swap day 2 and day 3 (maybe keep the command line on day 2)
-> - didn't get a chance to go over git.
-
-# Day 3: CSS Property Review and Mobile First Development
+# Day 4: CSS Property Review and Mobile First Development
 
 # Review
 - Work on responsive design group project.
@@ -24,4 +20,3 @@
 * [Ultimate CSS Gradient Generator](http://css-tricks.com/pseudo-class-selectors)
 * [CSS Border Radius Generator](http://border-radius.com/)
 * [CSS Text Shadow Generator](http://css3gen.com/text-shadow/)
-* [px to em Conversion](http://pxtoem.com/)
