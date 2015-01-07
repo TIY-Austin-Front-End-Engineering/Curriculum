@@ -1,6 +1,10 @@
 [Table of Contents](/README.md)
 
-# Day 3: Mobile First Development
+> @todo (Notes for Aaron):
+> - probably swap day 2 and day 3 (maybe keep the command line on day 2)
+> - didn't get a chance to go over git.
+
+# Day 3: CSS Property Review and Mobile First Development
 
 # Review
 - Work on responsive design group project.

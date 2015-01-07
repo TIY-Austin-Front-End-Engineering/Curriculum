@@ -5,6 +5,7 @@
 > - Talk about aligning content (text-align for inline and margin: 0 auto for block)
 > - Stress importance of mobile first for assignment.
 > - Go through some box model examples.
+> - probably swap day 2 and day 3 (maybe keep the command line on day 2)
 
 # Day 2: CSS Review and Introduction to the Command Line
 
