@@ -1,3 +1,6 @@
+Not allowed to use width property.
+Not allowed to use floats.
+
 Overall Layout
  - margin trick
 Red: logo
