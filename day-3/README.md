@@ -21,3 +21,4 @@
 3. Read: [Meet the Pseudo Class Selectors](http://css-tricks.com/pseudo-class-selectors/)
 
 # Resources
+* 
