@@ -21,4 +21,6 @@
 3. Read: [Meet the Pseudo Class Selectors](http://css-tricks.com/pseudo-class-selectors/)
 
 # Resources
-* 
+* [Ultimate CSS Gradient Generator](http://css-tricks.com/pseudo-class-selectors)
+* [CSS Border Radius Generator](http://border-radius.com/)
+* [CSS Text Shadow Generator](http://css3gen.com/text-shadow/)
