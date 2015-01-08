@@ -3,6 +3,21 @@
 > @todo (Notes for Aaron):
 > - probably swap day 2 and day 3 (maybe keep the command line on day 2)
 > - didn't get a chance to go over git.
+> - cover the following CSS properties/tricks
+>	- fixed px margin on element that stretches full width of page
+>	- text-transform
+>	- color
+>	- :hover
+>	- text-shadow
+>	- text-align
+>	- font-weight
+>	- border
+>	- :first-child / :last-child
+>	- border-radius
+>	- text-decoration
+>	- font-family / how it cascades
+
+
 
 # Day 3: CSS Property Review and Mobile First Development
 

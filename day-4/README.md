@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 4: CSS Property Review and Mobile First Development
+# Day 4: git, GitHub and HTML/CSS quirks
 
 # Review
 - Work on responsive design group project.
