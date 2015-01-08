@@ -6,8 +6,16 @@
 - Work on responsive design group project.
 
 ## Goals
-1. CSS animations
-2. Full height elements
+- Install git, set up github account.
+- Understand the basics of git and github. Create first github repo.
+- Introduce students to some additional quirks in HTML/CSS
+	- floated elements inside unfloated container
+		- overflow trick
+		- clearfix
+	- em's and rem's
+	- aligning content (horizontal and vertical, block and inline)
+	- CSS positioning
+	- 100% height
 
 # Assignment
 1. Create the medium device breakpoint for the responsive website we've been working on in class. Push your assignment to github.
