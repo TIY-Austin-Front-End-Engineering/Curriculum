@@ -103,6 +103,11 @@ body {
 
 .pricing-options {
 	margin: 0 8px 32px 8px;
+	font-size: 16px;
+}
+
+.pricing-option {
+	font-size: 16px;
 }
 
 .lists {
@@ -217,7 +222,8 @@ footer p {
 
 .margin1 {
 	background-color: white;
-	padding: 0 7.5px;
+	margin: 0 8px;
+	font-size: 0;
 }
 
 .green {
@@ -243,4 +249,26 @@ footer p {
 .black {
 	background-color: black;
 	height: 82px;
+}
+
+/* CSS for medium devices ≥768px */
+@media (min-width: 480px) {
+	.banner {
+		height: 400px;
+	}
+}
+
+@media (min-width: 768px) {
+	.pricing-option {
+		display: inline-block;
+		width: 33%;
+	}
+
+	.pricing-option > * {
+		margin-right: 8px;
+	}
+
+	.pricing-option:last-child > * {
+		margin-right: 0;
+	}
 }

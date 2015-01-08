@@ -6,9 +6,8 @@
 - Work on responsive design group project.
 
 ## Goals
-1. Understand the CSS Box Model
-2. Install git, set up github account.
-3. Understand the basics of git and github. Create first github repo.
+1. CSS animations
+2. Full height elements
 
 # Assignment
 1. Create the medium device breakpoint for the responsive website we've been working on in class. Push your assignment to github.

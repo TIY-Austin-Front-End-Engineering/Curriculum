@@ -13,6 +13,7 @@
 1. Understand the CSS Box Model
 2. Install git, set up github account.
 3. Understand the basics of git and github. Create first github repo.
+4. (optional extra lecture) OS X For Beginners
 
 # Assignment
 1. Create the medium device breakpoint for the responsive website we've been working on in class. Push your assignment to github.
@@ -25,3 +26,4 @@
 * [CSS Border Radius Generator](http://border-radius.com/)
 * [CSS Text Shadow Generator](http://css3gen.com/text-shadow/)
 * [px to em Conversion](http://pxtoem.com/)
+* [OS X: Keyboard shortcuts](http://support.apple.com/en-us/HT201236)
