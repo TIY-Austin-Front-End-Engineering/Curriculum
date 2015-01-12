@@ -44,7 +44,7 @@
 		<div class="margin1">
 			<div class="pricing-option">
 				<div class="container" id="green">
-					<div class="box-header">
+					<div class="box-header" style="font-weight: bold;">
 						PERSONAL
 					</div>
 					<div class="box-price">
@@ -155,12 +155,12 @@
 ## Problem 1
 ### What color will the logo text be?
 ```css
-section .logo {
+section .logo a {
 	color: red;
 }
 
-.logo {
-	color: blue;
+.logo a {
+	color: green;
 }
 
 ```
@@ -168,12 +168,115 @@ section .logo {
 ## Problem 2
 ### What color will the logo text be?
 ```css
-div.logo {
+div.logo a {
 	color: orange;
 }
 
-section .logo {
+section .logo a {
 	color: yellow;
 }
 
+```
+
+## Problem 3
+### What color will the home link be?
+```css
+.menu li:first-child > a {
+	color: black;
+}
+
+.menu > li > a {
+	color: white;
+}
+
+```
+
+## Problem 4
+### What will the background-color of the banner be?
+```css
+div.banner {
+	font-weight: bold;
+	color: white;
+	width: 100%;
+	height: 300px;
+}
+
+.banner {
+	text-decoration: none;
+	background-color: blue;
+	text-transform: uppercase;
+	font-style: italic;
+
+}
+```
+
+## Problem 5
+### What will the background-color of second pricing option?
+```css
+#blue {
+	background-color: red;
+}
+
+.margin1 > div.pricing-option > .container {
+	background-color: green;
+}
+```
+
+## Problem 6
+### What will the margin of the description paragraphs be?
+```css
+div.margin2 section p {
+	margin: 8px 0;
+}
+
+.margin2 > div > p {
+	margin: 0 auto;
+}
+
+## Problem 7
+### What will the text-decoration on footer links be?
+```css
+footer > p > a {
+	text-decoration: none;
+}
+
+body > footer > div > p > a {
+	text-decoration: underline;
+}
+```
+
+## Problem 8
+### What will the background-color of the body element be?
+```css
+html > body {
+	background: #fff;
+}
+
+body {
+	background-color: red;
+}
+```
+
+## Problem 9
+### What will the color of the PERSONAL box-header be?
+```css
+.margin1 div.box-header {
+	color: green;
+}
+
+.margin1 div > div > div {
+	color: blue;
+}
+```
+
+## Problem 10
+### What will the color of the SMALL BUSINESS box-header be?
+```css
+.margin1 div.box-header {
+	color: green;
+}
+
+.margin1 div > div > div {
+	color: blue;
+}
 ```
