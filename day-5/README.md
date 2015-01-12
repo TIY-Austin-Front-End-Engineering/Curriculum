@@ -19,7 +19,7 @@
 	- Strings
 	- Variables
 	- Operators
-	- Controll Structures
+	- Control Structures
 
 # Resources
 * [CSS Specificity In-Class Assignment](/day-5/in-class/README.md)
