@@ -21,6 +21,7 @@
 	- Controll Structures
 
 # Resources
+* [CSS Specificity In-Class Assignment](/day-5/in-class/README.md)
 * [Specifics on CSS Specificity](http://css-tricks.com/specifics-on-css-specificity/)
 * [Sass Guide](http://sass-lang.com/guide)
 * [Google Fonts](https://www.google.com/fonts)
