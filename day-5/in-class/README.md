@@ -44,7 +44,7 @@
 		<div class="margin1">
 			<div class="pricing-option">
 				<div class="container" id="green">
-					<div class="box-header" style="font-weight: bold;">
+					<div class="box-header" style="color: red;">
 						PERSONAL
 					</div>
 					<div class="box-price">
