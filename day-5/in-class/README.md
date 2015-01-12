@@ -153,3 +153,14 @@
 ```
 
 ## Problem 1
+### What color will the logo text be?
+```css
+section .logo {
+	color: red;
+}
+
+.logo {
+	color: blue;
+}
+
+```
