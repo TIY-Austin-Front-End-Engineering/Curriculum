@@ -13,7 +13,9 @@
 - Extra: Learn how to use Web Fonts
 
 # Assignment
-1. Surf and paddle
+1. Recreate the following responsive website using HTML and Sass or Scss. The breakpoint between the two versions should occurr at 768px:
+	- [Desktop version](https://github.com/TIY-Houston-Front-End-Engineering/Notes-Sept-2014/blob/master/examples/extras/surf-and-paddle.png)
+	- [Mobile version](https://github.com/TIY-Houston-Front-End-Engineering/Notes-Sept-2014/blob/master/examples/extras/surf-and-paddle-responsive.pdf?raw=true)
 2. Read the following sections from [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Numbers)
 	- Numbers
 	- Strings
