@@ -157,8 +157,9 @@
 		<!--Footer with comments-->
 		<footer>
 			<p>
-				<a href="#">Try now</a> for 14 days. No credit card required. Header
-				image courtesy of <a href ="#">Unsplash</a>.
+				<a href="#">Try now</a> for 14 days. No credit
+				card required. Header image courtesy of 
+				<a href ="#">Unsplash</a>.
 			</p>
 		</footer>
 
