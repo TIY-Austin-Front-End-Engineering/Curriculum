@@ -21,7 +21,7 @@
 
 # Day 3: CSS Property Review and Mobile First Development
 
-# Review
+## Review
 - Work on responsive design group project.
 
 ## Goals

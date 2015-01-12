@@ -2,7 +2,7 @@
 
 # Day 4: git, GitHub and HTML/CSS quirks
 
-# Review
+## Review
 - Work on responsive design group project.
 
 ## Goals

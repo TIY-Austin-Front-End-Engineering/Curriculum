@@ -9,7 +9,7 @@
 
 # Day 2: CSS Review and Introduction to the Command Line
 
-# Review
+## Review
 - Have everyone talk about a HTML element or CSS property that they learned about.
 - Different types of paths
 - Project folder structure
