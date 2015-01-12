@@ -164,3 +164,16 @@ section .logo {
 }
 
 ```
+
+## Problem 2
+### What color will the logo text be?
+```css
+div.logo {
+	color: orange;
+}
+
+section .logo {
+	color: yellow;
+}
+
+```
