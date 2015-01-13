@@ -6,6 +6,7 @@
 
 ### Week 2
 
+* [Day 6: Intro to Javascript and Bootstrap](/day-6)
 * [Day 5: Specificity, SASS and Form Elements](/day-5)
 
 ### Week 1
