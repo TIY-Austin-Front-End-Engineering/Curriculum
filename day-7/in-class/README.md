@@ -1,4 +1,7 @@
 # Questions
+
+With a partner take turns answering each of the following questions and explaining what the answer is and why. Pair program the last three exercises, alternating which person is at the keyboard and which person is dictating what to write.
+
 ### 1. What does the following expression return?
 ```js
 4 > 1;
