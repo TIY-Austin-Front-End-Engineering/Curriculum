@@ -1,5 +1,40 @@
 [Table of Contents](/README.md)
 
+> @todo (Notes for Aaron):
+> - We didn't get a chance to talk about bootstrap.
+> - types:
+> 	- number
+> 	- string
+> 	- boolean
+> 	- converting between types
+> 		- parseInt(...)
+> 		- parseFloat(...)
+> 		- toString(...)
+> 		- Boolean(...)
+> - math / string operators
+> 	- +
+> 	- -
+> 	- /
+> 	- *
+> 	- +
+> - logical operators
+> 	- ==
+> 	- ===
+> 	- !=
+> 	- !==
+> 	- &&
+> 	- ||
+> 	- !
+> - math functions
+> 	- Math.random()
+> 	- Math.ceil()
+> 	- Math.floor()
+> 	- Math.round()
+> 	- floating point arithmetic (0.1 + 0.2)
+> - string properties / functions
+>	- .charAt(...)
+> 	- .length
+
 # Day 6: Intro to Javascript and Bootstrap
 
 ## Review
