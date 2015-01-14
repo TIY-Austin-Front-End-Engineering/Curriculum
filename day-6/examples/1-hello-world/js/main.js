@@ -93,7 +93,7 @@
 // }
 
 
-console.log(Math.random());
+// console.log(Math.random());
 
 // console.log(Math.ceil(5.7));
 // console.log(Math.ceil(5.1));
@@ -125,12 +125,53 @@ console.log(Math.random());
 
 // prompt('number');
 
-var name = prompt('What is your name?');
+// var name = prompt('What is your name?');
 
-console.log('Hi ' name '! I hope you\'re having a great day.');
+// console.log('Hi ' name '! I hope you\'re having a great day.');
 
 
 // console.log(1+2);
 // console.log('1'+'2');
 
 
+
+// var random = Math.random();
+
+// while(!(random < 0.8)) {
+// 	console.log(random);
+// 	random = Math.random();
+// }
+
+// console.log(random);
+
+
+// var counter = 0;
+
+// while(counter < 10) {
+// 	console.log(counter);
+// 	counter = counter + 1;
+// }
+
+// for(var counter=3; counter<11; counter++) {
+// 	console.log(counter);
+// }
+
+// var number = '31415';
+
+// console.log(number.length);
+
+// console.log(1+2);
+// console.log('1'+'2');
+// console.log('abc'+'aaa');
+
+var unencryptedName = window.prompt('What do you want to encrypt?');
+
+var encryptedName = '';
+
+for(var i=0; i<unencryptedName.length; i++) {
+	var asciiValue = unencryptedName.charCodeAt(i);
+	asciiValue += 13;
+	encryptedName = encryptedName + String.fromCharCode(asciiValue);
+}
+
+console.log(encryptedName);

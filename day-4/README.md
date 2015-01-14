@@ -1,9 +1,24 @@
 [Table of Contents](/README.md)
 
-# Day 4: git, GitHub and HTML/CSS quirks
+> @todo (Notes for Aaron):
+> - Overall went pretty well
+> - didn't get a chance to go over git.
+> - cover the following CSS properties/tricks
+>	- fixed px margin on element that stretches full width of page
+>	- text-transform
+>	- color
+>	- :hover
+>	- text-shadow
+>	- text-align
+>	- font-weight
+>	- border
+>	- :first-child / :last-child
+>	- border-radius
+>	- text-decoration
+>	- font-family / how it cascades
 
-## Review
-- Work on responsive design group project.
+
+# Day 4: git, GitHub and HTML/CSS quirks
 
 ## Goals
 - Install git, set up github account.
