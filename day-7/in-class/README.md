@@ -51,7 +51,7 @@ if ("candy" === 8) {
 if (5) { console.log("I like peanuts"); }
 ```
 
-### 8. What doe the following expression print to the console?
+### 8. What does the following expression print to the console?
 
 ```js
 if ("") {
