@@ -7,7 +7,7 @@
 - [Javascript worksheet](/day-7/in-class/README.md)
 
 ## Goals
-- Javascript Math.random(), window.prompt(), typeof(), control structures, arrays, objects, functions
+- Javascript Math.random(), window.prompt(), typeof(), control structures, loops, functions
 - Intro to jQuery
 
 ## In-class assignment
