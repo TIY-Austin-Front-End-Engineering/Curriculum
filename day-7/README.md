@@ -4,9 +4,10 @@
 
 ## Review
 - Surf and Paddle homework
+- Javascript worksheet
 
 ## Goals
-- Javascript control structures, arrays, objects, functions
+- Javascript Math.random(), typeof(), control structures, arrays, objects, functions
 - Intro to jQuery
 
 ## In-class assignment
