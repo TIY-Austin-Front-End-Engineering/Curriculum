@@ -78,11 +78,11 @@
 
 // console.log('thi' == false);
 
-var myName = 'Bob';
+// var myName = 'Bob';
 
 
 
-myName = 'Aaron';
+// myName = 'Aaron';
 
 // if(myName === 'Aaron') {
 // 	console.log('Hey '+myName+', how\'s it going?');
@@ -92,11 +92,45 @@ myName = 'Aaron';
 // 	console.log('Get off the podium '+myName);
 // }
 
-var test = window.prompt("Enter your guess", "Number from 1 to 9");
-console.log(test);
+
+console.log(Math.random());
+
+// console.log(Math.ceil(5.7));
+// console.log(Math.ceil(5.1));
+
+// console.log(Math.floor(5.7));
+// console.log(Math.floor(5.1));
+
+// console.log(Math.ceil(5.0));
+
+// console.log(0.3);
+
+// console.log(Math.round(5.1));
+// console.log(Math.round(5.5));
+
+// var test = window.prompt("Enter your guess", "Number from 1 to 9");
+// console.log(test);
+
+// console.log(typeof(123));
+
+// console.log(typeof(123) === 'number');
 
 
+// console.log(typeof('number'));
+// console.log(typeof(NaN));
+// console.log(typeof(console.log));
+// console.log(typeof(typeof));
+
+// console.log(typeof window.prompt);
+
+// prompt('number');
+
+var name = prompt('What is your name?');
+
+console.log('Hi ' name '! I hope you\'re having a great day.');
 
 
+// console.log(1+2);
+// console.log('1'+'2');
 
 
