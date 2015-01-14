@@ -33,7 +33,7 @@ if(5 > 10) {
 }
 ```
 
-### 8. What does the following expression print to the console?
+### 6. What does the following expression print to the console?
 
 ```js
 if ("candy" === 8) {
@@ -45,13 +45,13 @@ if ("candy" === 8) {
 }
 ```
 
-### 9. What does the following expression print to the console?
+### 7. What does the following expression print to the console?
 
 ```js
 if (5) { console.log("I like peanuts"); }
 ```
 
-### 10. What doe the following expression print to the console?
+### 8. What doe the following expression print to the console?
 
 ```js
 if ("") {
@@ -63,62 +63,62 @@ if ("") {
 }
 ```
 
-### 11. What does the following expression return?
+### 9. What does the following expression return?
 
 ```js
 !false;
 ```
 
-### 12. What does the following expression print to the console?
+### 10. What does the following expression print to the console?
 
 ```js
 if (!undefined) console.log("This syntax is weird…");
 ```
 
-### 13. What does the following expression return?
+### 11. What does the following expression return?
 
 ```js
 3 + 2;
 ```
 
-### 14. What does the following expression return?
+### 12. What does the following expression return?
 
 ```js
 typeof(3);
 ```
 
-### 15. What does the following expression return?
+### 13. What does the following expression return?
 
 ```js
 typeof(3) === typeof(4.32);
 ```
 
-### 16. What does the following expression return?
+### 14. What does the following expression return?
 
 ```js
 5 / 0;
 ```
 
-### 17. What does the following expression return?
+### 15. What does the following expression return?
 
 ```js
 3 / "bob";
 ```
 
-### 18. What does the following expression return?
+### 16. What does the following expression return?
 
 ```js
 var y;
 y === "cool";
 ```
 
-### 19. What does the following expression return?
+### 17. What does the following expression return?
 
 ```js
 "some" + " person";
 ```
 
-### 20. What does the following expression return?
+### 18. What does the following expression return?
 
 ```js
 var first = "Bart";
@@ -126,21 +126,21 @@ var last = "Simpson";
 first + " " + last;
 ```
 
-### 21. What does the following expression return?
+### 19. What does the following expression return?
 
 ```js
 "cool".length;
 ```
 
-### 22. What does the following expression return?
+### 20. What does the following expression return?
 
 ```js
 3 + "bob";
 ```
 
-### 23. Set the variable hobby to the string "programming".
+### 21. Set the variable hobby to the string "programming".
 
-### 24. What does the following expression return?
+### 22. What does the following expression return?
 
 ```js
 var sport; 
