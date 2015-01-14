@@ -4,6 +4,7 @@
 
 ## Review
 - Surf and Paddle homework
+- Github pull request exercise
 
 ## Goals
 - Intro to Javascript: types, variables, operators, control structures
