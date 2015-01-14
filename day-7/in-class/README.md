@@ -6,36 +6,41 @@
 
 ### 2. What does the following expression return?
 
+```js
 "chatty" === "chatty";
+```
 
-### 3. What does the following expression return?
+### 3. Print the string "I just ate a lot" to the console.
 
-"chatty" === "chatty";
+### 4.  What does the following expression print to the console?
 
-### 4. Print the string "I just ate a lot" to the console.
-
-### 5.  What does the following expression print to the console?
-
+```js
 if(5 === 5) {
   console.log("This code is executed")
 }
+```
 
-### 6. What does the following expression print to the console?
+### 5. What does the following expression print to the console?
 
+```js
 if(5 > 10) {
   console.log("Not so sure about this")
 }
+```
 
-### 7. What does the following expression print to the console?
+### 6. What does the following expression print to the console?
 
+```js
 if (5 > 10) {
   console.log("Not so sure about this");
 } else {
   console.log("walking dead");
 }
+```
 
-### 8. What does the following expression print to the console?
+### 7. What does the following expression print to the console?
 
+```js
 if ("candy" === 8) {
   console.log("do something with your life");
 } else if ("blah" === "blah") {
@@ -43,13 +48,17 @@ if ("candy" === 8) {
 } else {
   console.log("people are strange");
 }
+```
 
-### 9. What does the following expression print to the console?
+### 8. What does the following expression print to the console?
 
+```js
 if (5) { console.log("I like peanuts"); }
+```
 
-### 10. What doe the following expression print to the console?
+### 9. What doe the following expression print to the console?
 
+```js
 if ("") {
   console.log("program more");
 } else if ("cool") {
@@ -57,64 +66,91 @@ if ("") {
 } else {
   console.log("blah");
 }
+```
 
-### 11. What does the following expression return?
+### 10. What does the following expression return?
 
+```js
 !false
+```
 
-### 12. What does the following expression print to the console?
+### 11. What does the following expression print to the console?
 
+```js
 if (!undefined) console.log("This syntax is weird…");
+```
+
+### 12. What does the following expression return?
+
+```js
+3 + 2;
+```
 
 ### 13. What does the following expression return?
 
-3 + 2;
+```js
+typeof(3);
+```
 
 ### 14. What does the following expression return?
 
-typeof(3);
+```js
+typeof(3) === typeof(4.32);
+```
 
 ### 15. What does the following expression return?
 
-typeof(3) === typeof(4.32);
+```js
+5 / 0;
+```
 
 ### 16. What does the following expression return?
 
-5 / 0;
+```js
+3 / "bob";
+```
 
 ### 17. What does the following expression return?
 
-3 / "bob";
+```js
+var y;
+y === "cool";
+```
 
 ### 18. What does the following expression return?
 
-var y;
-y === "cool";
+```js
+"some" + " person";
+```
 
 ### 19. What does the following expression return?
 
-"some" + " person";
-
-### 20. What does the following expression return?
-
+```js
 var first = "Bart";
 var last = "Simpson";
 first + " " + last;
+```
+
+### 20. What does the following expression return?
+
+```js
+"cool".length;
+```
 
 ### 21. What does the following expression return?
 
-"cool".length;
-
-### 22. What does the following expression return?
-
+```js
 3 + "bob"
+```
 
-### 23. Set the variable hobby to the string "programming".
+### 22. Set the variable hobby to the string "programming".
 
-### 24. What does the following expression return?
+### 23. What does the following expression return?
 
+```js
 var sport; 
 sport === undefined
+```
 
 # Exercises
 
