@@ -16,7 +16,7 @@
 
 ```js
 if(5 === 5) {
-  console.log("This code is executed")
+  console.log("This code is executed");
 }
 ```
 
@@ -24,7 +24,7 @@ if(5 === 5) {
 
 ```js
 if(5 > 10) {
-  console.log("Not so sure about this")
+  console.log("Not so sure about this");
 }
 ```
 
@@ -71,7 +71,7 @@ if ("") {
 ### 10. What does the following expression return?
 
 ```js
-!false
+!false;
 ```
 
 ### 11. What does the following expression print to the console?
@@ -140,7 +140,7 @@ first + " " + last;
 ### 21. What does the following expression return?
 
 ```js
-3 + "bob"
+3 + "bob";
 ```
 
 ### 22. Set the variable hobby to the string "programming".
@@ -149,7 +149,7 @@ first + " " + last;
 
 ```js
 var sport; 
-sport === undefined
+sport === undefined;
 ```
 
 # Exercises
