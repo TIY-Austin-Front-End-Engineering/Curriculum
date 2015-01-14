@@ -4,10 +4,10 @@
 
 ## Review
 - Surf and Paddle homework
-- Javascript worksheet
+- [Javascript worksheet](/day-7/in-class/README.md)
 
 ## Goals
-- Javascript Math.random(), typeof(), control structures, arrays, objects, functions
+- Javascript Math.random(), window.prompt(), typeof(), control structures, arrays, objects, functions
 - Intro to jQuery
 
 ## In-class assignment
