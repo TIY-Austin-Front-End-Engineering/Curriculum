@@ -19,3 +19,6 @@
 	- Use functions to organize your code.
 	- Be sure to validate all function arguments.
 	- Use [Bootstrap](http://getbootstrap.com) to style the page with instructions on how to play the game.
+
+# Resources
+- [MDN Javascript Language Resource](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
