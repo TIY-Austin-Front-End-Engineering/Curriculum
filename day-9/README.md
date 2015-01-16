@@ -16,7 +16,7 @@
 # Assignment
 ## Don't forget to validate all the arguments of your functions and throw errors if the argurments are incorrect!
 1. Create a function that takes an array of values and returns one randonly selected value from that array.
-2. Create a function that takes an unencrypted string and returns the ROT-13 version of that string. This is slightly different but similar to the example we did in class.
+2. Create a function that takes an unencrypted string and returns the [ROT-13](http://en.wikipedia.org/wiki/ROT13) version of that string. This is slightly different but similar to the example we did in class.
 3. Create a function that takes a ROT-13 encrypted string and returns the decrypted version of that string.
 4. Create a function that takes an unencrypted string and an integer (n) and returns the ROT-N version of that string.
 5. Create a javascript function that takes an array of student names and returns an array of randomly selected pairs of students (array of arrays).
