@@ -31,3 +31,4 @@
 
 # Resources
 - [MDN Javascript Array Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [w3schools hider](https://chrome.google.com/webstore/detail/w3schools-hider/igiahejkpbnbnekdaefddmdceocmjpll?hl=en-US)
