@@ -6,6 +6,9 @@
 
 ### Week 2
 
+* [Day 9: Javascript arrays](/day-9)
+* [Day 8: Javascript function and objects](/day-8)
+* [Day 7: Javascript and jQuery](/day-7)
 * [Day 6: Intro to Javascript and Bootstrap](/day-6)
 * [Day 5: Specificity, SASS and Form Elements](/day-5)
 
