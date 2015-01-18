@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 11: jQuery Review and How to Learn as a Developer
+# Day 11: JSHint, AJAX and lodash
 
 ## Review
 - Layout example
@@ -8,6 +8,7 @@
 
 ## Goals
 - Understand the power and limitations of jQuery
+- Understand variable scope
 - How to Learn as a Developer
 	- Google / StackOverflow
 	- MDN Documentation

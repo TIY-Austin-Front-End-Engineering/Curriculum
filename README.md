@@ -6,7 +6,9 @@
 
 ### Week 3
 
-* [Day 10: Yeoman and DOM Events](/day-10)
+* [Day 12: JSHint, AJAX and lodash](/day-12)
+* [Day 11: jQuery Review, Scoping and How to Learn as a Developer](/day-11)
+* [Day 10: Yeoman, Objects and DOM Events](/day-10)
 
 ### Week 2
 

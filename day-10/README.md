@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 10: Yeoman, Objects and DOM Events
+# Day 10: Debugging Techniques, Yeoman and Objects
 
 ## Review
 - Breadcrumbs leaderboard
@@ -8,11 +8,18 @@
 - Class partner picker
 
 ## Goals
+- JSHint, "use strict"
+	- In class: Use these tools to fix all bugs in your weekend homework assignment.
 - Install and use Yeoman
-- Understand JS Objects and dot notation (including Date object)
-- DOM Events (and setTimeout / setInterval)
+- Understand JS Objects and dot notation
 
-# Goal 1: Install and use Yeoman
+# Goal 1: Using JSHint and "use strict" to make sure we write clean code
+
+Install the [JSHint sublime package](https://packagecontrol.io/packages/JSHint). Running this package will review all of your javascript code and ensure that you aren't doing anything horribly wrong.
+
+[Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode) prevents us from doing things that we shouldn't be doing in the first place. Use it at the beginning of your functions. Any function inside of a "use script" function is also considered strict.
+
+# Goal 2: Install and use Yeoman
 ## Install Yeoman
 > You will only ever need to do this once.
 
@@ -29,10 +36,16 @@
 5. Serve your new webapp: `gulp serve`
 > You need to run this command each time you start working on your web app. It will watch your scss files, run a local webserver and automatically reload your page when it detects changes.
 
+# Goal 3: Understand JS Objects and dot notation
+
+Good information here: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 
 # Assignment
-
+1. HTML assignment
+2. Read: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
+2. Javascript object assignment
 
 # Resources
+- [JSHint sublime package](https://packagecontrol.io/packages/JSHint)
 - [Yeoman getting started](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - [MDN Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)

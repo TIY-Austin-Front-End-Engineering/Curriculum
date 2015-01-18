@@ -1,14 +1,12 @@
 [Table of Contents](/README.md)
 
-# Day 10: Yeoman and DOM Events
+# Day 12: JSHint, AJAX and lodash
 
 ## Review
-- Breadcrumbs leaderboard
-- Variables as a box analogy
-- Class partner picker
+
 
 ## Goals
-- Install and use Yeoman
+- Use JSHint to check our code
 - How to read MDN documentation
 - Javascript objects
 
