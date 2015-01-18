@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 9: Yeoman, Objects and Events
+# Day 10: Yeoman, Objects and Events
 
 ## Review
 - Breadcrumbs leaderboard

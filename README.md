@@ -4,6 +4,10 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 3
+
+* [Day 10: Yeoman, Objects and Events](/day-10)
+
 ### Week 2
 
 * [Day 9: Javascript arrays](/day-9)
