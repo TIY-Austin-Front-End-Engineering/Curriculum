@@ -1,15 +1,16 @@
 [Table of Contents](/README.md)
 
-# Day 10: Yeoman, Objects and Events
+# Day 10: Yeoman, Objects and DOM Events
 
 ## Review
 - Breadcrumbs leaderboard
+- Variables as a box analogy
 - Class partner picker
 
 ## Goals
 - Install and use Yeoman
+- How to read MDN documentation
 - Javascript objects
-- Javascript events
 
 # Goal 1: Install and use Yeoman
 ## Install Yeoman
@@ -32,6 +33,6 @@
 # Assignment
 
 
-
 # Resources
 - [Yeoman getting started](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [MDN Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
