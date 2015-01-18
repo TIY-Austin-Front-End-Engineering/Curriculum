@@ -6,7 +6,7 @@
 
 ### Week 3
 
-* [Day 10: Yeoman, Objects and Events](/day-10)
+* [Day 10: Yeoman and DOM Events](/day-10)
 
 ### Week 2
 

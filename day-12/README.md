@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 10: Yeoman, Objects and DOM Events
+# Day 10: Yeoman and DOM Events
 
 ## Review
 - Breadcrumbs leaderboard
@@ -9,8 +9,8 @@
 
 ## Goals
 - Install and use Yeoman
-- Understand JS Objects and dot notation (including Date object)
-- DOM Events (and setTimeout / setInterval)
+- How to read MDN documentation
+- Javascript objects
 
 # Goal 1: Install and use Yeoman
 ## Install Yeoman
