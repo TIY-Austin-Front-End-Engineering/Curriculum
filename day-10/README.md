@@ -42,15 +42,15 @@ Install the [JSHint sublime package](https://packagecontrol.io/packages/JSHint).
 Good information here: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 
 # Assignment
-1. Using Yeoman and Sass, build out the [mobile](/day-10/assignment/mobile.png) and [tablet](/day-10/assignment/tablet.png) versions of this website. All fonts are available from [google fonts](https://www.google.com/fonts).
+1. [Javascript object assignment](/day-10/assignments/assignment-1);
+2. Using Yeoman and Sass, build out the [mobile](/day-10/assignments/assignment-2/mobile.png) and [tablet](/day-10/assignments/assignment-2/tablet.png) versions of this website. All fonts are available from [google fonts](https://www.google.com/fonts).
 	- Cursive name font: Pacifico
 	- Body font: Lato
 	- Heading font: Open Sans Condensed
-	- Images can be found here: [/day-10/assignment/images](/day-10/assignment/images)
-2. Read: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
-3. Javascript object assignment
+	- Images can be found here: [/day-10/assignments/assignment-2/images](/day-10/assignments/assignment-2/images)
+3. Read: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 4. Hard mode: use [jquery scrollTop](http://api.jquery.com/scrolltop/) and a [jQuery click](http://api.jquery.com/click/) event to cause the window to smoothly scroll to the top of the page when a user clicks on the up arrow on the mobile version of the webisite for assignment #1.
-5. Insane mode: build out the [desktop version](/day-10/assignment/desktop.png) of the website for assignment #1.
+5. Insane mode: build out the [desktop version](/day-10/assignments/assignment-2/desktop.png) of the website for assignment #1.
 
 # Resources
 - [JSHint sublime package](https://packagecontrol.io/packages/JSHint)
