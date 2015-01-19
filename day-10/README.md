@@ -42,7 +42,7 @@ Install the [JSHint sublime package](https://packagecontrol.io/packages/JSHint).
 Good information here: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 
 # Assignment
-1. Build out the mobile and tablet versions of this website. All fonts are available from [google fonts](https://www.google.com/fonts).
+1. Build out the [mobile](/day-10/assignment/mobile.png) and [tablet](/day-10/assignment/tablet.png) versions of this website. All fonts are available from [google fonts](https://www.google.com/fonts).
 	- Cursive name font: Pacifico
 	- Body font: Lato
 	- Heading font: Open Sans Condensed
