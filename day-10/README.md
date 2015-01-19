@@ -48,7 +48,9 @@ Good information here: [Javascript Tutorial: Objects](http://javascript.info/tut
 	- Heading font: Open Sans Condensed
 	- Images can be found here: [/day-10/assignment/images](/day-10/assignment/images)
 2. Read: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
-2. Javascript object assignment
+3. Javascript object assignment
+4. Hard mode: use [jquery scrollTop](http://api.jquery.com/scrolltop/) and a [jQuery click](http://api.jquery.com/click/) event to cause the window to smoothly scroll to the top of the page when a user clicks on the up arrow on the mobile version of the webisite for assignment #1.
+5. Insane mode: build out the [desktop version](/day-10/assignment/desktop.png) of the website for assignment #1.
 
 # Resources
 - [JSHint sublime package](https://packagecontrol.io/packages/JSHint)
