@@ -42,7 +42,11 @@ Install the [JSHint sublime package](https://packagecontrol.io/packages/JSHint).
 Good information here: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 
 # Assignment
-1. HTML assignment
+1. Build out the mobile and tablet versions of this website. All fonts are available from [google fonts](https://www.google.com/fonts).
+	- Cursive name font: Pacifico
+	- Body font: Lato
+	- Heading font: Open Sans Condensed
+	- Images can be found here: [/day-10/assignment/images](/day-10/assignment/images)
 2. Read: [Javascript Tutorial: Objects](http://javascript.info/tutorial/objects)
 2. Javascript object assignment
 
