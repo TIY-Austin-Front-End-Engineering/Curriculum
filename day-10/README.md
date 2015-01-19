@@ -4,6 +4,7 @@
 
 ## Review
 - Breadcrumbs leaderboard
+- Difference between inline, inline-block, block, and floated block
 - Variables as a box analogy
 - Class partner picker
 

@@ -1,36 +1,22 @@
 [Table of Contents](/README.md)
 
-# Day 12: JSHint, AJAX and lodash
+# Day 12: jQuery and Scoping
 
 ## Review
-
+- Vanilla JS events
+- jQuery selectors
 
 ## Goals
-- Use JSHint to check our code
-- How to read MDN documentation
-- Javascript objects
-
-# Goal 1: Install and use Yeoman
-## Install Yeoman
-> You will only ever need to do this once.
-
-1. brew install node
-2. sudo npm install -g yo bower gulp generator-gulp-webapp
-
-## Use Yeoman for a new project
-> You will repeat this process for every new project and homework assignment that you create.
-
-1. Create a new repo on GitHub
-2. Clone your repo into your projects folder
-3. On the command line, `cd` to the new directory that was created when you cloned the repo.
-4. Generate the code for your new app: `yo webapp`
-5. Serve your new webapp: `gulp serve`
-> You need to run this command each time you start working on your web app. It will watch your scss files, run a local webserver and automatically reload your page when it detects changes.
+- Learn how events work in jQuery
+- Learn how scoping works in Javascript
 
 
 # Assignment
-
+1. Read up on how to use [window.localstorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage)
+2. Read up on jquery [$.ajax](http://api.jquery.com/jQuery.ajax/), [$.get](http://api.jquery.com/jQuery.get/), and [$.post](http://api.jquery.com/jQuery.post/)
 
 # Resources
-- [Yeoman getting started](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [MDN Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [jQuery Documentation](http://api.jquery.com/)
+- [jQuery Events Documentation](http://api.jquery.com/category/events/)
+- [Everything you wanted to know about Javascript scope](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+- [Function Scopes](http://bonsaiden.github.io/JavaScript-Garden/#function.scopes)
