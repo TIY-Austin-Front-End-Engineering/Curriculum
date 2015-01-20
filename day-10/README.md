@@ -33,7 +33,7 @@ Install the [JSHint sublime package](https://packagecontrol.io/packages/JSHint).
 1. Create a new repo on GitHub
 2. Clone your repo into your projects folder
 3. On the command line, `cd` to the new directory that was created when you cloned the repo.
-4. Generate the code for your new app: `yo webapp`
+4. Generate the code for your new app: `yo gulp-webapp`
 5. Serve your new webapp: `gulp serve`
 > You need to run this command each time you start working on your web app. It will watch your scss files, run a local webserver and automatically reload your page when it detects changes.
 
