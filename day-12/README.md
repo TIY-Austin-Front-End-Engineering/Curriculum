@@ -9,6 +9,7 @@
 ## Goals
 - Learn how events work in jQuery
 - Learn how scoping works in Javascript
+- Github pages
 
 
 # Assignment
