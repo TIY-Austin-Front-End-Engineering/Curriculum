@@ -18,6 +18,6 @@
 # Assignment
 1. Read: [Everything you wanted to know about Javascript scope](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 1. Read: [This walkthrough (only the part on function scopes and namespaces)](http://bonsaiden.github.io/JavaScript-Garden/#function.scopes)
-1. Color clock
+1. Build a web based clock that keeps track of the current time and changes its background color each second. Please don't give me a siezure. Color changes should be gradual and not flash randomly on the screen.
 
 # Resources
