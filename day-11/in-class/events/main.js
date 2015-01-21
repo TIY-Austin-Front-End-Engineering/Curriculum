@@ -13,7 +13,7 @@
 // function moveRight() {
 // 	var animateMe = document.getElementById('animate-me');
 // 	var leftMargin = parseInt(animateMe.style.marginLeft);
-// 	if(!leftMargin) {
+// 	if(Boolean(leftMargin) === false) {
 // 		leftMargin = 0;
 // 	}
 // 	leftMargin += 1;
@@ -42,17 +42,29 @@
 // var intervalId = setInterval(moveRight, 10);
 
 var animateMe = document.getElementById('animate-me');
+// animateMe.innerHTML = 'this is a test';
 
-animateMe.addEventListener('dblclick', onRedBoxClick);
+// animateMe.addEventListener('dblclick', onRedBoxClick);
 
 
-function onRedBoxClick() {
-	console.log(animateMe);
-	if(animateMe.style.backgroundColor === 'red') {
-		animateMe.style.backgroundColor = 'black';
-	}
-	else {
-		animateMe.style.backgroundColor = 'red';
-	}
+// function onRedBoxClick() {
+// 	var colors = [50, 50, 50];
+// 	var color = 'rgb('+colors.join(',')+')';
+// 	console.log(color);
+// 	animateMe.style.backgroundColor = color;
+// 	if(animateMe.style.backgroundColor === 'red') {
+// 		animateMe.style.backgroundColor = 'black';
+// 	}
+// 	else {
+// 		animateMe.style.backgroundColor = 'red';
+// 	}
 	
-}
+// }
+
+
+// var currentDate = new Date();
+// console.log(currentDate);
+
+// for(var i in currentDate.p) {
+// 	console.log(i);
+// }
