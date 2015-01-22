@@ -1,0 +1,20 @@
+{
+  "name": "day-12-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TIY-Austin-Front-End-Engineering/Jan2015",
+  "authors": [
+    "Aaron Larner <anlarner@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
