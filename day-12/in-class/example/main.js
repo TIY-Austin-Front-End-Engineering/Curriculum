@@ -108,36 +108,63 @@
 // 	console.log($(window).width());
 // }
 
-function randomStudent(students) {
-	if(!(students instanceof Array)) {
-		throw 'First argument must be an array.';
+// function randomStudent(students) {
+// 	if(!(students instanceof Array)) {
+// 		throw 'First argument must be an array.';
+// 	}
+
+// 	if(!students.length) {
+// 		throw 'You must have at least one student.';
+// 	}
+
+// 	if(students.length%2 !== 0) {
+// 		throw 'The number of students must be even.';
+// 	}
+
+// 	var result = [];
+
+// 	do {
+// 		var pair = [];
+// 		var studentIndex = Math.floor(Math.random()*students.length);
+
+// 		var firstStudent = students.splice(studentIndex, 1);
+// 		pair.push(firstStudent[0]);
+
+// 		studentIndex = Math.floor(Math.random()*students.length);
+// 		var secondStudent = students.splice(studentIndex, 1);
+// 		pair.push(secondStudent[0]);
+
+// 		result.push(pair);
+// 	} while(students.length > 0);
+
+// 	return result; // Array of student pairs
+// }
+
+
+// function a() {
+// 	var foo = 'bar';
+// 	console.log(foo);
+// }
+
+// console.log(foo);
+
+
+(function() {
+	counter = 0;
+	console = 'this is the console';
+
+	$('#text').click(onTextClick);
+
+	function onTextClick() {
+		counter++;
+		// console.log(counter);
+
+		if(true) {
+			var test = 'test';
+		}
 	}
 
-	if(!students.length) {
-		throw 'You must have at least one student.';
+	function myTestFunction() {
+		console.log('myTestFunction');
 	}
-
-	if(students.length%2 !== 0) {
-		throw 'The number of students must be even.';
-	}
-
-	var result = [];
-
-	do {
-		var pair = [];
-		var studentIndex = Math.floor(Math.random()*students.length);
-
-		var firstStudent = students.splice(studentIndex, 1);
-		pair.push(firstStudent[0]);
-
-		studentIndex = Math.floor(Math.random()*students.length);
-		var secondStudent = students.splice(studentIndex, 1);
-		pair.push(secondStudent[0]);
-
-		result.push(pair);
-	} while(students.length > 0);
-
-	return result; // Array of student pairs
-}
-
-
+})();

@@ -4,6 +4,12 @@
 var gulp = require('gulp');
 var $ = require('gulp-load-plugins')();
 
+console.log(process.argv);
+
+/**
+ * Push build to gh-pages
+ */
+
 gulp.task('styles', function () {
   return gulp.src('app/styles/main.scss')
     .pipe($.plumber())
@@ -80,14 +86,14 @@ gulp.task('connect', ['styles'], function () {
     .use(serveIndex('app'));
 
   require('http').createServer(app)
-    .listen(9000)
+    .listen(9001)
     .on('listening', function () {
-      console.log('Started connect web server on http://localhost:9000');
+      console.log('Started connect web server on http://localhost:9001');
     });
 });
 
 gulp.task('serve', ['connect', 'watch'], function () {
-  require('opn')('http://localhost:9000');
+  require('opn')('http://localhost:9001');
 });
 
 // inject bower components

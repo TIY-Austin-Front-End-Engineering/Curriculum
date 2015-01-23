@@ -1,13 +1,13 @@
 [Table of Contents](/README.md)
 
-# Day 13: AJAX! and lodash
+# Day 13: AJAX!
 
 ## Review
-- Javascript scoping (in-class assignment)
+- HTML 4 col navigation
+- New gulp generator: `npm install -g git+https://github.com/alarner/generator-tiyfe.git`
 
 ## Goals
 - Learn how to query an API with Javascript (IMDB)
-- Why is lodash useful? How do we use it?
 - window.localstorage
 
 
