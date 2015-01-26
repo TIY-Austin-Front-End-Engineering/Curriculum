@@ -7,7 +7,6 @@
 - Group project
 - HTML 4 col navigation
 - Javascript function arguments
-- brew install wget
 - Postman
 
 ## Goals
