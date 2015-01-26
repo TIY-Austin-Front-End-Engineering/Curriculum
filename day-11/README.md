@@ -1,4 +1,6 @@
 [Table of Contents](/README.md)
+> @todo (Notes for Aaron):
+> - Didn't get a chance to go over DOM events.
 
 # Day 11: How to read documentation, DOM manipulation and Events
 

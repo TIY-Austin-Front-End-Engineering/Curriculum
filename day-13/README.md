@@ -1,4 +1,6 @@
 [Table of Contents](/README.md)
+> @todo (Notes for Aaron):
+> - Didn't get a chance to go over any of this because we were having too many issues with yeoman.
 
 # Day 13: AJAX!
 

@@ -4,6 +4,13 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 4
+
+* [Day 17: AJAX!](/day-13)
+* [Day 16: jQuery and Scoping](/day-12)
+* [Day 15: How to read documentation, DOM manipulation and Events](/day-11)
+* [Day 14: Debugging Techniques, Yeoman and Objects](/day-10)
+
 ### Week 3
 
 * [Day 13: AJAX!](/day-13)

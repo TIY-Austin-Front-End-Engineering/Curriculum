@@ -1,4 +1,6 @@
 [Table of Contents](/README.md)
+> @todo (Notes for Aaron):
+> - SHould have an in-class assignment for this day.
 
 # Day 12: jQuery and Scoping
 
