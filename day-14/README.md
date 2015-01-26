@@ -18,9 +18,10 @@
 3. Update assignment 2 to display the response from IMDB in a table inside of the results box (instead of console.log'ing it).
 4. **Hard Mode:** Update your results box to allow your user to click on a result to add it to another list of movies that they want to watch (their "to watch" list).
 5. **Extra Hard Mode:** Allow your user to move movies from their "to watch" list to a new "watched" list (movies that they have already seen).
-6. **Insane Mode:** Save the users lists using window.localStorage so that when you refresh the browser window their previous lists still appear.
+6. **Insane Mode:** Save the users lists using [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage) so that when you refresh the browser window their previous lists still appear.
 
 
 
 # Resources
-- [lodash Documentation](https://lodash.com/docs)
+- [IMDB API](http://www.omdbapi.com/)
+- [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage)
