@@ -1,6 +1,7 @@
 [Table of Contents](/README.md)
 
 > @todo (Notes for Aaron):
+- > Variables as a box analogy
 > - We didn't get a chance to talk about bootstrap.
 > - types:
 > 	- number

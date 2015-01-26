@@ -1,3 +1,7 @@
+> @todo (Notes for Aaron):
+> - Yeoman was more trouble than it's worth
+
+
 [Table of Contents](/README.md)
 
 # Day 10: Debugging Techniques, Yeoman and Objects
