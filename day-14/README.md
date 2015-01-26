@@ -3,6 +3,7 @@
 # Day 14: AJAX and APIs!
 
 ## Review
+- Group project
 - HTML 4 col navigation
 - Javascript function arguments
 - brew install wget

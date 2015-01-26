@@ -49,6 +49,7 @@
 - Understand how to use lodash type checking.
 - Understand how to use lodash iteration functions.
 - Understand how to use lodash templating.
+- Start talking about constructors
 
 # Assignment
 1. Update your IMDB movie project from day 14 to use lodash templates instead of regular HTML strings with jQuery.
@@ -61,9 +62,4 @@
 5. **Extra Hard Mode:** Allow your user to move movies from their "to watch" list to a new "watched" list (movies that they have already seen).
 6. **Insane Mode:** Save the users lists using [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage) so that when you refresh the browser window their previous lists still appear.
 
-
-
 # Resources
-- [IMDB API](http://www.omdbapi.com/)
-- [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage)
-- [Postman chrome plugin](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
