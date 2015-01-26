@@ -6,10 +6,10 @@
 
 ### Week 4
 
-* [Day 17: AJAX!](/day-13)
-* [Day 16: jQuery and Scoping](/day-12)
-* [Day 15: How to read documentation, DOM manipulation and Events](/day-11)
-* [Day 14: Debugging Techniques, Yeoman and Objects](/day-10)
+* [Day 17: Group project - chat application](/day-17)
+* [Day 16: Constructors and polling](/day-16)
+* [Day 15: lodash and constructors](/day-15)
+* [Day 14: AJAX!](/day-14)
 
 ### Week 3
 
