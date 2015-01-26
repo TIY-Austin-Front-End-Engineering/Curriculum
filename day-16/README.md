@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 14: AJAX and APIs!
+# Day 13: AJAX!
 
 ## Review
 - HTML 4 col navigation
