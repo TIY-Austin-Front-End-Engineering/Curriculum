@@ -6,6 +6,7 @@
 - HTML 4 col navigation
 - Javascript function arguments
 - brew install wget
+- Postman
 
 ## Goals
 - $.get and $.post
@@ -25,3 +26,4 @@
 # Resources
 - [IMDB API](http://www.omdbapi.com/)
 - [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage)
+- [Postman chrome plugin](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
