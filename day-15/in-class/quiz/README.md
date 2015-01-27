@@ -35,7 +35,12 @@ console.log(parseInt('123a'));
 console.log(typeof Math.random());
 ```
 
-## 5.
+## 6.
+```js
+console.log(typeof Math);
+```
+
+## 7.
 ```js
 var computers = ['Apple', 'Dell', 'HP', 'Sony'];
 for(var x=0; x<computers.length; x++) {
@@ -43,7 +48,7 @@ for(var x=0; x<computers.length; x++) {
 }
 ```
 
-## 6.
+## 8.
 ```js
 var names = ['Aaron', 'Elizabeth', 'Abigial', 'Richard'];
 var ages = [28, 26, 25, 27];
@@ -52,7 +57,7 @@ for(var i=0; i<names.length; i++) {
 }
 ```
 
-## 7.
+## 9.
 ```js
 var pets = ['Sammy', 'Whiskers', 'Domino', 'Spanky', 'Monty'];
 while(pets.length) {
@@ -60,7 +65,7 @@ while(pets.length) {
 }
 ```
 
-## 8.
+## 10.
 ```js
 var movies = [
 	{Title: 'Star Wars Episode IV', Genre: 'Sci-Fi'},
