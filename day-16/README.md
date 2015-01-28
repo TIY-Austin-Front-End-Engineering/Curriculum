@@ -3,12 +3,17 @@
 # Day 16: Javascript constructors / functions, prototypes
 
 ## Review
+- [Javascript Koans](https://github.com/mrdavidlaing/javascript-koans)
 - $.get and $.post
+- http://tiny-pizza-server.herokuapp.com/collections/<your_collection_goes_here>
 
 ## Goals
-- Understand javascript constructors and prototypes
 - Understand how polling works
+- Understand javascript constructors and prototypes
 
 # Assignment
+1. Use Tiny Pizza Server to update your movie app to store your movie list online for future viewing.
+2. **Nightmare Mode:** Partner up and figure out how to generate a list of movie suggestions based on movies that you both want to see.
 
 # Resources
+1. [Tiny Pizza Server](http://tiny-pizza-server.herokuapp.com/collections/dbla)
