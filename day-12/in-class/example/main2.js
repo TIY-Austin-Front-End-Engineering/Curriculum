@@ -1,13 +1,13 @@
-(function() {
+// (function() {
 
-	counter = 0;
+// 	counter = 0;
 
-	$('#text').click(onMyClick);
+// 	$('#text').click(onMyClick);
 
-	function onMyClick() {
-		counter++;
-		console.log(counter);
+// 	function onMyClick() {
+// 		counter++;
+// 		console.log(counter);
 
-	}
+// 	}
 
-})();
+// })();
