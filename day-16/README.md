@@ -19,3 +19,4 @@
 
 # Resources
 1. [Tiny Pizza Server](http://tiny-pizza-server.herokuapp.com/collections/dbla)
+2. [javascript koans](https://github.com/mrdavidlaing/javascript-koans)
