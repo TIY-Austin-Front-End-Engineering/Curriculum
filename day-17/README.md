@@ -35,13 +35,13 @@ For your assignment this weekend the Rails and Front-end classes will be working
 3. Users should be able to change their name and have the new name show up in future messages. Old messages can keep the old username.
 4. Messages should appear on the page without having to refresh the page.
 
-### Hard Mode Requirements:
+#### Hard Mode Requirements:
 1. Support emoticons in your chat application (hint: google "jquery emoticon plugin")
 2. Add support for multiple chat rooms. Users in one chat room should not see messages that are posted in a different room.
 3. Play a sound anytime a new chat is posted into your chat room (hint: google "play sound with javascript")
 4. Backend: Implement a swear word filter. We need to keep things PG. No four letter words should be printed into the chat room. Instead display '****'
 
-### Nightmare Mode Requirements:
+#### Nightmare Mode Requirements:
 1. If a link to a gif, jpg, or png image url is posted into chat, show that image in addition to the link.
 2. Play a sound only if a message is posted in the chat room that includes @<your username>
 3. Be able to view the history of a chat room by specifying a start and end date. (hint: http://localhost:3000/room/foo/1-27-14/1-29-14)
