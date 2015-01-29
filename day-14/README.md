@@ -1,4 +1,7 @@
 [Table of Contents](/README.md)
+> @todo (Notes for Aaron):
+> - Use rotten tomatoes API instead of IMDB
+
 
 # Day 14: AJAX and APIs!
 

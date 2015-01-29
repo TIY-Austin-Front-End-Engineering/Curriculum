@@ -58,12 +58,9 @@ After:
 # Assignment
 1. Update your IMDB movie project from day 14 to use lodash templates instead of regular HTML strings with jQuery.
 2. If you didn't already finish Hard mode for day 14 finish it.
-2. If you didn't already finish Hard mode for day 14 finish it.
-1. Build a webpage that has three main elements: a search text box, a search button and a results box. When the user clicks on the search button, display the contents (value) of the search text box in the results box.
-2. Update assignment 1 to now query the [IMDB API](http://www.omdbapi.com/) (via a $.get request) when the user clicks on the search button. console.log the response.
-3. Update assignment 2 to display the response from IMDB in a table inside of the results box (instead of console.log'ing it).
-4. **Hard Mode:** Update your results box to allow your user to click on a result to add it to another list of movies that they want to watch (their "to watch" list).
-5. **Extra Hard Mode:** Allow your user to move movies from their "to watch" list to a new "watched" list (movies that they have already seen).
-6. **Insane Mode:** Save the users lists using [window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window.localStorage) so that when you refresh the browser window their previous lists still appear.
+3. If you didn't already finish extra Hard mode for day 14 finish it.
+4. If you didn't already finish extra Insane mode for day 14 finish it.
+5. **Hard Mode:** Use a select dropdown and lodash to provide the ability to filter your movie list by type.
+
 
 # Resources
