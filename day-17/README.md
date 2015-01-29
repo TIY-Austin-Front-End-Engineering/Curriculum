@@ -29,6 +29,12 @@ For your assignment this weekend the Rails and Front-end classes will be working
 4. Collaborate with your partner to put together API documentation for your application.  You can use this as a model for how it should look: http://www.omdbapi.com/. What information will need to be stored, retrieved, updated or deleted? Make sure your documentation takes into account the different types of data. Also be sure to include example GET, POST, PUT, DELETE requests and corresponding example responses.
 5. Set up two Github repositories, one for your front-end code and one for your back-end rails application.
 
+### Deliverables:
+1. User stories for your application.
+2. Stand up meeting notes for Thursday, Friday, Saturday, Sunday.
+3. Application code pushed to two github repos. Each one of your team members must have at least 5 commits.
+4. Your application must be pushed live to github pages / heroku.
+
 ### Project Requirements:
 1. Users should be able to set a username and post messages to a single chat room.
 2. Any user who is in that chat room should see all messages that are posted along with the username of the person who pasted them and the date and time they were posted.
