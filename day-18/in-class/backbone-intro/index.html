@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<title>four col</title>
+		<link rel="stylesheet" href="styles/main.css">
+	</head>
+	<body>
+		<main id="app">
+			<div class="chat-wrapper">
+				<section id="chat-view">
+				</section>
+				<section id="input-view">
+					<input type="text" id="input-box">
+					<button type="button" id="input-button">Chat</button>
+				</section>
+			</div>
+			<section id="settings-view">
+				<input type="text" id="username">
+				<input type="text" id="room">
+				<input type="checkbox" id="filter">
+				<input type="checkbox" id="sounds">
+				<button type="button" id="edit-settings">Edit Settings</button>
+				<button type="button" id="cancel-changes">Cancel</button>
+				<button type="button" id="save-settings">Save Settings</button>
+			</section>
+		</main>
+
+		<script type="text/html" id="message-view">
+			<div class="row">
+				<div class="message">
+					<%= message %>
+				</div>
+				<div class="username">
+					<%= username %>
+				</div>
+				<div class="createdAt">
+					<%= createdAt %>
+				</div>
+			</div>
+		</script>
+
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="bower_components/backbone/backbone.js"></script>
+
+		<script type="text/javascript" src="scripts/models/MessageModel.js"></script>
+		<script type="text/javascript" src="scripts/models/SettingsModel.js"></script>
+
+		<script type="text/javascript" src="scripts/collections/MessageCollection.js"></script>
+
+		<script type="text/javascript" src="scripts/views/MessageView.js"></script>
+		<script type="text/javascript" src="scripts/views/ChatView.js"></script>
+		<script type="text/javascript" src="scripts/views/InputView.js"></script>
+		<script type="text/javascript" src="scripts/views/SettingsView.js"></script>
+		<script type="text/javascript" src="scripts/views/AppView.js"></script>
+
+		<script type="text/javascript" src="scripts/main.js"></script>
+	</body>
+</html>
