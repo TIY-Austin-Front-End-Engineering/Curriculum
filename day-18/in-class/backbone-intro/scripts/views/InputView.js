@@ -43,7 +43,6 @@ var InputView = Backbone.View.extend({
 	},
 
 	onMessageSent: function(data) {
-		console.log(data);
 		this.$inputBox.prop('disabled', false);
 		this.$inputButton.prop('disabled', false);
 		this.$inputBox.val('');

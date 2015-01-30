@@ -7,7 +7,6 @@ var SettingsView = Backbone.View.extend({
 			'onEditSettings',
 			'onSaveSettings'
 		);
-		console.log('initialize Settings View');
 
 		this.$username = $('#username');
 		this.$room = $('#room');

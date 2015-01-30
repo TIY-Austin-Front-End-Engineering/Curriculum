@@ -1,7 +1,6 @@
 var ChatView = Backbone.View.extend({
 	el: '#chat-view',
 	initialize: function(options) {
-		console.log(options)
 		_.bindAll(
 			this,
 			'render',
@@ -36,7 +35,6 @@ var ChatView = Backbone.View.extend({
 	},
 
 	getImageUrls: function(message) {
-		console.log(message);
 		var words = message.split(' ');
 		var imageUrls = [];
 		for(var i=0; i<words.length; i++) {
@@ -59,6 +57,18 @@ var ChatView = Backbone.View.extend({
 		return imageUrls;
 	},
 
+	getUsernames: function(message) {
+		var words = message.split(' ');
+		var usernames = [];
+		for(var i=0; i<words.length; i++) {
+			var word = words[i];
+			if(word.length > 1 && word.charAt(0) === '@') {
+				usernames.push(word.substring(1).toLowerCase());
+			}
+		}
+		return usernames;
+	},
+
 	onGetDataFromServer: function(data) {
 		if(data.length > 0) {
 			this.lastId = data[data.length-1].id;
@@ -68,8 +78,16 @@ var ChatView = Backbone.View.extend({
 
 	onMessageAdded: function(message) {
 		var imageUrls = this.getImageUrls(message.get('message'));
+		var usernames = this.getUsernames(message.get('message'));
 		var messageView = new MessageView({model: message, imageUrls: imageUrls});
 		this.$el.append(messageView.el);
+
+		for(var i=0; i<usernames.length; i++) {
+			if(usernames[i] === this.model.get('username').toLowerCase() || usernames[i] === 'all') {
+				console.log('Found user');
+				break;
+			}
+		}
 	},
 
 	onRoomChange: function() {
