@@ -4,6 +4,7 @@
 
 ## Review
 - Group project
+- Breadcrumbs
 
 ## Goals
 - Understand why jQuery soup is not a good way to code
