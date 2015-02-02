@@ -3,10 +3,26 @@ var AppView = Backbone.View.extend({
 	initialize: function() {
 		console.log('Initialize AppView');
 
-		var jquery_random = $('#random');
+		_.bindAll(
+			this,
+			'onButtonClick'
+		);
 
-		// console.log(jquery_random[0]);
+		var $button = $('#my-button');
+		$button.on('click', this.onButtonClick);
 
-		// jquery_random.html(Math.random());
+		this.$random1 = $('#random1');
+		this.$random2 = $('#random2');
+		this.$random3 = $('#random3');
+	},
+
+	onButtonClick: function(e) {
+		var randomNum1 = Math.random();
+		var randomNum2 = Math.random();
+		var randomNum3 = Math.random();
+
+		this.$random1.html(randomNum1);
+		this.$random2.html(randomNum2);
+		this.$random3.html(randomNum3);
 	}
 });
