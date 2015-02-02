@@ -1,4 +1,4 @@
-var InputView = Backbone.View.extend({
+var myViewSettings = {
 	el: '#input-view',
 	initialize: function(options) {
 		_.bindAll(
@@ -7,7 +7,7 @@ var InputView = Backbone.View.extend({
 			'onInputButtonClick',
 			'onInputBoxKeyUp',
 			'onMessageSent'
-		)
+		);
 
 		this.$inputBox = $('#input-box');
 		this.$inputButton = $('#input-button');
@@ -47,4 +47,5 @@ var InputView = Backbone.View.extend({
 		this.$inputButton.prop('disabled', false);
 		this.$inputBox.val('');
 	}
-});
+};
+var InputView = Backbone.View.extend(myViewSettings);
