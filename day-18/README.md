@@ -21,6 +21,7 @@
 - Go through Tutorial and Beginner sections of [Regex Crossword](http://regexcrossword.com/).
 
 # Resources
+1. [Regex Pal](http://regexpal.com/)
 1. [MDN Regex Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 2. [.exec](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec)
 3. [.match](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match)
