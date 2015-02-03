@@ -1,17 +1,19 @@
 [Table of Contents](/README.md)
 
-# Day 20: Backbone Routing and Single Page Apps
+# Day 19: Unit Testing
+
+## Review
+- RegEx example
 
 ## Goals
-- Learn how to "mock" multiple pages without refreshing the browser window.
-- Understand what client side routing is and why it's important.
-- Learn how to use the backbone router.
+- Understand the importance of unit testing and the associated terms
+	- Test coverage
+- Learn how to set up a test environment with Mocha and Chai
+- Go through some examples of unit testing
+	- Stand alone functions
+	- Backbone model
+	- Backbone view
 
 # Assignment
-1. Build out some pages for a game.
-	- Loading screen that displays for four seconds before taking you to a menu screen.
-	- A menu screen with a play button, leaderboard button, and settings button.
-	- A game screen where your user would play the game.
-	- A leaderboard screen.
-	- A settings screen.
-2. Design reading.
+1. Build out unit tests for your todo list from day 18. You need 80% test coverage.
+2. Read about [backbone routers](http://backbonetutorials.com/what-is-a-router/).
