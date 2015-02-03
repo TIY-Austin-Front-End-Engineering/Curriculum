@@ -1,0 +1,28 @@
+{
+  "name": "number-guessing",
+  "version": "0.0.1",
+  "homepage": "https://github.com/TIY-Austin-Front-End-Engineering/Jan2015",
+  "authors": [
+    "Aaron Larner <anlarner@gmail.com>"
+  ],
+  "description": "This is a bare bones backbone project",
+  "main": "index.html",
+  "keywords": [
+    "backbone",
+    "example",
+    "whatever"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.2"
+  }
+}
