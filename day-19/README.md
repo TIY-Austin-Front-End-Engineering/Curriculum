@@ -4,6 +4,7 @@
 
 ## Review
 - Backbone Views
+- Mention extra node lecture
 
 ## Goals
 - Learn about Backbone Models

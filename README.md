@@ -4,6 +4,11 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 5
+
+* [Day 19: Backbone Models and RegEx](/day-19)
+* [Day 18: Introduction to MVC and Backbone](/day-18)
+
 ### Week 4
 
 * [Day 17: Group project - chat application](/day-17)
