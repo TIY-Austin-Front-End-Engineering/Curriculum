@@ -1,19 +1,17 @@
 [Table of Contents](/README.md)
 
-# Day 19: Unit Testing
+# Day 20: Review `this` and Backbone views, models, collections
 
 ## Review
-- RegEx example
+- Regular Expressions
 
 ## Goals
-- Understand the importance of unit testing and the associated terms
-	- Test coverage
-- Learn how to set up a test environment with Mocha and Chai
-- Go through some examples of unit testing
-	- Stand alone functions
-	- Backbone model
-	- Backbone view
+- Develop a better understanding of the `this` construct in Javascript.
+- Solidify our understand of Backbone views, models and collections.
 
 # Assignment
-1. Build out unit tests for your todo list from day 18. You need 80% test coverage.
-2. Read about [backbone routers](http://backbonetutorials.com/what-is-a-router/).
+1. Read about [backbone routers](http://backbonetutorials.com/what-is-a-router/).
+2. Have you finished your backbone ToDo list making full use of models and collections?
+	- If no: finish that.
+	- If yes: refactor your IMDB movie watch list to use backbone.
+3. Write a blog post about `this`. It could be a story you make up or a technical description of how it works, or anything else. Somehow incorporate the biggest things you learned about `this` today into your post.
