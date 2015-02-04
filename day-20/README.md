@@ -9,6 +9,9 @@
 - Develop a better understanding of the `this` construct in Javascript.
 - Solidify our understand of Backbone views, models and collections.
 
+## In Class
+- Clone the [What is this?](https://github.com/alarner/what-is-this) repo and follow the instructions.
+
 # Assignment
 1. Read about [backbone routers](http://backbonetutorials.com/what-is-a-router/).
 2. Have you finished your backbone ToDo list making full use of models and collections?
