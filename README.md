@@ -6,6 +6,7 @@
 
 ### Week 5
 
+* [Day 20: Review `this` and Backbone views, models, collections](/day-20)
 * [Day 19: Backbone Models and RegEx](/day-19)
 * [Day 18: Introduction to MVC and Backbone](/day-18)
 
