@@ -1,0 +1,90 @@
+<!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<title>four col</title>
+		<link rel="stylesheet" href="styles/main.css">
+	</head>
+	<body>
+		<nav>
+			<a href="#home">Home</a>
+			<a href="#resume">Resume</a>
+			<a href="#projects">Projects</a>
+			<a href="#admin">Admin</a>
+		</nav>
+		<main id="app">
+			<div class="page-view" id="home-view">
+				<h1>Aaron Larner's Portfolio</h1>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<div id="recent-project">
+					My most recent project is <a href="#" id="recent-project-name"></a>
+				</div>
+				<div id="current-position">
+					My current position is <span id="current-position-name"></span>
+				</div>
+			</div>
+			<div class="page-view" id="resume-view">
+				<h1>Aaron Larner</h1>
+				<h2>Work Experience</h2>
+				<div id="work-experience-list"></div>
+			</div>
+			<div class="page-view" id="projects-view">
+				<h1>Projects</h1>
+				<div id="project-list"></div>
+			</div>
+			<div class="page-view" id="admin-view">
+				<h1>Admin</h1>
+				<div class="form">
+					<h2>Add New Project</h2>
+					<label>
+						Name:
+						<input type="text" id="project-name">
+					</label>
+					<label>
+						URL:
+						<input type="url" id="project-url">
+					</label>
+					<label>
+						Description:
+						<textarea id="project-description">
+						</textarea>
+					</label>
+					<button type="button" id="add-project-button">Add Project</button>
+				</div>
+			</div>
+		</main>
+
+		<script type="text/html" id="project-template">
+			<div class="project">
+				<h3>
+					<a href="<%= url %>"><%= name %></a>
+				</h3>
+				<p><%= description %></p>
+			</div>
+		</script>
+
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="bower_components/backbone/backbone.js"></script>
+
+		<script type="text/javascript" src="scripts/models/ProjectModel.js"></script>
+
+		<script type="text/javascript" src="scripts/collections/ProjectsCollection.js"></script>
+
+		<script type="text/javascript" src="scripts/views/IndividualProjectView.js"></script>
+		<script type="text/javascript" src="scripts/views/HomeView.js"></script>
+		<script type="text/javascript" src="scripts/views/ResumeView.js"></script>
+		<script type="text/javascript" src="scripts/views/ProjectsView.js"></script>
+		<script type="text/javascript" src="scripts/views/AdminView.js"></script>
+		<script type="text/javascript" src="scripts/views/AppView.js"></script>
+
+		<script type="text/javascript" src="scripts/main.js"></script>
+	</body>
+</html>
