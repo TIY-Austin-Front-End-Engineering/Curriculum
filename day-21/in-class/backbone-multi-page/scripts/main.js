@@ -1,1 +1,3 @@
-var appView = new AppView();
+$(document).ready(function() {
+	var appView = new AppView();
+});

@@ -5,3 +5,7 @@
 .form label {
 	display: block;
 }
+
+#admin-view {
+	background-color: red;
+}
