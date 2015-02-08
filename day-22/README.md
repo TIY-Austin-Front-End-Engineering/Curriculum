@@ -7,9 +7,9 @@
 - Learn how to unit test basic javascript functions with Mocha and Chai.
 
 ### Instructions for setting up your testing environement
-1. Install mocha and chai `sudo npm install -g mocha chai` (you will only ever need to do this once)
-2. Create a new github repository and clone it to your computer, or just create a new directory within an existing github repo
-3. Set up the following directory structure within your directory
+- Install mocha and chai `sudo npm install -g mocha chai` (you will only ever need to do this once)
+- Create a new github repository and clone it to your computer, or just create a new directory within an existing github repo
+- Set up the following directory structure within your directory
 ```
 ├── your-directory
 |   ├── index.html
@@ -18,15 +18,16 @@
 |   |	├── functions.js
 |	├── tests
 ```
-4. `cd` into your new directory
-5. Run `bower init` and then `bower install --save ...` on any bower components that you want to install.
-6. `cd` into the tests directory and run `mocha init tests`
-7. Notice that a new index.html file was created within your tests directory? This is where your tests will run from - but you will need to include them in the tests/index.html page (hint: use ../ to move "up" a directory).
-8. You can begin writing your tests in tests/tests.js. Your file should start with:
+- `cd` into your new directory
+- Run `bower init` and then `bower install --save ...` on any bower components that you want to install.
+- `cd` into the tests directory and run `mocha init tests`
+- Notice that a new index.html file was created within your tests directory? This is where your tests will run from - but you will need to include them in the tests/index.html page (hint: use ../ to move "up" a directory).
+- You can begin writing your tests in tests/tests.js. Your file should start with:
 ```js
 var expect = chai.expect;
 ```
-9. Use the [in-class example](/day-22/in-class/unit-testing-intro) from today as a guide for how to write your tests. Also chai has some [good documentation](http://chaijs.com/api/bdd/).
+- Use the [in-class example](/day-22/in-class/unit-testing-intro) from today as a guide for how to write your tests. Also chai has some [good documentation](http://chaijs.com/api/bdd/).
+- Open the tests/index.html file in your browser to see the tests run.
 
 
 # Assignment
