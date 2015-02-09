@@ -58,9 +58,20 @@ var AppView = Backbone.View.extend({
 	},
 
 	onKeyDown: function(e) {
-		var code = e.keyCode || e.which;
-		if(code === 38) {
-			this.gameView.rotate();
+		if(this.gameView.activePiece) {
+			var code = e.keyCode || e.which;
+			if(code === 38) {
+				this.gameView.activePiece.rotate();
+			}
+			else if(code === 37) {
+				this.gameView.activePiece.move(-1);
+			}
+			else if(code === 39) {
+				this.gameView.activePiece.move(1);
+			}
+			else if(code === 40) {
+				this.gameView.activePiece.drop();
+			}
 		}
 	}
 });

@@ -41,25 +41,31 @@
 }
 
 .type-1 .box {
-	
+	background-color: #F0F000;
+	border: 1px solid #D8D800;
 }
 
 .type-2 .box {
-	
+	background-color: #A000F0;
+	border: 1px solid #9000D8;
 }
 
 .type-3 .box {
-	
+	background-color: #0000F0;
+	border: 1px solid #0000D8;
 }
 
 .type-4 .box {
-	
+	background-color: #F0A000;
+	border: 1px solid #D89000;
 }
 
 .type-5 .box {
-	
+	background-color: #00F000;
+	border: 1px solid #00D800;
 }
 
 .type-6 .box {
-	
+	background-color: #F00000;
+	border: 1px solid #D80000;
 }

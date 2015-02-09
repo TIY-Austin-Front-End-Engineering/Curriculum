@@ -4,7 +4,8 @@ var GameView = Backbone.View.extend({
 		_.bindAll(
 			this,
 			'start',
-			'rotate'
+			'newPiece',
+			'onAgeChanged'
 		);
 
 		this.activePiece = null;
@@ -14,31 +15,30 @@ var GameView = Backbone.View.extend({
 
 	start: function() {
 		console.log('start');
-		this.activePiece = new PieceModel({
-			type: 0,
-			rotation: 0,
-			age: 0,
-			left: 3
-		});
-
+		this.activePiece = this.newPiece();
 		var pieceView = new PieceView({model: this.activePiece});
 		this.$gameBox.append(pieceView.$el);
 	},
 
-	rotate: function() {
-		if(this.activePiece) {
-			var rotation = this.activePiece.get('rotation')+1;
-			rotation = rotation%4;
-			this.activePiece.set({ rotation: rotation });
-		}
+	newPiece: function() {
+		var type = Math.floor(Math.random()*7);
+		if(type > 6) type--;
+		var rotation = Math.floor(Math.random()*4);
+		if(rotation > 4) rotation--;
+
+		var pieceModel = new PieceModel({
+			type: type,
+			rotation: rotation,
+			age: 0,
+			left: 3
+		});
+
+		pieceModel.on('change:age', this.onAgeChanged);
+
+		return pieceModel;
 	},
 
-	move: function(val) {
-		if(this.activePiece) {
-			var left = this.activePiece.get('left')+val;
-			if(left < 0) left = 0;
-			if()
-			this.activePiece.set({ rotation: rotation });
-		}
+	onAgeChanged: function(piece) {
+
 	}
 });
