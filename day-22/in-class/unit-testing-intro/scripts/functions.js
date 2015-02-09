@@ -25,15 +25,44 @@ function maxInArray(arr) {
 	if(!arr.length) {
 		throw 'Array must have at least one element.';
 	}
+
 	var max = arr[0]
-	for(var i=1; i<arr.length; i++) {
+	for(var i=0; i<arr.length; i++) {
+		if(!_.isNumber(arr[i])) {
+			throw 'Array should only contain numeric values.';
+		}
 		if(arr[i] > max) max = arr[i];
 	}
 	return max;
 }
 
 function salesTax(subtotal, percent) {
-	
+	if(arguments.length === 0) {
+		throw('No arguments entered.');
+	}
+
+	if(arguments.length > 2) {
+		throw('More than two arguments entered.');
+	}
+
+	if(arguments.length < 2) {
+		throw('Less than two arguments entered.');
+	}
+
+	if(!_.isNumber(subtotal)) {
+		throw('First argument is not a number.');
+	}
+
+	if(!_.isNumber(percent)) {
+		throw('Second element is not a number.');
+	}
+
+	if(subtotal<0){
+		throw('First argument should not be a negative number');
+	}
+	if(percent<0){
+		throw('Second argument should not be a negative number');
+	}
 }
 
 function square(num) {
