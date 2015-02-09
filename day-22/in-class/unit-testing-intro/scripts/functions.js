@@ -48,7 +48,7 @@ function midPoint(start, end) {
 
 }
 
-function fizBuz1(start, end) {
+function fizBuz1() {
 	
 }
 
