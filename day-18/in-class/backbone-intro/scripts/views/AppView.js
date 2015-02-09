@@ -1,5 +1,5 @@
 var AppView = Backbone.View.extend({
-	el: '#app',
+	tagName: 'div',
 	initialize: function() {
 		this.messages = new MessageCollection();
 		this.settings = new SettingsModel();
