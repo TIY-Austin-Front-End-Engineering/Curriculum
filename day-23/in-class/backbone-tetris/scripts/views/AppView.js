@@ -38,11 +38,11 @@ var AppView = Backbone.View.extend({
 
 		var appRouter = new Router();
 
-		this.loadingModel = new LoadingModel();
+		this.gameModel = new GameModel();
 
-		this.loadingView = new LoadingView({model: this.loadingModel});
+		this.loadingView = new LoadingView({model: this.gameModel});
 		this.menuView = new MenuView({router: appRouter});
-		this.gameView = new GameView({router: appRouter});
+		this.gameView = new GameView({model: this.gameModel, router: appRouter});
 
 		this.loadingView.on('loading-complete', function() {
 			appRouter.navigate('menu', {trigger: true});
@@ -61,16 +61,16 @@ var AppView = Backbone.View.extend({
 		if(this.gameView.activePiece) {
 			var code = e.keyCode || e.which;
 			if(code === 38) {
-				this.gameView.activePiece.rotate();
+				this.gameView.activePiece.model.rotate();
 			}
 			else if(code === 37) {
-				this.gameView.activePiece.move(-1);
+				this.gameView.activePiece.model.move(-1);
 			}
 			else if(code === 39) {
-				this.gameView.activePiece.move(1);
+				this.gameView.activePiece.model.move(1);
 			}
 			else if(code === 40) {
-				this.gameView.activePiece.drop();
+				this.gameView.activePiece.model.drop();
 			}
 		}
 	}

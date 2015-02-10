@@ -25,7 +25,6 @@
 
 .piece {
 	position: absolute;
-	margin-top: -100px;
 }
 
 .box {
@@ -33,6 +32,10 @@
 	width: 20px;
 	height: 20px;
 	box-sizing: border-box;
+}
+
+.box.dead {
+	background-color: #000;
 }
 
 .type-0 .box {
