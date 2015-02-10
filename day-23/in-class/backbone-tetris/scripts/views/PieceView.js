@@ -7,6 +7,10 @@ var PieceView = Backbone.View.extend({
 			'generate'
 		);
 
+		if(_.isUndefined(this.model)) {
+			throw 'PieceView requires a model.';
+		}
+
 		Constant.BOX_WIDTH = 20;
 		
 		this.model.on('change', this.render);

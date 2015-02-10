@@ -29,7 +29,7 @@ var GameView = Backbone.View.extend({
 		this.activePiece = this.newPiece();
 		
 		this.$gameBox.append(this.activePiece.$el);
-		this.interval = setInterval(this.onTick, 2000/this.model.get('level'));
+		// this.interval = setInterval(this.onTick, 2000/this.model.get('level'));
 	},
 
 	newPiece: function() {
