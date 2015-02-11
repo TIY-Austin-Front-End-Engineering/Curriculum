@@ -1,5 +1,5 @@
 var PostModel = Backbone.Model.extend({
-	urlRoot: 'http://tiny-pizza-server.herokuapp.com/collections/dbla-projects',
+	urlRoot: 'http://tiny-pizza-server.herokuapp.com/collections/aaron-blog-post',
 	defaults: {
 		_id: null,
 		title: '',
@@ -8,7 +8,7 @@ var PostModel = Backbone.Model.extend({
 	},
 	idAttribute: '_id',
 	validate: function(attrs, options) {
-		if(!attrs.title) return 'Please enter a title.';
-		if(!attrs.body) return 'Please enter a body.';
+		if(!attrs.title) return 'Please enter a <b>title</b>.';
+		if(!attrs.body) return 'Please enter a <b>body</b>.';
 	}
 });

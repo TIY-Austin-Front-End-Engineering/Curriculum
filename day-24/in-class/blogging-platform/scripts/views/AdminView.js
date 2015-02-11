@@ -14,6 +14,8 @@ var AdminView = Backbone.View.extend({
 
 		this.formView.on('submit', this.onNewPost);
 
+		this.formView.model.on('change', this.onNewPost);
+
 	},
 	onNewPost: function(model) {
 		this.posts.add(model);

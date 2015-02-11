@@ -10,7 +10,7 @@ var BlogPostView = Backbone.View.extend({
 		this.$body = this.$('.post-body');
 	},
 	render: function() {
-		this.$title.html(this.model.get('title'));
-		this.$body.html(this.model.get('body'));
+		this.$title.text(this.model.get('title'));
+		this.$body.text(this.model.get('body'));
 	}
 });
