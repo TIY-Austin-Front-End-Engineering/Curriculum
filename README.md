@@ -4,8 +4,15 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 6
+
+* [Day 24: Advanced Backbone Models](/day-24)
+* [Day 23: Backbone unit testing](/day-23)
+* [Day 22: Javascript Unit Testing](/day-22)
+
 ### Week 5
 
+* [Day 21: Backbone Routing and Single Page Apps](/day-21)
 * [Day 20: Review `this` and Backbone views, models, collections](/day-20)
 * [Day 19: Backbone Models and RegEx](/day-19)
 * [Day 18: Introduction to MVC and Backbone](/day-18)

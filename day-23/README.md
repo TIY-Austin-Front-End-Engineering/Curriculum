@@ -9,5 +9,5 @@
 # Assignment
 - Build out unit tests for the following methods on the Backbone Tetris app from class today:
 	- All of the methods on PieceModel
-	- Test PieceView.render with at least 10 unique piece configurations
+	- Test PieceView.render with at least 5 unique piece configurations (for example, type 0, rotation 1)
 

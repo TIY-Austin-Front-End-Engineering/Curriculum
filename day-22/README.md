@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 21: Javascript Unit Testing
+# Day 22: Javascript Unit Testing
 
 ## Review
 - New Schedule
