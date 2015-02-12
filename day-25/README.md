@@ -4,9 +4,9 @@
 
 ## Goals
 - Learn some more advanced git concepts.
-	- git rebase
-	- git pull --rebase
 	- git merge
+	- git diff
+	- git branch
 - Learn some basic design concepts.
 
 You are half way done with new feature for your project and an urgent bug fix request comes in. You switch to working on the bug fix, but don't want to push out your half finished new feature too. How do you handle this?
@@ -49,9 +49,9 @@ Cutting a new branch from another branch (other than master).
 
 # Assignment
 1. Build out the HTML and CSS (using Sass) for the following website. The image assets can be [found here](/day-25/assignment/images) and the font being used is [Open Sans](http://www.google.com/fonts/specimen/Open+Sans). 
-	- [Breakpoint 1](/day-25/assignment/breakpoints/1.jpg)
-	- [Breakpoint 2](/day-25/assignment/breakpoints/2.jpg)
-	- [Breakpoint 3](/day-25/assignment/breakpoints/3.jpg)
+	- [Breakpoint 1](/day-25/assignment/breakpoints/1.png)
+	- [Breakpoint 2](/day-25/assignment/breakpoints/2.png)
+	- [Breakpoint 3](/day-25/assignment/breakpoints/3.png)
 2. Read up on Angular.
 	- [/ Developer Guide / Introduction](https://docs.angularjs.org/guide/introduction)
 	- [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
