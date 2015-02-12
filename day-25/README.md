@@ -52,6 +52,7 @@ Cutting a new branch from another branch (other than master).
 	- [Breakpoint 1](/day-25/assignment/breakpoints/1.png)
 	- [Breakpoint 2](/day-25/assignment/breakpoints/2.png)
 	- [Breakpoint 3](/day-25/assignment/breakpoints/3.png)
+2. **Hard Mode:** Get the Menu button to show its contents when you click on it (on breakpoint 1 and 2).
 2. Read up on Angular.
 	- [/ Developer Guide / Introduction](https://docs.angularjs.org/guide/introduction)
 	- [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
