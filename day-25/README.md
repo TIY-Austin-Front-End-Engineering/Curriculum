@@ -48,3 +48,10 @@ Cutting a new branch from another branch (other than master).
 1. git checkout -b new-branch existing-branch
 
 # Assignment
+1. Build out the HTML and CSS (using Sass) for the following website. The image assets can be [found here](/day-25/assignment/images) and the font being used is [Open Sans](http://www.google.com/fonts/specimen/Open+Sans). 
+	- [Breakpoint 1](/day-25/assignment/breakpoints/1.jpg)
+	- [Breakpoint 2](/day-25/assignment/breakpoints/2.jpg)
+	- [Breakpoint 3](/day-25/assignment/breakpoints/3.jpg)
+2. Read up on Angular.
+	- [/ Developer Guide / Introduction](https://docs.angularjs.org/guide/introduction)
+	- [Everything you need to understand to start with AngularJS](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
