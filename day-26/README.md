@@ -20,5 +20,6 @@
 # Assignment
 1. [Loading button](https://github.com/TIY-Austin-Front-End-Engineering/angular-loading-button)
 2. [Tabs](https://github.com/TIY-Austin-Front-End-Engineering/angular-tabs)
-3. [Like button](https://github.com/TIY-Austin-Front-End-Engineering/angular-like)
-4. [Login](https://github.com/TIY-Austin-Front-End-Engineering/angular-login)
+3. [Greeting](https://github.com/TIY-Austin-Front-End-Engineering/angular-greeting)
+4. [Like button](https://github.com/TIY-Austin-Front-End-Engineering/angular-like)
+5. [Login](https://github.com/TIY-Austin-Front-End-Engineering/angular-login)
