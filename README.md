@@ -6,11 +6,13 @@
 
 ### Week 7
 
+* [Day 28: ng-repeat and $http](/day-28)
+* [Day 27: Angular Modules and Application Architecture](/day-27)
 * [Day 26: Introduction to Angular](/day-26)
 
 ### Week 6
 
-* [Day 25: Advanced Backbone Models](/day-25)
+* [Day 25: Git Branching and Merging + Design Talk](/day-25)
 * [Day 24: Advanced Backbone Models](/day-24)
 * [Day 23: Backbone unit testing](/day-23)
 * [Day 22: Javascript Unit Testing](/day-22)

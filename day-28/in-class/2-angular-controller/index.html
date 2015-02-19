@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Hello Angular</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body ng-app="app">
+		<!-- <button type="button" ng-click="startLoading()" ng-controller="LoadingButtonCtrl" ng-bind="buttonText" ng-disabled="buttonDisabled"></button> -->
+		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+		<script type="text/javascript" src="scripts/my-app/app.js"></script>
+		<script type="text/javascript" src="scripts/my-app/controllers/loadingButton.js"></script>
+
+		<div ng-controller="LoadingButtonCtrl">
+			<!-- <input type="text" ng-model="name">
+			<div ng-bind="name"></div>
+			<button ng-click="showContent()">Toggle Content</button>
+			<p ng-hide="isContentVisible">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
+
+			<form ng-submit="submit(user)">
+				<input type="email" ng-model="user.email" placeholder="Email" name="firstName">
+				<input type="text" ng-model="user.firstName" placeholder="First Name" name="firstName">
+				<input type="text" ng-model="user.lastName" placeholder="Last Name" name="lastName">
+				<button type="submit">Submit</button>
+			</form>
+		</div>
+	</body>
+</html>
