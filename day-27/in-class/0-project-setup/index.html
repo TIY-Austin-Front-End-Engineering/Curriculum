@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    </head>
+    <body ng-app>
+    	<!--
+		<input type="text" ng-model="name">
+		<input type="text" ng-model="name">
+    	<div ng-bind="name"></div>
+    	-->
+
+    <!-- 	<label>
+    		<input type="checkbox" ng-model="comments"> I'd like to add some comments
+    	</label>
+    	<textarea ng-disabled="!comments"></textarea> -->
+
+    	<input type="text" ng-model="url">
+    	<a ng-href="url">http://{{url}}.com </a>
+
+    	<input type="text" ng-model="name">
+    	<div>Hello, <strong class="">{{ name }}</strong></div>
+
+    	<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+    </body>
+</html>
