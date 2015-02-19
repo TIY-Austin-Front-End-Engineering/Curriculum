@@ -1,7 +1,5 @@
-[Table of Contents](/README.md)
-
 <p align="center">
-	<img src="TIY-standard-logo-gravatar.png" width="300">
+	<img src="/intro/TIY-standard-logo-gravatar.png" width="300">
 </p>
 
 # Austin Frontend Engineering Pre-Work
