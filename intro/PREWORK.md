@@ -1,5 +1,7 @@
 [Table of Contents](/README.md)
 
+![Logo](TIY-standard-logo-gravatar.png)
+
 # Austin Frontend Engineering Pre-Work
 Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, I've put together a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
 
