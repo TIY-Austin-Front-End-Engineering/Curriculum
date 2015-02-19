@@ -1,4 +1,4 @@
-# Austin Front-end Engineering Pre-Work
+# Austin Front-end Engineering Pre-work
 Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, I've put together a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
 
 I expect you to be able to complete these exercises on your own. but if you run into trouble you're welcome to email me: aaron@theironyard.com.
