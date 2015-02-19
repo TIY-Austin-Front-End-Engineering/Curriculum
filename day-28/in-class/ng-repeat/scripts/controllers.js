@@ -1,4 +1,5 @@
-app.controller('ListCtrl', function($scope, $timeout) {
+angular.module('app.controllers', [])
+.controller('ListCtrl', function($scope, $timeout) {
 	$scope.desserts = [
 		'Paczki',
 		'Waffles',
