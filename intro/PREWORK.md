@@ -23,5 +23,6 @@ If this is your first time using a Mac it might slow you down at first. It's imp
 * [Folder basics](http://support.apple.com/kb/PH14224?viewlocale=en_US)
 
 ### Command Line
+Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands will make your like a lot easier: http://cli.learncodethehardway.org/book/
 
 ### Software
