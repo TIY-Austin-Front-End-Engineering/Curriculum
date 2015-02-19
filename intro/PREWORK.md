@@ -13,6 +13,8 @@ We will spend most of our time talking about JavaScript. JavaScript allows us to
 
 Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This should take you approximately 7 hours, depending on your prior experience.
 
+This is not how our course will be taught ­­ but it’s great to get yourself as familiar as possible with some of the syntax of the language.
+
 ### Basic OS X Skills
 
 ### Command Line
