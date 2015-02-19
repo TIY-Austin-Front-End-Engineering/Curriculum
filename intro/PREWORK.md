@@ -16,6 +16,11 @@ Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This 
 This is not how our course will be taught ­­ but it’s great to get yourself as familiar as possible with some of the syntax of the language.
 
 ### Basic OS X Skills
+If this is your first time using a Mac it might slow you down at first. It's important to get as comfortable as possible with your laptop before class. If this is your first time using a mac, or you need to brush up on some of your basic computer skills check out some of these tutorials:
+
+* [Window Basics](http://support.apple.com/kb/PH18785?viewlocale=en_US&locale=en_US)
+* [Finder Basics](http://support.apple.com/kb/VI209?viewlocale=en_US&locale=en_US)
+* [Folder basics](http://support.apple.com/kb/PH14224?viewlocale=en_US)
 
 ### Command Line
 
