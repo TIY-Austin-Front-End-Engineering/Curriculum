@@ -1,8 +1,8 @@
 [Table of Contents](/README.md)
 
-<div style="text-align: center;">
+<p align="center">
 	<img src="TIY-standard-logo-gravatar.png" width="300">
-</div>
+</p>
 
 # Austin Frontend Engineering Pre-Work
 Three months is a short amount of time to teach you everything you need to know to be a great front-end developer. To make sure that we can move as fast as possible and cover all of the topics that we need to cover, I've put together a list of exercises and reading materials to get you up to speed. Please complete this work before the first day of class.
