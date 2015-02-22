@@ -63,7 +63,8 @@ There is no commercial software required for the class. We will install a number
 
 # Prework
 
-Here is some prework to prepare for The Iron Yard's Front End Course!
+[/intro/PREWORK.md](/intro/PREWORK.md)
+<!-- Here is some prework to prepare for The Iron Yard's Front End Course!
 
 Prework is material to help you get on the same page as others. Do the best you can, and let Aaron know how it's going! :-)
 
@@ -111,7 +112,7 @@ Git: Git and version control are central to how we will be working on projects. 
 be a bit much to fully wrap your head around before class, but it’s worth a read to start 
 getting familiar with the terms and concepts. 
  
-http://git­scm.com/book/en/Getting­Started­About­Version­Control 
+http://git­scm.com/book/en/Getting­Started­About­Version­Control  -->
 
 # Policies
 
