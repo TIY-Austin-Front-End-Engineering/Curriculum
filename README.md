@@ -4,6 +4,10 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 8
+* [Day 30: Web Application Architecture](/day-30)
+* [Day 29: Hoisting and Factories](/day-29)
+
 ### Week 7
 
 * [Day 28: ng-repeat and $http](/day-28)
