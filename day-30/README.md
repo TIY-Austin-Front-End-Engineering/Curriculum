@@ -21,4 +21,4 @@
 * Continue working on [Angular Fancy Table](https://github.com/TIY-Austin-Front-End-Engineering/angular-fancy-table)
 
 # Resources
-* [Memory game wireframes](/Memory-Game.pdf)
+* [Memory game wireframes](/day-30/Memory-Game.pdf)
