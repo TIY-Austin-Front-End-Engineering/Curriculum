@@ -12,12 +12,12 @@ Recursion is a general programming concept that describes a particular type of f
 If you dont know, a factorial is calculated by taking a number and continually multiplying it by one less than itself untill you reach one. For example:
 
 > 3! (aka 3 factorial) is equal to:
-> 3*2*1
+> 3 * 2 * 1
 
 Similarly...
 
 > 4! is equal to:
-> 4*3*2*1
+> 4 * 3 * 2 * 1
 
 Notice that `4!` is equal to `4*3!` and `3!` is equal to `3*2!`. In fact if we take any number `n` then `n!` is equal to `n*(n-1)` factorial. The trivial, non-recursive way to calculate a factorial is like this:
 
