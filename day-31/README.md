@@ -13,7 +13,7 @@
 5. Create a controller (in your controllers.js file) for each one of your pages.
 6. Set up routes in your app module (aka app.js)
 
-app.js
+###### app.js
 ```js
 angular.module('app', ['app.controllers', 'ui.router'])
 .config(function($stateProvider, $urlRouterProvider, $locationProvider) {
