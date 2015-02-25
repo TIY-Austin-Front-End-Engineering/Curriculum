@@ -7,7 +7,40 @@
 * Learn how to create custom angular filters
 
 ## Notes
-Recursion is a general programming concept that describes a particular type of function (a "recursive" function). Recursive functions are simply function that call themselves. Recursion is particuarly useful for problems that can be broken down into a series of similar steps. Calculating a factorial is a traditional example of a problem that lends itself well to a recursive solution. *Not all problems can be written with a recursive solution!*
+Recursion is a general programming concept that describes a particular type of function (a "recursive" function). Recursive functions are simply function that call themselves.
+
+Why do we need recursion? Think about trying to `console.log()` all of the items in the following object.
+
+```js
+var obj = {
+	name: 'parent',
+	children: [
+		{
+			name: 'child 1',
+			children: []
+		},
+		{
+			name: 'child 2',
+			children: [
+				{
+					name: 'grandchild a'
+				},
+				{
+					name: 'grandchild c'
+				}
+			]
+		},
+		{
+			name: 'child 3',
+			children: []
+		},
+	]
+}
+```
+
+We could use a bunch of nested `for ... in` loops, but if our grandchildren ever have children of their own, then we would have to modify our code to accommodate. Recursion allows us to iterate through this object regarless of how many generations there are (as long as each object follows the convention of having a `name` and `children` properties).
+
+Recursion is particuarly useful for problems that can be broken down into a series of similar steps. Calculating a factorial is a traditional example of a problem that lends itself well to a recursive solution. *Not all problems can be written with a recursive solution!*
 
 If you dont know, a factorial is calculated by taking a number and continually multiplying it by one less than itself untill you reach one. For example:
 
