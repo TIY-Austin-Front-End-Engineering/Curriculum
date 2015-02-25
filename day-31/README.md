@@ -42,7 +42,7 @@ Let's break it down line by line:
 ```js
 angular.module('app', ['app.controllers', 'ui.router'])
 ```
-> This line creates a new module that depends on your `app.controllers` module and the `ui.router` module (that you installed with bower and included in your html via a <script> tag).
+> This line creates a new module that depends on your `app.controllers` module and the `ui.router` module (that you installed with bower and included in your html via a &lt;script&gt; tag).
 
 ```js
 .config(function($stateProvider, $urlRouterProvider) {
