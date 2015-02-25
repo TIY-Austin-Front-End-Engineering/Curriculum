@@ -12,7 +12,8 @@
 4. Create a templates directory that sits next to (a sibling of) your scripts directory. This is where the pages that your routes are associated with will be saved.
 5. Create a controller (in your controllers.js file) for each one of your pages.
 6. Set up routes in your app module (aka app.js)
-#### app.js
+
+app.js
 ```js
 angular.module('app', ['app.controllers', 'ui.router'])
 .config(function($stateProvider, $urlRouterProvider, $locationProvider) {
