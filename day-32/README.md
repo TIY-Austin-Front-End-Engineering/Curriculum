@@ -116,7 +116,6 @@ else {
 
 ### Filtering
 
-# Assignment
 
-# Resources
-* [Memory game wireframes](/day-30/Memory-Game.pdf)
+# Assignment
+[Optional Recursion Assignment](https://github.com/hugeinc/NavExercise) - You can use any libraries you want but you must use recursion. This assignment is not required because of the Hackathon this weekend.
