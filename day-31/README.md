@@ -2,6 +2,9 @@
 
 # Day 31: Angular UI Router
 
+## Review
+* Gabe's fancy table issue
+
 ## Goals
 * Learn how to use the angular ui router
 
