@@ -41,14 +41,14 @@ Let's break it down line by line:
 
 
 # Notes
-#### app.js
+###### app.js
 ```js
 angular.module('app', ['app.controllers', 'ui.router'])
 ```
 
 > This line creates a new module that depends on your `app.controllers` module and the `ui.router` module (that you installed with bower and included in your html via a &lt;script&gt; tag).
 
-#### app.js
+###### app.js
 ```js
 .config(function($stateProvider, $urlRouterProvider) {
 	....
@@ -57,7 +57,7 @@ angular.module('app', ['app.controllers', 'ui.router'])
 
 > This config block is where we set up our routes. The `.config(...)` method of our module takes a function as its one argument. We must pass any dependencies into that function (eg. `$stateProvider`, `$urlRouterPorvider`).
 
-#### app.js
+###### app.js
 ```js
 $stateProvider
 .state('home', {
@@ -69,7 +69,7 @@ $stateProvider
 
 > The `$stateProvider` is the service that we use to define our routes. We can call the `state` method on the `$stateProvider` to add that particular route. The `state` method takes two arguments, a name (eg `'home'`) and a configuration object. The name is how we can reference the route later in our code. The configuration object specifies the url that this route is associated with, the template to use, and the controller that controls the partocular route. Notice how the templateUrl is pointing to the `templates` directory that we created earlier.
 
-#### app.js
+###### app.js
 ```js
 .state('resume', {
 	url: "/resume",
@@ -85,7 +85,7 @@ $stateProvider
 
 > We can chain the route just like we do with controllers and factories.
 
-#### app.js
+###### app.js
 ```js
 $urlRouterProvider.otherwise("/home");
 ```
@@ -94,7 +94,7 @@ $urlRouterProvider.otherwise("/home");
 >
 > The last thing we need to do is add a directive in our HTML that specifies where our routes should be rendered.
 
-#### index.html
+###### index.html
 ```html
 <div ui-view></div>
 ```
