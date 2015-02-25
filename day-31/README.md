@@ -38,7 +38,7 @@ angular.module('app', ['app.controllers', 'ui.router'])
 Let's break it down line by line:
 
 
-# Assignment
+# Notes
 ```js
 angular.module('app', ['app.controllers', 'ui.router'])
 ```
@@ -62,7 +62,7 @@ $stateProvider
 })
 ```
 
-> The `$stateProvider` is the service that we use to define our routes. We can call the `state` method on the `$stateProvider` to add that particular route. The `state` method takes two arguments, a name (eg `'home'`) and a configuration object. The name is how we can reference the route later in our code. The configuration object specifies the url that this route is associated with, the template to use, and the controller that controls the partocular route.
+> The `$stateProvider` is the service that we use to define our routes. We can call the `state` method on the `$stateProvider` to add that particular route. The `state` method takes two arguments, a name (eg `'home'`) and a configuration object. The name is how we can reference the route later in our code. The configuration object specifies the url that this route is associated with, the template to use, and the controller that controls the partocular route. Notice how the templateUrl is pointing to the `templates` directory that we created earlier.
 
 ```js
 .state('resume', {
@@ -83,7 +83,15 @@ $stateProvider
 $urlRouterProvider.otherwise("/home");
 ```
 
-> This final line specifies which url to use if none is specified (the default route).
+> The last line of our config specifies which url to use if none is specified (the default route).
+>
+> The last thing we need to do is add a directive in our HTML that specifies where our routes should be rendered.
+
+```html index.html
+<div ui-view></div>
+```
+
+> The `ui-view` directive specifies where our route templates are rendered. The HTML from our templates will be inserted inside of the element with the `ui-view` directive. 
 
 # Resources
 * [Angular UI Router](https://github.com/angular-ui/ui-router)
