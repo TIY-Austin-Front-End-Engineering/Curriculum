@@ -131,6 +131,10 @@ angular.module('app.controllers', [])
 >  	- `launchctl load ...`
 >  - Run both commands
 
+2. Draw up some project requirements for the sortable table assignment that you worked on over the past two days.
+
+3. Replicate Assignment #3 from [day 21](/day-21) but using angular-ui-router instead of the backbone router.
+
 
 # Resources
 * [Angular UI Router](https://github.com/angular-ui/ui-router)
