@@ -133,7 +133,9 @@ angular.module('app.controllers', [])
 
 2. Draw up some project requirements for the sortable table assignment that you worked on over the past two days.
 
-3. Replicate Assignment #3 from [day 21](/day-21) but using angular-ui-router instead of the backbone router.
+3. Replicate Assignment #3 from [day 21](/day-21) but using angular-ui-router instead of the backbone router. **You don't need to do the loading screen.**
+
+4. Repeat the following assignments from [day-9](/day-9) but use angular services (factories) instead of just creating vanilla javascript functions: 1, 5, 7
 
 
 # Resources
