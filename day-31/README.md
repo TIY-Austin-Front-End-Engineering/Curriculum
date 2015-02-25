@@ -112,8 +112,24 @@ angular.module('app.controllers', [])
 })
 ```
 
-> We can change the page programmatically by using the $state service. Notice that when we use the `$state` service inside of the `app.config(...)` function we have to inject it with `$stateProvider` but when we inject it outside of app.config(...) we use `$state`. This is because it's a special kind of service called a provider. Providers are the only type of service that we can use inside of the `app.config(...)` function.
+> We can change the page programmatically by using the `$state` service. Notice that when we use the `$state` service inside of the `app.config(...)` function we have to inject it with `$stateProvider` but when we inject it outside of app.config(...) we use `$state`. This is because it's a special kind of service called a provider. Providers are the only type of service that we can use inside of the `app.config(...)` function.
 
+# Assignments
+1. Follow these instructions to get all of the software installed that you will need to work with the Rails students for the hackathon.
+
+> ## Install RVM 
+>  - `\curl -sSL https://get.rvm.io | bash -s stable --ruby=2.2.0`
+> 
+> ## Install bundler
+>  - close and re-open terminal
+>  - run `gem install bundler`
+> 
+> ## Install Postgres
+>  - brew install postgresql
+>  - read the output. There should be a line that starts with
+>  	- `ln -sfv ...`
+>  	- `launchctl load ...`
+>  - Run both commands
 
 
 # Resources
