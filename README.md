@@ -5,6 +5,7 @@
 * [Welcome!](/intro/README.md)
 
 ### Week 8
+* [Day 31: Angular UI Router](/day-31)
 * [Day 30: Web Application Architecture](/day-30)
 * [Day 29: Hoisting and Factories](/day-29)
 
