@@ -101,6 +101,19 @@ $urlRouterProvider.otherwise("/home");
 
 > The `ui-view` directive specifies where our route templates are rendered. The HTML from our templates will be inserted inside of the element with the `ui-view` directive.
 
+###### controllers.js
+```js
+angular.module('app.controllers', [])
+.controller('ResumeCtrl', function($scope, $state) {
+	$scope.test = 'hello';
+	$scope.goHome = function() {
+		$state.go('home');
+	};
+})
+```
+
+> We can change the page programmatically by using the $state service. Notice that when we use the `$state` service inside of the `app.config(...)` function we have to inject it with `$stateProvider` but when we inject it outside of app.config(...) we use `$state`. This is because it's a special kind of service called a provider. Providers are the only type of service that we can use inside of the `app.config(...)` function.
+
 
 
 # Resources
