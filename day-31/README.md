@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 30: Angular UI Router
+# Day 31: Angular UI Router
 
 ## Goals
 * Learn how to use the angular ui router
