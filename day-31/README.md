@@ -134,7 +134,7 @@ angular.module('app.controllers', [])
 >  	- `launchctl load ...`
 >  - Run both commands
 
-2. Draw up some project requirements for the sortable table assignment that you worked on over the past two days.
+2. Draw up some project requirements (wireframes, data modeling, logic diagrams) for a homework tool. The homework tool should allow students to log in and submit a github repo link as well as some notes on how well they were abe to accomplish the homework assignment. It should provide a way for an instructor to give feedback on the homework as well as a dashboard that shows each student and how many assignments they turned in one time, how many were late, and how many were never turned in.
 
 3. Replicate Assignment #3 from [day 21](/day-21) but using angular-ui-router instead of the backbone router. **You don't need to do the loading screen.**
 

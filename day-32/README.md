@@ -7,6 +7,8 @@
 * Learn how to create custom angular filters
 
 ## Notes
+
+### Recursion
 Recursion is a general programming concept that describes a particular type of function (a "recursive" function). Recursive functions are simply function that call themselves.
 
 Why do we need recursion? Think about trying to `console.log()` all of the items in the following object.
@@ -38,9 +40,9 @@ var obj = {
 }
 ```
 
-We could use a bunch of nested `for ... in` loops, but if our grandchildren ever have children of their own, then we would have to modify our code to accommodate. Recursion allows us to iterate through this object regarless of how many generations there are (as long as each object follows the convention of having a `name` and `children` properties).
+We could use a bunch of nested `for ... in` loops, but if our grandchildren ever have children of their own, then we would have to modify our code to accommodate. Recursion allows us to iterate through this object regardless of how many generations there are (as long as each object follows the convention of having a `name` and `children` properties).
 
-Recursion is particuarly useful for problems that can be broken down into a series of similar steps. Calculating a factorial is a traditional example of a problem that lends itself well to a recursive solution. *Not all problems can be written with a recursive solution!*
+Recursion is particuarly useful for problems that can be broken down into a series of similar steps (like the example above). Calculating a factorial is another traditional example of a problem that lends itself well to a recursive solution. *Not all problems can be written with a recursive solution!*
 
 If you dont know, a factorial is calculated by taking a number and continually multiplying it by one less than itself untill you reach one. For example:
 
@@ -112,6 +114,7 @@ else {
 
 > Finally we write our "recursive case". Basically, if we don't hit our base case, then we want to call our function again but this time with a different argument. In this case we are using the observation we made earlier that `n! = n * (n-1)!. If each time we hit our recursive case we keep decreasing the argument then eventually we will call `factorial(1)` (our base case).
 
+### Filtering
 
 # Assignment
 
