@@ -115,7 +115,37 @@ else {
 > Finally we write our "recursive case". Basically, if we don't hit our base case, then we want to call our function again but this time with a different argument. In this case we are using the observation we made earlier that `n! = n * (n-1)!. If each time we hit our recursive case we keep decreasing the argument then eventually we will call `factorial(1)` (our base case).
 
 ### Filtering
+Just like services and controllers, filters are another special construct in angular. Filters allow us to modify how data is displayed within our HTML. To add filters to your angular project first create a new module and then add filters to that module with the `.filter` method.
 
+```js
+angular.module('basic.filters', [])
+.filter('prefix', function() {
+	return function(input, prefix) {
+		return prefix + input;
+	};
+});
+```
+
+Just like `.controller(...)` and `.factory(...)`, `.filter(...)` also takes two arguments. A name and a function. The name describes how we will call the filter later in our HTML. The function should return another function that takes at least one argument (the data that we are filtering). It can optionally take an number of other arguments. The returned function should itself return the input data modified to how it should be displayed in the HTML. The example above prefixes any input string with another string.
+
+
+We can make use of a filter in our HTML like so:
+
+```html
+<tr ng-repeat="state in states | filter:filterString">
+	<td ng-bind="state.name | prefix:'State '"></td>
+	<td ng-bind="state.abbreviation"></td>
+	<td><a ng-href="http://en.wikipedia.org/wiki/{{state.name}}">Link</a></td>
+</tr>
+```
+
+This is the important line where we are using our filter:
+
+```html
+<td ng-bind="state.name | prefix:'State '"></td>
+```
+
+We use the `|` symbol to denote that we are passing `state.name` into the filter (`state.name` gets passed in as the `input` argument of our filter function that we defined in the app.filters module above.)
 
 # Assignment
-[Optional Recursion Assignment](https://github.com/hugeinc/NavExercise) - You can use any libraries you want but you must use recursion. This assignment is not required because of the Hackathon this weekend.
+[Optional Recursion Assignment](https://github.com/hugeinc/NavExercise) - You can use any libraries you want but you must use recursion. This assignment is not required because of the Hackathon this weekend, but it is an *actual job interview assignment*.

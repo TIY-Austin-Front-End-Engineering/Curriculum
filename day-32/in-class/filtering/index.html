@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html ng-app="basic">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title></title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="bower_components/ionicons/css/ionicons.css">
+		<link rel="stylesheet" href="styles/style.css">
+	</head>
+	<body>
+		<div ng-controller="TableCtrl">
+			<table>
+				<thead>
+					<tr class="table-header">
+						<td colspan="2" class="table-name">States</td>
+						<td colspan="1">
+							<input type="text" ng-model="filterString" placeholder="Filter">
+						</td>
+					</tr>
+					<tr class="sort">
+						<td ng-class="sort === 'name' ? 'active' : ''">
+							<a href="#" ng-click="update('name', asc)" ng-class="asc ? 'asc' : 'desc'">
+								Name
+								<span class="ion-android-arrow-dropdown"></span>
+								<span class="ion-android-arrow-dropup"></span>
+							</a>
+						</td>
+						<td ng-class="sort === 'abbreviation' ? 'active' : ''">
+							<a href="#" ng-click="update('abbreviation', asc)" ng-class="asc ? 'asc' : 'desc'">
+								Abbreviation
+								<span class="ion-android-arrow-dropdown"></span>
+								<span class="ion-android-arrow-dropup"></span>
+							</a>
+						</td>
+						<td>Wikipedia Link</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="state in states | abbrFilter:filterString:true">
+						<td ng-bind="state.name | prefix:'State '"></td>
+						<td ng-bind="state.abbreviation"></td>
+						<td><a ng-href="http://en.wikipedia.org/wiki/{{state.name}}">Link</a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<script type="text/javascript" src="bower_components/lodash/lodash.min.js"></script>
+		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+		<script type="text/javascript" src="scripts/services.js"></script>
+		<script type="text/javascript" src="scripts/controllers.js"></script>
+		<script type="text/javascript" src="scripts/filters.js"></script>
+		<script type="text/javascript" src="scripts/app.js"></script>
+	</body>
+</html>

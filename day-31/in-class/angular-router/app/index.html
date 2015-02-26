@@ -22,12 +22,15 @@
 	</head>
 	<body ng-app="app">
 		<div>
-			<a href="#" ui-sref="home">Home</a>
+			<a href="#" ui-sref="foo">Home</a>
 			<a href="#" ui-sref="resume">Resume</a>
 			<a href="#" ui-sref="bio">Bio</a>
+			<a href="#" ui-sref="student">Students</a>
 		</div>
 
-		<div ui-view></div>
+		<div ui-view>
+
+		</div>
 
 
 		<!-- build:js scripts/vendor.js -->
@@ -42,6 +45,7 @@
 		<!-- build:js scripts/main.js -->
 		<script src="scripts/app.js"></script>
 		<script src="scripts/controllers.js"></script>
+		<script src="scripts/students.js"></script>
 		<!-- endbuild -->
 	</body>
 </html>

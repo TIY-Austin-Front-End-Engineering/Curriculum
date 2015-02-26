@@ -1,8 +1,8 @@
 /* jshint devel:true */
 angular.module('app', ['app.controllers', 'ui.router'])
-.config(function($stateProvider, $urlRouterProvider, $locationProvider) {
+.config(function($stateProvider, $urlRouterProvider) {
 	$stateProvider
-	.state('home', {
+	.state('foo', {
 		url: "/home",
 		templateUrl: "templates/home.html",
 		controller: "HomeCtrl"
@@ -16,6 +16,16 @@ angular.module('app', ['app.controllers', 'ui.router'])
 		url: "/bio",
 		templateUrl: "templates/bio.html",
 		controller: "BioCtrl"
+	})
+	.state('student', {
+		url: "/student",
+		templateUrl: "templates/students.html",
+		controller: "StudentsCtrl"
+	})
+	.state('individualStudent', {
+		url: "/student/:id",
+		templateUrl: "templates/student.html",
+		controller: "IndividualStudentCtrl"
 	});
 
 	$urlRouterProvider.otherwise("/home");
