@@ -60,4 +60,21 @@
 
 # Assignment
 
-Create login and registration pages for the assignment app that we are going to build in class. Style the pages and deploy them to heroku.
+Create login and registration pages for the assignment app that we are going to build in class. Style the pages and deploy them to heroku. Use the [validator](https://github.com/chriso/validator.js) plugin on the client to ensure that all input is valid before a user clicks submit. Both the login and registration pages should have just an email and password field. When they successfully click submit you should console.log and object that looks like:
+
+### login
+```js
+{
+	identifier: 'aaron@theironyard.com',
+	password: 'password123'
+}
+```
+
+### registration
+```js
+{
+	username: 'aaron@theironyard.com',
+	email: 'aaron@theironyard.com',
+	password: 'password123'
+}
+```
