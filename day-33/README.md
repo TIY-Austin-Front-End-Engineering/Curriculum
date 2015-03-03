@@ -59,7 +59,7 @@
 2. Run the command `heroku create` to create a new app on heroku. You may have to enter your heroku username and password.
 3. Run `heroku addons:add heroku-postgresql` to create a database on heroku for your app.
 
-# 4. Deploy to production
+### 4. Deploy to production
 
 > You will need to do these steps each time you have changes on your development environment that you want to deploy to production (aka heroku).
 
@@ -69,3 +69,5 @@
 
 
 # Assignment
+
+Create login and registration pages for the assignment app that we are going to build in class. Style the pages and deploy them to heroku.
