@@ -25,9 +25,9 @@
 4. Install sails `npm install -g sails forever`
 5. Create a free account on Heroku. Be sure to pick node.js as your development language.
 	* [Heroku sign up](https://signup.heroku.com/dc)
-6. After finishing the sign up process click the link to get to your dashboard and then click the link "Getting started with Node.js"
-7. Click I'm ready to start button
-8. Download and install the Heroku Toolbelt for Mac OS X
+6. Go to [this link](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
+7. Download and install the Heroku Toolbelt for Mac OS X
+
 9. Install heroku:
 	* Go to [this link](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up) and download / install the Heroku Toolbelt for Mac OS X
 
