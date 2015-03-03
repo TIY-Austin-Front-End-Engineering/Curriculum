@@ -28,9 +28,6 @@
 6. Go to [this link](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
 7. Download and install the Heroku Toolbelt for Mac OS X
 
-9. Install heroku:
-	* Go to [this link](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up) and download / install the Heroku Toolbelt for Mac OS X
-
 ### 2. Set up your local development environment
 
 > You will need to do all of these steps once for each new project.
