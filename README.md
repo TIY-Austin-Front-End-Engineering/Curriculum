@@ -4,7 +4,11 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 9
+* [Day 33: Introduction to Back-end Development](/day-33)
+
 ### Week 8
+* [Day 32: Recursion and Angular Filters](/day-32)
 * [Day 31: Angular UI Router](/day-31)
 * [Day 30: Web Application Architecture](/day-30)
 * [Day 29: Hoisting and Factories](/day-29)
