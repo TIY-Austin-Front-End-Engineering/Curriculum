@@ -38,7 +38,9 @@
 4. Run `npm install` to install the back-end dependencies.
 5. Run `bower install` to install the front-end dependencies. 
 6. To run your sails server type `forever -w start app.js`. This will restart the server any time there is a change to one of the server files.
+	1. To stop the sails server type `forever stop app.js`
 7. I recommend keeping the server output log open in its own terminal window: `forever logs app.js -f`
+	1. To stop watching the log type `ctrl+c`
 8. Open http://localhost:1337 in Chrome to make sure that the app is running properly
 
 ### 3. Set up your production environment
@@ -54,9 +56,10 @@
 
 > You will need to do these steps each time you have changes on your development environment that you want to deploy to production (aka heroku).
 
-1. Make sure you have added and committed all of the changes that you want to deploy.
-2. Run `git push heroku master`
-3. This is usually a good time to push to github too: `git push origin master`
+1. Run `grunt buildProd` to prepare all of your files for production.
+2. Make sure you have added and committed all of the changes that you want to deploy.
+3. Run `git push heroku master`
+4. This is usually a good time to push to github too: `git push origin master`
 
 
 # Assignment
