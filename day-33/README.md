@@ -34,25 +34,18 @@
 
 1. Create a postgres database for your new application: `createdb appdb`
 2. Create a postgres user for your new application: `createuser postgres`
-3. Copy down my sails template `git clone git@github.com:TIY-Austin-Front-End-Engineering/sails-template.git`
-4. Rename the template to something else `mv sails-template assignment-app`
-5. Remove the git history from the project: `cd assignment-app` and `rm -rf .git`
-6. Run `git init` to initialize a new git repository.
-7. On github, create a new repo **without a README**.
-8. Add the new github repo as a remote to your new sails project. This will allow you to store a copy of your code on GitHub for backup purposes and sharing.
-	1. `git remote add origin [url you would normally clone goes here]`
-9. Add commit and push your repo: `git add .` then `git commit -m "initial commit"` finally `git push origin master`
-10. Run `npm install` to install the back-end dependencies.
-11. Run `bower install` to install the front-end dependencies. 
-12. To run your sails server type `forever -w start app.js`. This will restart the server any time there is a change to one of the server files.
-13. I recommend keeping the server output log open in its own terminal window: `forever logs app.js -f`
-14. Open http://localhost:1337 in Chrome to make sure that the app is running properly
+3. Fork and then clone my [sails-template](https://github.com/TIY-Austin-Front-End-Engineering/sails-template) from GitHub.
+4. Run `npm install` to install the back-end dependencies.
+5. Run `bower install` to install the front-end dependencies. 
+6. To run your sails server type `forever -w start app.js`. This will restart the server any time there is a change to one of the server files.
+7. I recommend keeping the server output log open in its own terminal window: `forever logs app.js -f`
+8. Open http://localhost:1337 in Chrome to make sure that the app is running properly
 
 ### 3. Set up your production environment
 
 > You will need to do all of these steps once for each new project.
 
-1. On the command line make sure that you are inside of your project directory and your project has a github repo (aka you have typed `git init`)
+1. On the command line make sure that you are inside of your project directory and your project has a github repo (aka you have typed `git init` or cloned it from GitHub)
 2. Run the command `heroku create` to create a new app on heroku. You may have to enter your heroku username and password.
 3. Run `heroku addons:add heroku-postgresql` to create a database on heroku for your app.
 
