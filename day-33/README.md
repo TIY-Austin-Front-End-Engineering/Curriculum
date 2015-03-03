@@ -48,6 +48,7 @@
 1. On the command line make sure that you are inside of your project directory and your project has a github repo (aka you have typed `git init` or cloned it from GitHub)
 2. Run the command `heroku create` to create a new app on heroku. You may have to enter your heroku username and password.
 3. Run `heroku addons:add heroku-postgresql` to create a database on heroku for your app.
+4. Run `heroku config:set NODE_ENV=production` to set the environment variable to production.
 
 ### 4. Deploy to production
 
