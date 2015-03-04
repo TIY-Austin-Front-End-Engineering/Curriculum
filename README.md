@@ -5,6 +5,7 @@
 * [Welcome!](/intro/README.md)
 
 ### Week 9
+* [Day 34: Deploying to Heroku and Login Logic](/day-34)
 * [Day 33: Introduction to Back-end Development](/day-33)
 
 ### Week 8
