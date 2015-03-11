@@ -34,13 +34,13 @@ Before writing our tests we'll need to install some new libraries to help with o
         
         // list of files / patterns to load in the browser
         files: [
-        	'assets/bower_components/angular/angular.js',
-        	'assets/bower_components/angular-ui-router/release/angular-ui-router.js',
-        	'assets/bower_components/angular-mocks/angular-mocks.js',
-        	'assets/bower_components/lodash/lodash.js',
-        	'assets/bower_components/validator-js/validator.js',
-        	'assets/js/app/*.js',
-        	'assets/tests/*.js'
+        	'assets/bower_components/angular/angular.js',	// add angular
+        	'assets/bower_components/angular-ui-router/release/angular-ui-router.js', // add ui router
+        	'assets/bower_components/angular-mocks/angular-mocks.js',	// add angular mocks
+        	'assets/bower_components/lodash/lodash.js',		// add lodash
+        	'assets/bower_components/validator-js/validator.js', 	// add validator
+        	'assets/js/app/*.js',	// Add all application code (app, controllers, services, etc.)
+        	'assets/tests/*.js'		// Add all tests
         ],
         
         
@@ -51,4 +51,28 @@ Before writing our tests we'll need to install some new libraries to help with o
         ...
 
 
-6. test
+6. Now we can start writing tests. All tests will go in the `tests` directory that we created. For example, if we wanted to create a test for our registration controller we might create a file called `RegisterCtrl.test.js`.
+
+        describe('RegisterCtrl', function() {
+        
+        	var $scope;
+        	var RegisterCtrl;
+        	var Validate;
+        
+        	beforeEach(module('app.controllers'));
+        
+        	beforeEach(inject(function($rootScope, $controller, $injector) {
+        		$scope = $rootScope.$new();
+        		RegisterCtrl = $controller('RegisterCtrl', {$scope: $scope});
+        	}));
+        
+        	it('should require a username', function() {
+        		$scope.register({});
+        		expect($scope.error.identifier).to.not.equal('');
+        	});
+        
+        	it('should not show errors if credentials are valid', function() {
+        		$scope.register({identifier: 'test@test.com', password: 'password123'});
+        		expect($scope.error.identifier).to.equal('');
+        	});
+        });
