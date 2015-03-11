@@ -22,7 +22,7 @@
 |   |	├── functions.js
 |	├── tests
 ```
-- `cd` into your new directory
+- `cd` into your new directory (your-directory in the example above)
 - Run `bower init` and then `bower install --save ...` on any bower components that you want to install. You'll probably want to install mocha and chai as dev dependencies and underscore or lodash as regular dependencies.
 - run `mocha init tests`
 - Notice that a new index.html file was created within your tests directory? This is where your tests will run from - but you will need to include them in the tests/index.html page (hint: use ../ to move "up" a directory).
