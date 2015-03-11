@@ -76,3 +76,5 @@ Before writing our tests we'll need to install some new libraries to help with o
         		expect($scope.error.identifier).to.equal('');
         	});
         });
+
+7. We can run all of our tests from the root directory of our project using the command `karma start karma.conf.js `. By default, karma will continue to run, and as we make changes to our files it will re-run our tests to make sure we haven't broken something.
