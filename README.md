@@ -4,6 +4,9 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 10
+* [Day 35: Angular Unit Testings with Karma, Mocha and Chai](/day-35)
+
 ### Week 9
 * [Day 34: Deploying to Heroku and Login Logic](/day-34)
 * [Day 33: Introduction to Back-end Development](/day-33)
