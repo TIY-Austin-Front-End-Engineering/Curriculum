@@ -23,7 +23,8 @@ Before writing our tests we'll need to install some new libraries to help with o
 	5. Should any of the files included by the previous patterns be excluded ? *leave this blank*
 	6. Do you want Karma to watch all the files and run the tests on change ? **yes**
 	7. After finishing answering all of the questions you should have a karma.conf.js file in the root directory of your project.
-5. Now we need to tell Karma which files to include when we run our tests. We skipped this in steps 4 and 5 because it's easier to just modify the config file. To do this open up `karma.conf.js` and add the files that you'd like to include (both your angular files, all of the necessary libraries and all of your tests) in the `files` array. You can use * notation to pull in a pattern of files as well. For example... ```js
+5. Now we need to tell Karma which files to include when we run our tests. We skipped this in steps 4 and 5 because it's easier to just modify the config file. To do this open up `karma.conf.js` and add the files that you'd like to include (both your angular files, all of the necessary libraries and all of your tests) in the `files` array. You can use * notation to pull in a pattern of files as well. For example...
+```js
 ...
 
 // frameworks to use
@@ -49,3 +50,4 @@ exclude: [
 
 ...
 ```
+6. test
