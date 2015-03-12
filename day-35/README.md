@@ -13,7 +13,8 @@
 Before writing our tests we'll need to install some new libraries to help with our testing, and create the necessary directory structure to make everything work.
 
 1. Install Karma (from any directory). Karma is the tool that will run our tests `npm install -g karma karma-cli`. You might need to run this command with sudo if you get errors.
-2. Install angular-mocks, mocha, chai and phantomjs locally (from your project directory). `npm install karma-mocha karma-phantomjs-launcher karma-sinon-chai mocha angular-mocks --save-dev`.
+2. Install mocha, chai and phantomjs locally (from your project directory). `npm install karma-mocha karma-phantomjs-launcher karma-sinon-chai mocha --save-dev`.
+2. Install angular-mocks locally: `bower instal --save-dev angular-mocks`.
 3. Create a new directory `assets/tests`.
 4. Inside the root directory of your project, run `karma init` and fill out the following options:
 	1. Which testing framework do you want to use ? **mocha**
