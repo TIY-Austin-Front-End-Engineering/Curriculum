@@ -15,7 +15,8 @@ The **path** to the alarner directory would look like this...
 
 ![Directory Tree Path](directory-tree-path.png)
 
+## Root Relative Paths
 When we describe paths in web development we commonly write them like `/Users/alarner`. Notice that as we traverse the path from top to bottom, each time we encounter a node we write the name of the node (the directory name) and each time we encounter an edge we write a `/`. The root node is special because of the way that your Mac names it. If you look at it in the Finder you will see that it's called Macintosh HD, but that's just a nick name. Its real name is `/`. That means if our path starts with a `/` then we are telling the computer to begin in the root directory. Paths that begin with a `/` are called **root relative** paths because they are relative to the root node of the directory tree.
 
-
+## Document Relative Paths
 But we don't always have to describe paths from the root node. This can get a little bit tedious if we are trying to target a deep ancestor of the tree. In order to save us the headache of typing out the full path from the root directory each time, there is another type of path we can use called a **document relative** path.
