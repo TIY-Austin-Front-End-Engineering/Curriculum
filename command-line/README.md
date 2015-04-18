@@ -52,3 +52,6 @@ The `open` command will open up a file in whatever its default application is. F
 
 ##### tab completion
 Using the command line involves typing lots of root relative and document relative paths. This can often be tedious and prone to errors. The command line is not forgiving, so if you mistype one character in your path, the command you are trying to run is going to fail, or do something that you don't expect. To help alleviate these problems, we use **tab completion**. Both the Terminal and iTerm 2 allow you to press your `tab` key while in the middle of typing out a path. If there is only one path that could possibly fit what you are typing in, then the Terminal will automatically fill in that entire path. If there are multiple paths that could fit what you are typing in, you can quickly press `tab` twice, and it will list out all of your options.
+
+##### man pages
+If you're curious about all of the options available for a certain command, you can type `man` followed by the name of the command that you want to learn more about. This will display all of the options available to that command, as well as other useful information. For example, `man ls` will show you all of the options available when using the `ls` command.
