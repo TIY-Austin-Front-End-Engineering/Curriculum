@@ -28,3 +28,14 @@ Document relative paths are specified relative to the document (or node) where w
 With relative paths we can also move "up" to the parent node by using `..` notation. For example, if we are currently inside of the `Users` directory, we could move to the root (Macintosh HD) directory by following the path `..`. Furthermore, we could jump right to the `System` directory by following the path `../System`.
 
 ![Directory Tree Relative Parent](directory-tree-relative-parent.png)
+
+## URLs
+On the web we often want to access information on computers other than our own. Maybe we are linking to a page on google, maybe we want to embed a video from youtube, maybe we want to include an image from flikr. Unfortunately, the types of paths that we've descussed so far don't allow for this, so we have one final type of construct to discuss, the **URL**. URLs are not strictly a type of path. Instead they specify a path, along with a domain, and method for accessing the resource that we're trying to target.
+
+Here is the formal definition of a URL: *scheme://[user:password@]domain:port/path?query_string#fragment_id*
+
+Often we don't need all of this information, but the scheme and domain are required. For example, these are all valid URLS:
+
+* http://google.com
+* https://google.com
+* https://tiy.breadcrumbsqa.com/index
