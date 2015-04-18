@@ -25,7 +25,7 @@ Document relative paths are specified relative to the document (or node) where w
 
 ![Directory Tree Relative](directory-tree-relative.png)
 
-With relative paths we can also move "up" to the parent node by using `..` notation. For example, if we are currently inside of the `Users` directory, we could move to the root (Macintosh HD) directory by following the path `..`. Furthermore, we could jump right to the `System` directory by following the path `../System`.
+With relative paths we can also move "up" to the parent node by using `..` notation. For example, if we are currently inside of the `Users` directory, we could move to the root (Macintosh HD) directory by following the path `..`. Furthermore, we could jump right to the `Library` directory by following the path `../Library`.
 
 ![Directory Tree Relative Parent](directory-tree-relative-parent.png)
 
