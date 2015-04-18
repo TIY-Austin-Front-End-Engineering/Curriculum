@@ -12,6 +12,10 @@ On out Macs, we interact with the command line via an application called the **T
 
 I like to use an application called **iTerm 2** instead of Terminal because it adds some nice features in addition to everything that the Terminal offers. You're welcome to use either one. To get iTerm 2, follow [this link](http://iterm2.com/) and download it.
 
-After opening up the Terminal app I'd also recommend right clicking on it in your dock and selecting `Options` > `Keep in Dock` because you will be using it very often.
+After opening up the Terminal you should see a screen like this:
+
+![Terminal Window](terminal-window.png)
+
+At this point I'd recommend right clicking on the Terminal icon in your dock and selecting `Options` > `Keep in Dock` because you will be using it very often.
 
 ![Save to Dock](save-to-dock.png)
