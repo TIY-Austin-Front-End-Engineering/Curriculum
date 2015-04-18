@@ -10,3 +10,7 @@ As we learned when we were talking about trees, paths are a sequence of nodes an
 If we were to visualize these folders (also sometimes called directories) as a tree, it might look something like this...
 
 ![Directory Tree](directory-tree.png)
+
+The **path** to the alarner directory would look like this...
+
+![Directory Tree Path](directory-tree-path.png)
