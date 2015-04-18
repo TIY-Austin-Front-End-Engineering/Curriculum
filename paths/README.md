@@ -24,3 +24,7 @@ But we don't always have to describe paths from the root node. This can get a li
 Document relative paths are specified relative to the document (or node) where we are currently standing. If we are currently inside the `Users` directory, but we want to go to the `alarner` directory, it doesn't make sense to start at the root, because we are already half way there. Starting at the root would be taking one step backwards. Instead, if we don't start our path with a `/` then the computer knows to look for the next node starting from where we are currently standing. so if I was inside of the `Users` directory and wanted to go to the `alarner` directory I could simply say `alarner`. Since I'm already inside of the `Users` directory, the computer is smart enough to know that I'm trying to go to `/Users/alarner`.
 
 ![Directory Tree Relative](directory-tree-relative.png)
+
+With relative paths we can also move "up" to the parent node by using `..` notation. For example, if we are currently inside of the `Users` directory, we could move to the root (Macintosh HD) directory by following the path `..`. Furthermore, we could jump right to the `System` directory by following the path `../System`.
+
+![Directory Tree Relative Parent](directory-tree-relative-parent.png)
