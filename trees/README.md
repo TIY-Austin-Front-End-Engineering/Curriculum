@@ -17,14 +17,44 @@ A single point of data within a tree.
 
 ![Node](family-tree-node.png)
 
-<!-- - **node**: 
-- **root**: The top node of the tree. In the case of my family tree it would be the `Joseph / Francis` node.
-- **parent**: The node directly above the node in question. For example, `Andrew / Veronica` is the parent node of me (`Aaron`). A node can only have one parent.
-- **child**: A node directly below the node in question. For example, `Aaron`, `Elizabeth` and `Abigail` are all children of the `Andrew / Veronica` node.
-- **siblings**: Nodes with the same parent.
-- **descendent** (or ancestor): A node anywhere below the node in question. For example, every other node is a descendent of the `Joseph / Francis` node. Only `Peter` is a descendent of the `James / Roxanne` node. In other words: a node reachable by repeated proceeding from parent to child.
-- **leaf**: A node with no children (`Daniel`, `Phoebe`, `Lucy`, `Peter`, `Aaron`, `Elizabeth`, `Abigail`)
-- **edge**: Connection between one node to another.
-- **path**: A sequence of nodes and edges connecting a node with a descendant. -->
+## root
+The top most node of the tree. In the case of my family tree it would be the `Joseph / Francis` node.
+
+![Root](family-tree-root.png)
+
+## parent
+The node directly above the node in question. For example, `Andrew / Veronica` is the parent node of me (`Aaron`). A node can only have one parent.
+
+![Parent](family-tree-parent.png)
+
+## child
+Any nodes directly below the node in question. For example, `Aaron`, `Elizabeth` and `Abigail` are all children of the `Andrew / Veronica` node.
+
+![Child](family-tree-child.png)
+
+## siblings
+Nodes with the same parent.
+
+![Siblings](family-tree-siblings.png)
+
+## descendent (or ancestor)
+A node anywhere below the node in question. For example, every other node is a descendent of the `Joseph / Francis` node. Only `Peter` is a descendent of the `James / Roxanne` node. In other words: a node reachable by repeated proceeding from parent to child.
+
+![Descendent](family-tree-descendent.png)
+
+## leaf
+A node with no children (`Daniel`, `Phoebe`, `Lucy`, `Peter`, `Aaron`, `Elizabeth`, `Abigail`)
+
+![Leaf](family-tree-leaf.png)
+
+## edge
+Connection between one node to another.
+
+![Edge](family-tree-edge.png)
+
+## path
+A sequence of nodes and edges connecting a node with a descendant.
+
+![Path](family-tree-path.png)
 
 As I alluded to above, tree data structures are used everywhere in web development. HTML itself is a tree, javascript heavily uses trees, and files / folders on your computer are structured as a tree.
