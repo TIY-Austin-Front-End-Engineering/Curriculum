@@ -41,3 +41,14 @@ If we want to create a new directory we use the `mkdir` (for make directory) com
 
 ##### rm
 To delete a file we use the `rm` (for remove) command followed by the root relative or document relative path to the file we want to delete. For example, `rm hello.txt.` will remove the `hello.txt` file within the current directory. By default, `rm` will not delete a directory. To remove an entire directory we must use the `-r` (for recursive) option. Using the `-r` option will remove the directory and anything in it. For each file or subdirectory it will ask you if you want to delete it. That can be cumbersome if you're trying to delete a directory with hundreds or thousands of files. To prevent the command for asking to to verify deleting each file you can use the `-f` (for force) option. For example, `rm -rf test` will delete the test directory inside of the current directory, and everything that's inside of the test directory. **USING `rm -rf` CAN BE VERY DANGEROUS**. Tripple check that you actually want to run the command before you press enter because there is no way to recover deleted files.
+
+##### nano
+The `nano` command will open up a simple command line based text editor. There are several other command line based text editors like `vim` and `emacs`, but `nano` is the simplest. It's great for making simple changes to text files from the command line.
+
+##### open
+The `open` command will open up a file in whatever its default application is. For example, `open hello.txt` will open the `hello.txt` file in whatever you have set as your default editor for text files.
+
+### Tips and Tricks
+
+##### tab completion
+Using the command line involves typing lots of root relative and document relative paths. This can often be tedious and prone to errors. The command line is not forgiving, so if you mistype one character in your path, the command you are trying to run is going to fail, or do something that you don't expect. To help alleviate these problems, we use **tab completion**. Both the Terminal and iTerm 2 allow you to press your `tab` key while in the middle of typing out a path. If there is only one path that could possibly fit what you are typing in, then the Terminal will automatically fill in that entire path. If there are multiple paths that could fit what you are typing in, you can quickly press `tab` twice, and it will list out all of your options.
