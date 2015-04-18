@@ -4,18 +4,7 @@ You are going to encounter trees every single day in your web development career
 
 You are probably already familiar with tree data structures. For example, your family can be described as a tree (a family tree). In fact, we often describe the relationship between data in a tree like we would a family. Here's my fathers side of my family tree:
 
-
-Joseph / Francis
- - Paul / Rosita
- 	- Daniel
- 	- Phoebe
- 	- Lucy
- - James / Roxanne
- 	- Peter
- - Andrew / Veronica
- 	- Aaron
- 	- Elizabeth
- 	- Abigail
+![Family Tree](family-tree.png)
 
 In computer science terminology, we call each person, or pair of people, in the tree a "node." My uncle Paul and Aunt Rosita represent a single node, as does my cousin Lucy and my sisters Elizabeth and Abigail. "node" is a generic way of describing one piece of data within a tree.
 
