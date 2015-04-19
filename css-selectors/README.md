@@ -200,3 +200,15 @@ div ul > li {
 ```
 
 The following CSS will set the padding to zero for all li elements that are direct children of a ul element, that are descendents of a div. It's important to note that the last selector in the chain (in this case the li) is the element where the CSS properties are applied to.
+
+## More Resources
+
+* [Type Selectors](http://css.maxdesign.com.au/selectutorial/selectors_type.htm)
+* [Class Selectors](http://css.maxdesign.com.au/selectutorial/selectors_class.htm)
+* [ID Selectors](http://css.maxdesign.com.au/selectutorial/selectors_id.htm)
+* [Descdendant Selectors](http://css.maxdesign.com.au/selectutorial/selectors_descendant.htm)
+* [Child Selectors](http://css.maxdesign.com.au/selectutorial/selectors_child.htm)
+* [Universal Selectors](http://css.maxdesign.com.au/selectutorial/selectors_universal.htm)
+* [Adjacent Sibling Selectors](http://css.maxdesign.com.au/selectutorial/selectors_adjacent.htm)
+* [Attribute Selectors](http://css.maxdesign.com.au/selectutorial/selectors_attribute.htm)
+
