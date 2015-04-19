@@ -201,6 +201,16 @@ div ul > li {
 
 The following CSS will set the padding to zero for all li elements that are direct children of a ul element, that are descendents of a div. It's important to note that the last selector in the chain (in this case the li) is the element where the CSS properties are applied to.
 
+### Style attribute
+
+In addition to traditional type selectors that we've seen above, we can also specify CSS properties directly on an element using the style attribute. Here's an example:
+
+```html
+<p style="color: red; font-weight: bold;">hello world</p>
+```
+
+Notice how we've added a style attribute to the `<p>` tag. The style attribute has CSS property names and values just like we would add them in our CSS file, but instead that information is put right in the value of the style attribute. This technique is generally frowned upon and it is preferable to put your CSS in its own file.
+
 ## More Resources
 
 * [Type Selectors](http://css.maxdesign.com.au/selectutorial/selectors_type.htm)
