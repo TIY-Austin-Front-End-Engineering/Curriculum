@@ -1,5 +1,8 @@
 # CSS Specificity
 
+### You should already know about
+* [CSS Introduction](../css-introduction/README.md)
+
 CSS can get complicated. Since there are an infinite number of ways to use CSS selectors, you're bound to run into situations where two different blocks of CSS are competing to style the same element. In those situations, the browser needs a definitive way of determining which CSS should win out. This is where **CSS specificity** comes in to play.
 
 ## What if CSS blocks conflict?

@@ -1,4 +1,4 @@
-# Scaffolding Webpages with HTML
+# HTML Documents
 
 ### You should already know about
 * [Trees](../trees/README.md)

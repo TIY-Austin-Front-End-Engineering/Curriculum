@@ -2,6 +2,9 @@
 
 ### You should already know about
 * [CSS Introduction](../css-introduction/README.md)
+* [CSS Selectors](../css-selectors/README.md)
+* [CSS Pseudo-classes](../css-pseudo-classes/README.md)
+* [CSS Pseudo-elements](../css-pseudo-elements/README.md)
 
 ## Types of CSS selectors
 

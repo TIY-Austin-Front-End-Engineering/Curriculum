@@ -28,6 +28,12 @@ It has become best practice to use `min-width` instead of `max-width`. It's a su
 2. Mobile devices are more often on slower internet connections and have slower processors, therefore fast page load times are much more important. If your site is set up to display the mobile breakpoint by default then the browser is able to load mobile pages faster.
 3. Mobile breakpoints are harder to design because you have less room to work with. Building them out first will force you to solve the difficult problems first, and in many cases prevent you from having to go back and undo or redo work.
 
+## Tips and Tricks
+
+1. You can use the `display` property to selectively show or hide elements based on a media query.
+2. You can use the `float` property on block elements to change where they appear on a page based on a media query.
+
+
 ## More Resources
 
 * [CSS media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queriesportant-is-the-right-choice/)
