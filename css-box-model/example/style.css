@@ -1,0 +1,25 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.box {
+	background: #999;
+	float: left;
+	color: #fff;
+	line-height: 17px;
+
+	width: 200px;
+	height: 102px;
+	padding: 20px;
+	border: 5px solid #000;
+	margin: 28px;
+}
+
+.box1 {
+	box-sizing: content-box;
+}
+
+.box2 {
+	box-sizing: border-box;
+}
