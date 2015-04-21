@@ -1,0 +1,55 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+section {
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
+.test-inline {
+	display: inline;
+	width: 500px;
+	height: 200px;
+	background: black;
+	color: white;
+	margin: 20px;
+}
+
+.test-float {
+	padding: 20px;
+	margin-right: 20px;
+	background: black;
+	color: white;
+	float: left;
+}
+
+.test-another-float {
+	padding: 20px;
+	margin: 0 20px 20px 0;
+	background: black;
+	color: white;
+	float: left;
+}
+
+.test-another-float:nth-of-type(3n+1) {
+	clear: left;
+}
+
+.test-inline-block {
+	display: inline-block;
+	margin: 0;
+	padding: 20px;
+	background: black;
+	color: white;
+	font-size: 14px;
+}
+
+.inline-block {
+	font-size: 0;
+}
+
+.parent {
+	background: blue;
+}
