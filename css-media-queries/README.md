@@ -1,6 +1,5 @@
 # CSS Media Queries
 
-
 ### You should already know about
 * [CSS Introduction](../css-introduction/README.md)
 
