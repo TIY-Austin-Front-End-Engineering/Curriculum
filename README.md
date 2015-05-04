@@ -5,4 +5,5 @@
 * [Welcome!](/intro/README.md)
 
 ### Week 1
+* [Day 2](/DAY02.md)
 * [Day 1](/DAY01.md)
