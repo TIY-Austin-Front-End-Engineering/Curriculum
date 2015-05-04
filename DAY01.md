@@ -16,6 +16,8 @@ Goals:
 	* W3C Validator Sublime Plugin
 * [CSS Introduction](/css-introduction/README.md)
 	* Personal Blocklist Chrome extension
+	* Digital Color Meter - display as hex
+		* Shift-Command-C – this will copy the measured value onto your clipboard
 
 Assignments
 * [Tree Practice](https://github.com/TIY-Austin-Front-End-Engineering/tree-practice)
