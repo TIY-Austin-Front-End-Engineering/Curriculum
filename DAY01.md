@@ -2,6 +2,11 @@
 
 # Day 1
 
+Notes:
+* Altered class schedule for week of May 18th. No class Monday, class on Friday instead.
+* Get homework in by 10pm, Even if it's not finished.
+* If you feel behind, spend 4 hours/day on new material, 2 hours/day on reviewing old material.
+
 Goals:
 * [Trees](/trees/README.md)
 * [Paths](/paths/README.md)
