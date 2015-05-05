@@ -15,6 +15,7 @@ Notes:
 * Assignment submissions
 * Dist directory
 * Margin inside parent issues
+* Mobile sites / width
 
 Goals:
 * [Git](https://try.github.io/levels/1/challenges/1)
