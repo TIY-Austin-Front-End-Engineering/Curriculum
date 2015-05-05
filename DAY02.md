@@ -22,5 +22,12 @@ Goals:
 * [CSS Layout](/css-box-model/README.md)
 * [CSS Centering](/css-centering/README.md)
 
+Resources:
+
+* [Unix Cheat Sheet](http://www.cheat-sheets.org/saved-copy/fwunixref.pdf)
+* [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+* [Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Learn Layout](http://learnlayout.com/)
+
 Assignments
 * [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
