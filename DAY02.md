@@ -3,7 +3,6 @@
 # Day 2
 
 Notes:
-* Why are we doing joint lecture the first week?
 * Get on slack!
 	* [Mac App](https://itunes.apple.com/us/app/slack/id803453959?mt=12)
 	* [iPhone App](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8)
@@ -32,3 +31,6 @@ Resources:
 
 Assignments
 * [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
+
+> ## Notes for next time:
+> Git took up most of the time. We did cover the box model, but not CSS Layout or Centering
