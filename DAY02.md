@@ -12,6 +12,9 @@ Notes:
 * Mobile fluid layouts - avoid use of width property
 * Margin issues
 * Normalize.css
+* Assignment submissions
+* Dist directory
+* Margin inside parent issues
 
 Goals:
 * [Git](https://try.github.io/levels/1/challenges/1)
