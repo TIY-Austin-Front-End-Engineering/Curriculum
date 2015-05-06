@@ -11,10 +11,10 @@ Notes:
 * `git clone`
 
 Goals:
-* [Sass](https://try.github.io/levels/1/challenges/1)
-* [CSS Media Queries](/css-box-model/README.md)
+* [CSS Selectors](/css-selectors)
 * [CSS Layout](/css-box-model/README.md)
+* [Sass](https://try.github.io/levels/1/challenges/1)
 
 Homework:
+* Finish [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
 * Convert your homework assignment from last night to Sass.
-* [media-queries-1](https://github.com/TIY-Austin-Front-End-Engineering/media-queries-1)
