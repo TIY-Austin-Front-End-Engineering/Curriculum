@@ -5,6 +5,7 @@
 Notes:
 * Why are we doing joint lecture the first week?
 * No reddit browsing before noon.
+* Review tree-directory assignment.
 
 Goals:
 * [Sass](https://try.github.io/levels/1/challenges/1)
