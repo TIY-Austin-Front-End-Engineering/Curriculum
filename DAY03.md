@@ -11,7 +11,7 @@ Notes:
 Goals:
 * [CSS Selectors](/css-selectors)
 * [CSS Layout](/css-box-model/README.md)
-* [Sass](https://try.github.io/levels/1/challenges/1)
+* [Sass](http://sass-lang.com/guide)
 
 Homework:
 * Finish [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
