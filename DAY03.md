@@ -7,8 +7,6 @@ Notes:
 * No reddit browsing before noon.
 * Review tree-directory assignment.
 * Sublime package manager, W3C validation plugin
-* `github fork`
-* `git clone`
 
 Goals:
 * [CSS Selectors](/css-selectors)
