@@ -35,5 +35,5 @@ It has become best practice to use `min-width` instead of `max-width`. It's a su
 
 ## More Resources
 
-* [CSS media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queriesportant-is-the-right-choice/)
+* [CSS media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
 * [@media - Codrops](http://tympanus.net/codrops/css_reference/media/)
