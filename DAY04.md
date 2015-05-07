@@ -7,9 +7,9 @@ Notes:
 * W3schools page block
 
 Goals:
-[CSS Media Queries](/css-media-queries)
-[CSS Centering](/css-centering)
-[CSS Positioning](/css-positioning)
+* [CSS Media Queries](/css-media-queries)
+* [CSS Centering](/css-centering)
+* [CSS Positioning](/css-positioning)
 
 Homework:
 * [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
