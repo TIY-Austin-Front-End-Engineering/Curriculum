@@ -6,7 +6,9 @@ Notes:
 * Videos
 * W3schools page block
 * Clearing
-* Page width issues
+* Homework review
+	* Page width issues
+	* CSS class names
 
 Goals:
 * [CSS Media Queries](/css-media-queries)
