@@ -25,4 +25,5 @@ Resource:
 * [A Visual Guide of CSS Positioning](http://cassieshumway.github.io/project-position/)
 
 Homework:
+* [Read: An Idiomatic Styleguide to CSS](https://github.com/necolas/idiomatic-css)
 * [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
