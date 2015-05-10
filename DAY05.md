@@ -9,6 +9,7 @@ Notes:
 	* resubmitting
 	* viewing feedback
 	* type of grades DOA, Incomplete, Good, Great
+* In class assignment on [CSS specificity](https://github.com/TIY-Austin-Front-End-Engineering/css-specificity)
 
 Goals:
 * [Form Elements](/form-elements)
