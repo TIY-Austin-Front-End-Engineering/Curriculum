@@ -15,7 +15,7 @@ Goals:
 * [CSS Centering](/css-centering)
 * [CSS Positioning](/css-positioning)
 
-Resource:
+Resources:
 * [Media Query Logic](https://css-tricks.com/logic-in-media-queries/)
 * [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 * [Positioning in CSS](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)

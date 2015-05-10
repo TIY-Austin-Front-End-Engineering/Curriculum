@@ -17,7 +17,7 @@ Goals:
 * [CSS Pseudo-Elements](/css-pseudo-elements)
 * [CSS Specificity](/css-specificity)
 
-Resource:
+Resources:
 * [Pseudo-classes - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [Psuedo-elements - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 * [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)

@@ -19,7 +19,7 @@ Goals:
 	* Digital Color Meter - display as hex
 		* Shift-Command-C – this will copy the measured value onto your clipboard
 
-Assignments
+Homework
 * [Tree Practice](https://github.com/TIY-Austin-Front-End-Engineering/tree-practice)
 * [Tree Directory](https://github.com/TIY-Austin-Front-End-Engineering/tree-directory)
 * [Mobile Layout](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1)

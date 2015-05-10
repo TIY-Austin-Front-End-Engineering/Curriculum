@@ -29,7 +29,7 @@ Resources:
 * [Git Guide](http://rogerdudler.github.io/git-guide/)
 * [Learn Layout](http://learnlayout.com/)
 
-Assignments
+Homework
 * [Complete Try Git](https://try.github.io/levels/1/challenges/1)
 * [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
 
