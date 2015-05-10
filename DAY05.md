@@ -14,6 +14,7 @@ Goals:
 * [Form Elements](/form-elements)
 * [CSS Pseudo-Classes](/css-pseudo-classes)
 * [CSS Pseudo-Elements](/css-pseudo-elements)
+* [CSS Specificity](/css-specificity)
 
 Resource:
 * [Pseudo-classes - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
