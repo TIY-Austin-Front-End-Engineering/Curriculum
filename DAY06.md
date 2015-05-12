@@ -4,10 +4,11 @@
 
 Notes:
 * homework max-width (last breakpoint)
+* hamburger menu
+* ems, rems, %
 * bower
 * fork
 * clone
-
 
 Goals:
 * [Grid Systems](/css-transitions)
