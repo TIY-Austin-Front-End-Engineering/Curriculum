@@ -18,5 +18,5 @@ Resources:
 * [JavaScript Glossary](https://github.com/TIY-Austin-Front-End-Engineering/js-glossary)
 
 Homework:
-* [Evaluating JavaScript Expressions]()
+* [Evaluating JavaScript Expressions](https://github.com/TIY-Austin-Front-End-Engineering/evaluating-expressions)
 * [Number Guessing Game](https://github.com/TIY-Austin-Front-End-Engineering/js-guessing-game)
