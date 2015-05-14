@@ -3,6 +3,7 @@
 # Day 8
 
 Notes:
+* One on ones
 * [JavaScript Review](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-js-and-jquery-review)
 
 Goals:
