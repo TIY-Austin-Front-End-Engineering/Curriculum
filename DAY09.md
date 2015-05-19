@@ -38,3 +38,10 @@ Resources:
 * [JavaScript Functions Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Functions)
 
 Homework:
+* [JavaScript Form Functions](...)
+* Create a blog on tumblr and write a post about one of these topics. Link to the published article when you submit this assignment.
+	* The biggest success you've had thus far in the course
+	* The most surprising thing about the experience so far
+	* Why you love JavaScript
+	* Why you hate JavaScript
+* Read about interacting with the DOM
