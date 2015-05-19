@@ -44,4 +44,5 @@ Homework:
 	* The most surprising thing about the experience so far
 	* Why you love JavaScript
 	* Why you hate JavaScript
+	* Explain a JavaScript concept that you understand really well in your own words.
 * Read about interacting with the DOM
