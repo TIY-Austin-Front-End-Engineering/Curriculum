@@ -39,6 +39,7 @@ Resources:
 
 Homework:
 * [JavaScript Form Functions](https://github.com/TIY-Austin-Front-End-Engineering/javascript-form-functions)
+* Watch [John Saddingtons talk on bloggin](https://www.youtube.com/watch?v=ELJMXr7RWF8)
 * Create a blog on tumblr and write a post about one of these topics. Link to the published article when you submit this assignment.
 	* The biggest success you've had thus far in the course
 	* The most surprising thing about the experience so far
