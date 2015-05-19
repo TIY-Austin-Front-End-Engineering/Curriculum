@@ -38,11 +38,13 @@ Resources:
 * [JavaScript Functions Tutorial - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Functions)
 
 Homework:
-* [JavaScript Form Functions](...)
+* [JavaScript Form Functions](https://github.com/TIY-Austin-Front-End-Engineering/javascript-form-functions)
 * Create a blog on tumblr and write a post about one of these topics. Link to the published article when you submit this assignment.
 	* The biggest success you've had thus far in the course
 	* The most surprising thing about the experience so far
 	* Why you love JavaScript
 	* Why you hate JavaScript
 	* Explain a JavaScript concept that you understand really well in your own words.
-* Read about interacting with the DOM
+* Work though these tutorials that cover interacting with the DOM
+	* [Tutorial 1](https://dom-tutorials.appspot.com/static/1.html)
+	* [Tutorial 2](https://dom-tutorials.appspot.com/static/2.html)
