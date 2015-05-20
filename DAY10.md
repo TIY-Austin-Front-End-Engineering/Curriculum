@@ -20,7 +20,8 @@ Goals:
 
 
 Resources:
-* 
+* [DOM Interaction Tutorials](https://dom-tutorials.appspot.com/static/index.html)
 
 Homework:
-* Color Clock
+* [Color Clock](https://github.com/theironyard/js-assignments/tree/master/color-clock)
+* Read up on [DOM events](https://dom-tutorials.appspot.com/static/3.html).
