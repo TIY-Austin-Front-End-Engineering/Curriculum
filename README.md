@@ -5,7 +5,7 @@
 * [Welcome!](/intro/README.md)
 
 ### Week 2
-* [Day 10](/DAY09.md)
+* [Day 10](/DAY10.md)
 * [Day 9](/DAY09.md)
 
 ### Week 2
