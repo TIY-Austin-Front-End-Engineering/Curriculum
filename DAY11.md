@@ -8,7 +8,7 @@ Goals:
 * Event listeners
 * Event handlers
 * Event bubbling
-
+* Getting values from form elements
 
 Resources:
 
