@@ -14,4 +14,4 @@ Resources:
 
 
 Homework:
-* Basic todo list
+* [Vanilla todo list](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-todo)
