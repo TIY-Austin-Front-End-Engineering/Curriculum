@@ -5,7 +5,12 @@
 Notes:
 
 Goals:
+* Self invoking functions
 * [JavaScript scoping and closures](/scoping-closures)
+* `this`, call and apply
+
+In-class assignment:
+* [What is this?](https://github.com/alarner/what-is-this)
 
 
 Resources:
