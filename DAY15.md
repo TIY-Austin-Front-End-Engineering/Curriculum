@@ -6,9 +6,11 @@ Notes:
 
 Goals:
 * Unit testing
+* Hoisting
 
 In-class assignment:
 * Unit test your JavaScript Form Functions assignment
+* [Hoisting worksheet](https://github.com/TIY-Austin-Front-End-Engineering/hoisting-worksheet)
 
 Resources:
 
