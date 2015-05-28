@@ -16,4 +16,4 @@ var person1 = {
 };
 ```
 
-This is pretty cool.
+This is pretty cool. Now if we change the `firstName` or `lastName` properties 

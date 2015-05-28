@@ -5,7 +5,7 @@
 Notes:
 
 Goals:
-* Unit testing
+* [Unit testing](../unit-testing/README.md)
 * Hoisting
 
 In-class assignment:
