@@ -4,7 +4,11 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 5
+* [Day 17](/DAY17.md)
+
 ### Week 4
+* [Day 16](/DAY16.md)
 * [Day 15](/DAY15.md)
 * [Day 14](/DAY14.md)
 * [Day 13](/DAY13.md)
