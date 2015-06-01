@@ -20,7 +20,7 @@ Homework:
 
 2. Read up on [use of color](http://inspectelement.com/articles/the-principles-of-good-web-design-part-3-colour/) in web design.
 
-3. Review the [what is this]() assignment we did in class. Write a blog that covers something that you understand about `this`. It could be a technical description, a poem, an interpretive dance or anything as long as it reviews `this`.
+3. Review the [what is this](https://github.com/alarner/what-is-this) assignment we did in class. Write a blog that covers something that you understand about `this`. It could be a technical description, a poem, an interpretive dance or anything as long as it reviews `this`.
 
 4. Build out and design the skeleton pages of a game. Incorporate some of the design principles that you read about in #1 and #2. Your game should include the following screens.
 	* Loading screen that displays for four seconds before taking you to a menu screen.
