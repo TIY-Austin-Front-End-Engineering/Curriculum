@@ -2,8 +2,6 @@
 
 # Day 17
 
-Notes:
-
 Goals:
 * Weekend Assignment Review
 * Backbone Introduction
