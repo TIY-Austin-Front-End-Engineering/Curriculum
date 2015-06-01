@@ -16,6 +16,7 @@ Resources:
 * [Backbone Router Documentation](http://backbonejs.org/#Router)
 
 Homework:
+
 1. Read up on [white space](http://www.smashingmagazine.com/2014/05/16/design-principles-space-figure-ground-relationship/) in web design.
 
 2. Read up on [use of color](http://inspectelement.com/articles/the-principles-of-good-web-design-part-3-colour/) in web design.
