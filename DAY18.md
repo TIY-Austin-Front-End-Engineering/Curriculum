@@ -11,6 +11,43 @@ Goals:
 * Reading API documentation
 	* [IMDB API](http://www.omdbapi.com/)
 
+### Backbone Routing Review
+
+1. create directory structure
+
+dist
+--- index.html
+--- scripts
+------ main.js
+
+2. bower init
+
+3. bower install --save backbone jquery
+
+4. include jquery, underscore, backbone and scripts/main.js in my html file
+
+	```html
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="bower_components/backbone/backbone-min.js"></script>
+		<script type="text/javascript" src="scripts/main.js"></script>
+	</body>
+	</html>
+	```
+
+5. Add event listener for jquery $(document).ready(...)
+
+6. Configure the backbone router
+
+7. Create the functions that the routes in your router reference
+
 In-class assignment:
 * Build a search page with the backbone router
 
