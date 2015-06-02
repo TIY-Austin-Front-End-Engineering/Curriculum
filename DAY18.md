@@ -12,7 +12,7 @@ Goals:
 	* [IMDB API](http://www.omdbapi.com/)
 
 In-class assignment:
-* Build two pages with a backbone router
+* Build a search page with the backbone router
 
 Resources:
 * jQuery [$.get](https://api.jquery.com/jquery.get/) and [$.post](https://api.jquery.com/jquery.post/) documentation.
