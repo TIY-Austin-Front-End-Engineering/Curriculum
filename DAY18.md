@@ -15,10 +15,10 @@ Goals:
 
 1. create directory structure
 
-dist
---- index.html
---- scripts
------- main.js
+	dist
+	--- index.html
+	--- scripts
+	------ main.js
 
 2. bower init
 
