@@ -14,11 +14,13 @@ Goals:
 ### Backbone Routing Review
 
 1. create directory structure
-
+	
+	```
 	dist
 	--- index.html
 	--- scripts
 	------ main.js
+	```
 
 2. bower init
 
