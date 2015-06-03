@@ -34,7 +34,16 @@ For your assignment this weekend the Rails and Front-end classes will be working
 	* Information on any parameters that need to be passed along with the API call.
 	* Example of how to use the API call in JavaScript and what result will be returned from the server.
 
-5. Set up two Github repositories, one for your front-end code and one for your back-end rails application.
+5. Set up two Github repositories, one for your front-end code and one for your back-end rails application. Get to coding!
+
+### A note for teams of three
+If you are in a team of three the two font-end students will need to pair program. Before you can begin, one student will need to create the GitHub repository and then [add the second student as a collaborator](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/).
+
+After adding the second student as a collaborator, the second student will need to clone the newly created GitHub repository. They should now be able to push changes to it.
+
+In pair programming each of the two programmers assumes either the driver or navigator role. The **driver** is responsible for typing in the actual code and adding / commiting / pushing changes to GitHub. The **navigator** is responsible for instructing the driver what to type. All of the code that the driver writes should be dictated by the navigator. It is very important that you switch roles. Each student should spend half of the time being the driver and half of the time being the navigator. Spend 30 minutes with one set of roles and then switch. Then spend another 30 minutes and switch back. Continue this way.
+
+Right before you switch roles the driver must add / commit and push all code to GitHub so that the new driver can pick up where you left off. The new driver needs to pull that code from GitHub before making changes. To do this, in your GutHub directory run the command `git pull origin master`. This will update your local reposity with all of the new code that the previous driver had written.
 
 ### Deliverables:
 1. User stories for your application in [Trello](https://trello.com/).
