@@ -3,7 +3,14 @@
 ### You should already know about
 * JavaScript Functions
 
-## Instructions for setting up your testing environement
+## Why unit testing?
+One of the hardest things any developer has to deal with is bugs in their code. Bugs can create problems for your users, and life becomes really stressful when you realize your code has been causing frustration, or worse for your users.
+
+*Any mildly complex code has bugs* and part of surviving as a developer is realizing this. At the same time, we want to do as much as we possibly can to minimize the amount of bugs in our code (and make our life a little bit more stress free).
+
+
+
+## Instructions for setting up your testing environment
 
 * Install mocha `npm install -g mocha` (if you get permission errors run again with `sudo ` in front)
 
