@@ -15,7 +15,7 @@ In class:
 
 Resources:
 * [Backbone models](http://backbonejs.org/#Model)
-* [Backbone collections](http://backbonejs.org/#Model)
+* [Backbone collections](http://backbonejs.org/#Collection)
 
 Homework:
 

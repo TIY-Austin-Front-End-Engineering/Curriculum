@@ -3,6 +3,7 @@
 # Day 21
 
 Goals:
+* Understand the goals of proper structuring of code
 * Review TDD assignment
 * Backbone Models
 	* get / set
