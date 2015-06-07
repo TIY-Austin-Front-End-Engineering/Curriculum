@@ -3,6 +3,7 @@
 # Day 21
 
 Goals:
+* Review TDD assignment
 * Backbone Models
 	* get / set
 	* on('change', ...)
