@@ -2,6 +2,9 @@
 
 # Day 20: Group Project
 
+## Notes
+- Friday extra lecture
+
 ## Goals
 - Learn about the core principles of Agile development.
 - Learn how to use github issues for managing a project.
