@@ -5,6 +5,7 @@
 * [Welcome!](/intro/README.md)
 
 ### Week 6
+* [Day 22](/DAY22.md)
 * [Day 21](/DAY21.md)
 
 ### Week 5
