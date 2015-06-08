@@ -19,4 +19,4 @@ Resources:
 
 Homework:
 
-1. Backbone image board
+1. [Backbone image board](https://github.com/TIY-Austin-Front-End-Engineering/backbone-image-board)
