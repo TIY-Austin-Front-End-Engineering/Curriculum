@@ -8,6 +8,7 @@ Goals:
 	* on('invalid', ...)
 	* fetch
 	* save
+	* `this`
 * Backbone Collections
 
 In class:
