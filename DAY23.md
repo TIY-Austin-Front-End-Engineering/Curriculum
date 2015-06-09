@@ -3,6 +3,7 @@
 # Day 23
 
 Goals:
+* Browserify
 * Data modeling, types of relationships
 	* one to one
 	* one to many
