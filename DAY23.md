@@ -3,7 +3,7 @@
 # Day 23
 
 Goals:
-* Browserify
+* [Browserify](/browserify/README.md)
 * Data modeling, types of relationships
 	* one to one
 	* one to many
