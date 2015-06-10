@@ -42,6 +42,8 @@ Once our modules are all set up we can use browserify to transform all of our fi
 
 	`npm install -g browserify watchify`
 
+	*In addition to browserify we are also installing watchify, which is a tool that re-compiles our files when it detects a change in any of the files or their dependencies.*
+
 2. Run the watchify command on our main.js file:
 
 	`watchify scripts/main.js -o scripts/combined.js`
