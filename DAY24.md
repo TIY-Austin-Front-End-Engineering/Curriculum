@@ -3,8 +3,8 @@
 # Day 25
 
 Goals:
-<!--* In-depth follow allong homework review-->
-* How to do basic user registration / authentication
+* In-depth follow allong homework review
+* How to do rudamentary user registration / authentication-->
 
 Resources:
 * [Backbone models](http://backbonejs.org/#Model)
