@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 25
+# Day 24
 
 Goals:
 * In-depth follow allong homework review
