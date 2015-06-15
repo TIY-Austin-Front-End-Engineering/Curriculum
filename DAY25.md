@@ -42,7 +42,7 @@ Homework:
 
 	d. A **recent posts list component** that displays the X most recent posts. Assume that the number of posts to display is passed in as the property `number` and the entire collection of posts is passed in as the property `posts`. If there are less than `number` of posts then display all of the posts. If there are no posts then display the message: "There are no blog posts yet."
 
-	d. A **log in form component** that validates (using v[alidator](https://www.npmjs.com/package/validator)) an email address and password. The email and password do not need to be stored on the server. They can be hard coded into the component. The component should display the following errors if input is invalid:
+	d. A **log in form component** that validates (using [validator](https://www.npmjs.com/package/validator)) an email address and password. The email and password do not need to be stored on the server. They can be hard coded into the component. The component should display the following errors if input is invalid:
 		
 		* Enter an email address. (if the email field is left)
 		* Enter a password. (if the password field is left blank)
