@@ -2,12 +2,40 @@ Week 6
  - Models
  - Collections
  - Data Modeling
-Week 7
  - browserify
- - Views
+Week 7
+ - react / jsx
  - gulp
+ - Backbone events
+ - Advanced Git / Gihub
+	Day 26
+	 - React Introduction
+	 	- Login form
+	 	- Comment form
+	 	- Comment list
+	 	- Blog post form
+	 	- Project form
+	  - Building out a Gulpfile
+	 	- Watchify
+	 	- JSX
+
+	Day 27
+	 - React todo list
+	 	- 
+	 - More Gulp
+	 	- Local Webserver
+	 	- Live reload
+
+	Day 28
+	 - Backbone events (user authentication)
+	 - More Gulp
+	 	- Sass
+	 	- Minification / Uglification
+
+	Day 29
+	 - Advanced Git / GitHub
+	 - Introduction to Design
 Week 8
- - React
  - BaaS
  - Authentication
  - File upload?
