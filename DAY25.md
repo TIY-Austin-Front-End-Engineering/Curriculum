@@ -12,7 +12,9 @@ Goals:
 	* JSX
 
 Resources:
-* 
+* [Facebook React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+* [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [React Documentation](https://facebook.github.io/react/docs/getting-started.html)
 
 Homework:
 
