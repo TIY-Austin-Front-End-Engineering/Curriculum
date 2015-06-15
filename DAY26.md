@@ -1,14 +1,14 @@
 [Table of Contents](/README.md)
 
-# Day 24
+# Day 26
 
 Goals:
-* In-depth follow allong homework review
-* How to do rudamentary user registration / authentication-->
+* Communicating between react child and parent components
+* in-class todo list
+* Gulp webserver and live reload
 
 Resources:
-* [Backbone models](http://backbonejs.org/#Model)
-* [Backbone collections](http://backbonejs.org/#Collection)
+* 
 
 Homework:
 
