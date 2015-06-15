@@ -2,20 +2,21 @@ Week 6
  - Models
  - Collections
  - Data Modeling
-Week 7
  - browserify
+Week 7
  - Views
  - gulp
+ - Regular expressions
 Week 8
  - React
- - BaaS
+ - Parse
  - Authentication
  - File upload?
 Week 9
  - Angular
  - Express / Twilio
- - Ember
  - Web components
- - ES6
+ - ES6 / 2015
  - PHP
+ - Page speed
 
