@@ -3,13 +3,15 @@
 # Day 26
 
 Goals:
+* react-backbone yeoman generator
+	* `npm install -g yo`
+	* `npm install -g alarner/generator-react-backbone`
 * Communicating between react child and parent components
 * in-class todo list
-* Gulp webserver and live reload
 
 Resources:
-* 
+* [React in seven minutes](https://egghead.io/lessons/react-react-in-7-minutes)
 
 Homework:
 
-1. Implement the full fledged instagram clone that you planned out yesterday. **You must start from scratch**. Learn from the mistakes that you made on the assignments on Tuesday and Wednesday this week.
+1. Continue working on building and connecting your react blog components together.
