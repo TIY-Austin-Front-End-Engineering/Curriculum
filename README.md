@@ -4,7 +4,12 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 8
+* [Day 29](/DAY29.md)
+
 ### Week 7
+* [Day 28](/DAY28.md)
+* [Day 27](/DAY27.md)
 * [Day 26](/DAY26.md)
 * [Day 25](/DAY25.md)
 

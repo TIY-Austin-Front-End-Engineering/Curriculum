@@ -1,15 +1,11 @@
 [Table of Contents](/README.md)
 
-# Day 24
+# Day 28
 
 Goals:
-* In-depth follow allong homework review
-* How to do rudamentary user registration / authentication-->
-
-Resources:
-* [Backbone models](http://backbonejs.org/#Model)
-* [Backbone collections](http://backbonejs.org/#Collection)
+* Advanced Git / Github
+* Design lecture
 
 Homework:
 
-1. Implement the full fledged instagram clone that you planned out yesterday. **You must start from scratch**. Learn from the mistakes that you made on the assignments on Tuesday and Wednesday this week.
+1. [Hackathon](https://github.com/TIY-Austin-Front-End-Engineering/Hackathon/tree/Jun_18_2015)
