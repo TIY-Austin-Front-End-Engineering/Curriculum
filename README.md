@@ -7,7 +7,6 @@
 ### Week 8
 * [Day 33](/DAY33.md)
 * [Day 32](/DAY32.md)
-* [Day 32](/DAY32.md)
 * [Day 31](/DAY31.md)
 * [Day 30](/DAY30.md)
 * [Day 29](/DAY29.md)
