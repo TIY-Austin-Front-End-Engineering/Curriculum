@@ -4,7 +4,8 @@
 
 Goals:
 * Express
-* Sending Emails
+* Sending Emails (nodemailer / mailgun)
+* .gitignore file
 * Twilio
 
 Resources:
@@ -15,3 +16,4 @@ Resources:
 Homework:
 * Rebuild the [jquery contact form](https://github.com/TIY-Austin-Front-End-Engineering/jquery-contact-form) but use react + backbone instead.
 * Using express and nodemailer update your contact form so that it emails you all of the information once you've successfully submitted the form.
+* Hard mode: When a new contact form is submitted, use Twilio to send yourself a text notification.
