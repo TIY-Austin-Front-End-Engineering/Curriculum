@@ -10,5 +10,4 @@ Resources:
 * [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 Homework:
-* Style and finish your blog. It should have the following features:
-	* ...
+* 

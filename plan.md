@@ -44,6 +44,6 @@ Week 9
  - Express / Twilio
  - Web components
  - ES6 / 2015
- - PHP
+ - PHP / MySQL
  - Page speed
 
