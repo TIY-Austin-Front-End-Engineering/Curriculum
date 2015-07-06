@@ -4,6 +4,12 @@
 
 * [Welcome!](/intro/README.md)
 
+### Week 9
+* [Day 37](/DAY37.md)
+* [Day 36](/DAY36.md)
+* [Day 35](/DAY35.md)
+* [Day 34](/DAY34.md)
+
 ### Week 8
 * [Day 33](/DAY33.md)
 * [Day 32](/DAY32.md)
