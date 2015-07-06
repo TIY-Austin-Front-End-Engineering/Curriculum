@@ -2,6 +2,8 @@
 
 # Day 34
 
+Angular... it's React + Backbone + jQuery + browserify
+
 Goals:
 * Learn how to set up a basic angular project
 * Learn how to use some angular directives
