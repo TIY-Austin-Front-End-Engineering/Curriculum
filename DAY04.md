@@ -17,7 +17,6 @@ Goals:
 
 Resources:
 * [Media Query Logic](https://css-tricks.com/logic-in-media-queries/)
-* [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 * [Positioning in CSS](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
 * [Learn Layout (Still useful)](http://learnlayout.com/)
 * [AtoZCSS Video Podcasts (Amazing resource, watch one a day)](http://www.atozcss.com/)
@@ -25,5 +24,4 @@ Resources:
 * [A Visual Guide of CSS Positioning](http://cassieshumway.github.io/project-position/)
 
 Homework:
-* [Read: An Idiomatic Styleguide to CSS](https://github.com/necolas/idiomatic-css)
 * [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)

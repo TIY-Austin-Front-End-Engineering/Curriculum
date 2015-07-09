@@ -12,7 +12,7 @@ Notes:
 
 Goals:
 * [Grid Systems](/css-transitions)
-* Introduction to JavaScript
+* [Introduction to JavaScript](/javascript-introduction)
 
 Resources:
 * [Bootstrap Documentation](http://getbootstrap.com/css/#grid)

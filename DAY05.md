@@ -3,13 +3,7 @@
 # Day 5
 
 Notes:
-* Assignment Tool
-	* dist
-	* index.html
-	* resubmitting
-	* viewing feedback
-	* type of grades DOA, Incomplete, Good, Great
-* In class assignment on [CSS specificity](https://github.com/TIY-Austin-Front-End-Engineering/css-specificity)
+*
 
 Goals:
 * [Form Elements](/form-elements)
@@ -17,6 +11,9 @@ Goals:
 * [CSS Pseudo-Elements](/css-pseudo-elements)
 * [CSS Specificity](/css-specificity)
 * [CSS Transitions](/css-transitions)
+
+In Class:
+* In class assignment on [CSS specificity](https://github.com/TIY-Austin-Front-End-Engineering/css-specificity)
 
 Resources:
 * [Pseudo-classes - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
@@ -27,8 +24,6 @@ Resources:
 * [CSS Animated Properties - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties)
 
 Homework:
+* Read: [YDKJS Chapter 1: Intro Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md)
 * [Responsive Form](https://github.com/TIY-Austin-Front-End-Engineering/responsive-form)
 * [Hamburger Menu](https://github.com/TIY-Austin-Front-End-Engineering/hamburger-menu)
-
-> ## Notes for next time:
-> ALl of these were small topics. Originally I thought it would be a stretch to get though specificity, but we had extra time so I threw in transitions.

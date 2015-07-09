@@ -3,8 +3,16 @@
 # Day 1
 
 Notes:
-* Altered class schedule for week of May 18th. No class Monday, class on Friday instead.
-* Get homework in by 10pm, Even if it's not finished.
+* Expectations:
+	* For Students
+		* Show up on time (or a few minutes early) - that means in your seat at 9:00am. Not rolling in at 9:02 and grabbing coffee.
+		* BYOM - Bring your own motivation
+		* Get homework in by 10pm, Even if it's not finished.
+	* For Instructor
+		* Expert in web development
+		* Available to answer questions and for extra help
+		* Cover the important topics for getting a job
+
 * If you feel behind, spend 4 hours/day on new material, 2 hours/day on reviewing old material.
 
 Goals:
@@ -22,4 +30,4 @@ Goals:
 Homework
 * [Tree Practice](https://github.com/TIY-Austin-Front-End-Engineering/tree-practice)
 * [Tree Directory](https://github.com/TIY-Austin-Front-End-Engineering/tree-directory)
-* [Mobile Layout](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1)
+* [Mobile Layout 1](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1)

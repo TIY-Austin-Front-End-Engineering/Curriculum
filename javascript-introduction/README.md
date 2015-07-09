@@ -4,6 +4,23 @@
 * [Trees](../trees/README.md)
 * [Paths](../paths/README.md)
 
+## What is "programming?"
+
+I like this description from Kyle Simpson's [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md)
+
+> A program, often referred to as source code or just code, is a set of special instructions to tell the computer what tasks to perform. Usually code is saved in a text file...
+
+> The rules for valid format and combinations of instructions is called a computer language, sometimes referred to as its syntax, much the same as English tells you how to spell words and how to create valid sentences using words and punctuation.
+
+JavaScript is a programming language, as are Ruby, PHP, Python, C, Java, etc. Each language has different syntax, but they are all simply a set of instructions for the computer to follow.
+
+## Introduction to JavaScript Programming
+
+Kyle Simpson does an excellent job of explaining the core principles of programming from a JavaScript perspective, so rather than duplicating his work I'll just link to it:
+
+# [Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md)
+
+<!--
 ## JavaScript is a calculator
 
 I like to think about JavaScript as a really fancy calculator that your browser uses to manipulate information. At the end of the day, everything we do with JavaScript is manipulation of information, so it makes sense to start out with the different types of information we might want to manipulate.
@@ -39,3 +56,4 @@ JavaScript is not smart. It can't evaluate this expression all at once. It has t
 
 1. `2*3` is equal to `6`. The multiplication is done first because it has a higher precedence than addition.
 2. After the multiplication calculation is complete, the expression will look like: `2+6`. This is simple enough. Now JavaScript will do the addition and get a final value of `8`.
+ -->

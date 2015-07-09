@@ -3,21 +3,16 @@
 # Day 3
 
 Notes:
-* Why are we doing joint lecture the first week?
-* No reddit browsing before noon.
-* Review tree-directory assignment.
 * Sublime package manager, W3C validation plugin
 
 Goals:
 * [CSS Selectors](/css-selectors)
 * [CSS Layout](/css-box-model/README.md)
-* [Sass](http://sass-lang.com/guide)
+* [CSS Centering](/css-centering/README.md)
 
 Resources:
-* [Ultimate Sass Resource List](https://github.com/HugoGiraudel/awesome-sass)
-* [The Sass Way](http://thesassway.com/beginner)
+* [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 
 
 Homework:
 * Finish [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
-* Convert your homework assignment from last night to Sass.

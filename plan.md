@@ -1,49 +1,94 @@
+Week 1
+	- Trees
+	- Paths
+	- Command Line
+	- HTML Documents
+	- CSS Introduction
+	- Git
+	- CSS Box Model
+	- CSS Layout
+	- CSS Centering
+	- CSS Selectors
+	- CSS Layout
+	- Sass
+	- CSS Media Queries
+	- CSS Centering
+	- CSS Positioning
+	- ASSIGNMENT: Responsive Website
+	- BLOG POST: CSS Positioning / First Week of TIY
+Week 2
+	- Form Elements
+	- CSS Pseudo-Classes
+	- CSS Pseudo-Elements
+	- CSS Specificity
+	- CSS Transitions
+	- Grid Systems
+	- Introduction to JavaScript
+	- Loops
+	- Arrays
+	- Objects
+	- ASSIGNMENT: https://github.com/tiy-atl-js-q2-2015/Assignments/tree/master/Assignment%2007%20*
+	- BLOG POST: ????????
+Week 3
+	- Interacting with the DOM
+	- Date and time functions
+	- setTimeout / setInterval
+	- Event listeners
+	- Event bubbling
+	- Getting values from form elements
+	- jQuery
+	- Data attributes
+	- AJAX
+	- ASSIGNMENT: jQuery IMDB App
+	- BLOG POST: ????????
+Week 4
+	- Self invoking functions
+	- JavaScript scoping and closures
+	- this, call and apply
+	- Unit testing
+	- Hoisting
+	- ASSIGNMENT: jQuery photo gallery
+	- BLOG POST: ????????
+Week 5
+	- TDD
+	- Backbone Introduction
+	- Backbone Routing
+	- Reading API documentation
+	- Underscore templating
+	- ASSIGNMENT: Group Project - chat app
+	- BLOG POST: ????????
 Week 6
- - Models
- - Collections
- - Data Modeling
- - browserify
+	- Backbone Models
+	- Advanced Backbone Models
+	- Backbone Collections
+	- Browserify
+	- Data modeling
+	- ASSIGNMENT: Full instagram clone
+	- BLOG POST: ????????
 Week 7
- - react / jsx
- - gulp
- - Backbone events
- - Advanced Git / Gihub
-	Day 26
-	 - React Introduction
-	 	- Login form
-	 	- Comment form
-	 	- Comment list
-	 	- Blog post form
-	 	- Project form
-	  - Building out a Gulpfile
-	 	- Watchify
-	 	- JSX
-
-	Day 27
-	 - React todo list
-	 	- 
-	 - More Gulp
-	 	- Local Webserver
-	 	- Live reload
-
-	Day 28
-	 - Backbone events (user authentication)
-	 - More Gulp
-	 	- Sass
-	 	- Minification / Uglification
-
-	Day 29
-	 - Advanced Git / GitHub
-	 - Introduction to Design
+	- React Introduction
+	- Building a Gulpfile
+	- Communicating between react child and parent components
+	- Advanced Git / Github
+	- Design lecture
+	- ASSIGNMENT: Hackathon
+	- BLOG POST: ????????
 Week 8
- - BaaS
- - Authentication
- - File upload?
+	- Parse introduction
+	- Parse user registration and login
+	- Regular expressions
+	- File upload
+	- Google maps API
+	- ASSIGNMENT: Blogging platform
+	- BLOG POST: ????????
 Week 9
- - Angular
- - Express / Twilio
- - Web components
- - ES6 / 2015
- - PHP / MySQL
- - Page speed
-
+	- Express
+	- Sending Emails (nodemailer / mailgun)
+	- .gitignore file
+	- Twilio
+	- Angular
+	- PHP / MySQL
+	- Babel
+	- ES2015
+	- ASSIGNMENT: Final Project Planning
+	- BLOG POST: ????????
