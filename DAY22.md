@@ -9,7 +9,7 @@ Goals:
 	* fetch
 	* save
 	* `this`
-* Backbone Collections
+* [Backbone Collections](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-collection)
 
 In class:
 * Add validation and persistence to homework assignment

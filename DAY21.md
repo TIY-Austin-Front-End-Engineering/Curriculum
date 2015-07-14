@@ -12,6 +12,7 @@ Goals:
 
 Resources:
 * [Backbone models](http://backbonejs.org/#Model)
+	* [Backbone model tutorial](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-model/)
 
 Homework:
 

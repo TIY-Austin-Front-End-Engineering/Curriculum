@@ -5,6 +5,30 @@
 Notes:
 *
 
+QotD:
+
+*How many pixels to the left will the text appear?*
+
+```css
+.b {
+	margin-left: 20px;
+	position: relative;
+}
+.c {
+	position: absolute;
+	left: 12px;
+}
+```
+```html
+<div class="a">
+	<div class="b">
+		<div class="c">
+			The text
+		</div>
+	</div>
+</div>
+```
+
 Goals:
 * [Form Elements](/form-elements)
 * [CSS Pseudo-Classes](/css-pseudo-classes)

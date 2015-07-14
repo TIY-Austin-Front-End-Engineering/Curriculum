@@ -28,7 +28,7 @@ Week 2
 	- Arrays
 	- Objects
 	- ASSIGNMENT: https://github.com/tiy-atl-js-q2-2015/Assignments/tree/master/Assignment%2007%20*
-	- BLOG POST: ????????
+	- BLOG POST: CSS Specificity
 Week 3
 	- Interacting with the DOM
 	- Date and time functions

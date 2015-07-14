@@ -10,6 +10,18 @@ Notes:
 * Normalize.css
 * Assignment submissions
 
+QotD:
+What is wrong with this HTML?
+```html
+<header></header> 
+<div><a href="http://file:///Users/alarner/IRONYARD/day1/homework/index.html">Home</a></div>
+
+<section></section><section class="blue"></section>
+<section class="blue"></section>
+<section class="blue"></section>
+<section class="blue"></section>
+```
+
 Goals:
 * [Git](https://try.github.io/levels/1/challenges/1)
 * [CSS Box Model](/css-box-model/README.md)

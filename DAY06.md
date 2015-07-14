@@ -10,9 +10,26 @@ Notes:
 * fork
 * clone
 
+```css
+.foo p {
+	color: green;
+}
+div > p {
+	color: red;
+}
+```
+```html
+<div class="foo">
+	<p>pandas</p>
+</div>
+```
+
 Goals:
 * [Grid Systems](/css-transitions)
 * [Introduction to JavaScript](/javascript-introduction)
+* toUpperCase, toLowerCase
+* split
+* join
 
 Resources:
 * [Bootstrap Documentation](http://getbootstrap.com/css/#grid)

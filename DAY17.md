@@ -5,7 +5,7 @@
 Goals:
 * Weekend Assignment Review
 * Backbone Introduction
-* Backbone Routing
+* [Backbone Routing](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-router)
 
 In-class assignment:
 * Build two pages with a backbone router

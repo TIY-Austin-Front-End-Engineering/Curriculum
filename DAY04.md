@@ -10,6 +10,25 @@ Notes:
 	* Page width issues
 	* CSS class names
 
+QotD:
+```css
+.parent {
+	padding: 20px;
+}
+.parent div {
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+```
+```html
+<div class="parent">
+	<div>child 1</div>
+	<div>child 2</div>
+	<div>child 3</div>
+</div>
+```
+
 Goals:
 * [CSS Media Queries](/css-media-queries)
 * [CSS Centering](/css-centering)
