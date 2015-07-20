@@ -17,7 +17,7 @@ I will be harder to reach during these dates, but skype meetings are possible if
 
 ## Honor Code
 
-I wish I didn't have to bring this up, but since this has been an issue in the past it's here. Your work must be your own. You may not copy and paste code from anywhere online, including from other students. Anywhere that you do find other code that helps you in completing these graduation requirements, you must attribute the source (stackoverflow, blog post, github, etc.) in the comments of your code.
+I wish I didn't have to bring this up, but since this has been an issue in the past it's here. Your work must be your own. You may not copy and paste code from anywhere online, including from other students. You may of course use the internet for helping you solve problems, but all the code that you submit must be your own. Anywhere that you do find other code that helps you in completing these graduation requirements, you must attribute the source (stackoverflow, blog post, github, etc.) in the comments of your code. You must be able to explain each line of code that you write, including code that you find in other places.
 
 ## Homework Assignments
 * [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
