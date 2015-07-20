@@ -30,8 +30,9 @@ I wish I didn't have to bring this up, but since this has been an issue in the p
 * [jQuery Login](https://github.com/TIY-Austin-Front-End-Engineering/jquery-login)
 * [jQuery Contact Form](https://github.com/TIY-Austin-Front-End-Engineering/jquery-contact-form)
 * [jQuery Like](https://github.com/TIY-Austin-Front-End-Engineering/jquery-like)
-* [Functions Practice w/ Tests](https://github.com/theironyard/js-assignments/blob/master/js-functions-practice/exercises-1.js)
-* [TDD Mocha / Chai](https://github.com/theironyard/js-assignments/tree/master/tdd-mocha-chai-1)
+* Functions Practice w/ Tests
+	* Create a functions.js file that implements all of the [unfinished functions in this file](https://github.com/TIY-Austin-Front-End-Engineering/js-assignments/tree/master/js-intro-fns-loops-rovarspraket). Start by writing unit tests for each function before you start to write the actual functions. Commit your tests before any of the function code is implemented! After your tests are complete, implement the functions.
+* [TDD Mocha / Chai](https://github.com/TIY-Austin-Front-End-Engineering/js-assignments/tree/master/tdd-mocha-chai-1)
 * [Backbone Router game](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/blob/master/DAY17.md)
 * [IMDB App 2](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/blob/master/DAY19.md)
 * [Profile with Models](https://github.com/TIY-Austin-Front-End-Engineering/profile-model)
@@ -56,6 +57,8 @@ I wish I didn't have to bring this up, but since this has been an issue in the p
 
 ## Check-ins
 
+It's your responsibility to make sure you send email updates and show up for the one on ones. I will not send reminders for these. You should coordinate with me to get a 30 minute slot reserved for the in-person one on ones.
+
 * 07/31/2015 Email update
 * 08/06/2015 In-person update @ The Iron Yard
 	* 9:00am - 
@@ -65,7 +68,7 @@ I wish I didn't have to bring this up, but since this has been an issue in the p
 	* 11:00am - 
 * 08/14/2015 Email update
 * 08/21/2015 Email update
-* 08/27/2015 In-person update @ The Iron Yard
+* 08/28/2015 In-person update @ The Iron Yard
 	* 9:00am - 
 	* 9:30am - 
 	* 10:00am - 
