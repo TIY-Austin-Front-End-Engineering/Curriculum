@@ -97,3 +97,5 @@ Since we won't be meeting as frequently after demo day, it's harder for me to ge
 * CSS
 * [Vanilla JavaScript and Jquery](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-js-and-jquery-review)
 * Backbone
+
+The assessment will be administered on 09/08/2015 at 3pm at The Iron Yard.
