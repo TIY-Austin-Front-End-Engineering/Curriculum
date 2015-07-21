@@ -5,6 +5,7 @@ For those of you who will not be graduating on July 23rd, 2015 I've included all
 1. Completing the important homework assignments.
 2. Checking in weekly, either via email or in person depending on the week.
 3. Completing your final project.
+4. Written assessment.
 
 ## My Availability
 
@@ -74,7 +75,8 @@ It's your responsibility to make sure you send email updates and show up for the
 	* 10:00am - 
 	* 10:30am - 
 	* 11:00am - 
-* 09/04/2015 In-person Final Project Presentation, 3pm @ The Iron Yard
+* 09/04/2015 In-person final project presentation, 3pm @ The Iron Yard
+* 09/08/2015 In-person written assessment, 3pm @ The Iron Yard
 
 ## Final Project
 You will present your final project at on 09/04/2015. Below are the final project requirements.
@@ -86,3 +88,12 @@ You will present your final project at on 09/04/2015. Below are the final projec
 	1. Has at least two related data models that are stored to a server or...
 	1. Has at least one data model that is stored to a server and uses one API that we didn't cover in class.
 5. The project must be complete. It cannot accomplish half of something. You must be able to completely do what the app is designed to do, even if it's a simple - bare bones - version of what it is designed to do.
+
+## Written Assessment
+
+Since we won't be meeting as frequently after demo day, it's harder for me to get a grasp on where you stand in terms of catching up on your missed material. For that reason, the last graduation requirement is receiving a passing grade on a final written assessment. This test will evaluate your grasp of the fundamental topics covered in the course. The questions will focus on the following topics, but may include some additional topics that we covered in the course:
+
+* HTML
+* CSS
+* [Vanilla JavaScript and Jquery](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-js-and-jquery-review)
+* Backbone
