@@ -66,7 +66,7 @@ It's your responsibility to make sure you send email updates and show up for the
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
-	* 11:00am - 
+	* 11:00am - Kristen
 * 08/14/2015 Email update
 * 08/21/2015 Email update
 * 08/28/2015 In-person update @ The Iron Yard
@@ -74,7 +74,7 @@ It's your responsibility to make sure you send email updates and show up for the
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
-	* 11:00am - 
+	* 11:00am - Kristen
 * 09/04/2015 In-person final project presentation, 3pm @ The Iron Yard
 * 09/08/2015 In-person written assessment, 3pm @ The Iron Yard
 
