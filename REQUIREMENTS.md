@@ -73,7 +73,7 @@ It's your responsibility to make sure you send email updates and show up for the
 	* 9:00am - 
 	* 9:30am - 
 	* 10:00am - 
-	* 10:30am - 
+	* 10:30am - Maria
 	* 11:00am - Kristen
 * 09/04/2015 In-person final project presentation, 3pm @ The Iron Yard
 * 09/08/2015 In-person written assessment, 3pm @ The Iron Yard
