@@ -16,6 +16,8 @@ HTML and CSS are the foundation of all the content of a webpage or web app. Howe
 
 Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This should take you approximately 7 hours, depending on your prior experience.
 
+Take a screen shot of the completion screen showing that you've completed all of the tasks. Email the screenshot to me with a title of "HTML/CSS Pre-Work"
+
 <!-- Take a screen shot of the completion screen showing that you've completed all of the tasks. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the "HTML/CSS Pre-Work" assignment within the [assignment app](http://assignments.nutellahabit.com). -->
 
 ### JavaScript:
@@ -25,10 +27,14 @@ Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This 
 
 This is not how our course will be taught ­­ but it’s great to get yourself as familiar as possible with some of the syntax of the language.
 
+Take a screen shot of the completion screen showing that you've completed all of the tasks. Email the screenshot to me with a title of "JavaScript Pre-Work"
+
 <!-- Take a screen shot of the completion screen showing that you've completed all of the tasks. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the "JavaScript Pre-Work" assignment within the [assignment app](http://assignments.nutellahabit.com). -->
 
 ### Command Line
 Mastery of command line basics is essential for any developer (and extremely useful for non­devs) and will make your life much easier. Go through the following tutorial, paying special attention to the instructions to create notecards for memorization. You won't have to memorize many things in this course, but memorizing command line commands is essential: http://cli.learncodethehardway.org/book/
+
+Take a photo of the note cards that you created. They don't all have to be visible, just show me that you actually created them. Email the picture to me with a title of "Command Link Pre-Work"
 
 <!-- Take a photo of the note cards that you created. They don't all have to be visible, just show me that you actually created them. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the [assignment app](http://assignments.nutellahabit.com). -->
 
@@ -42,10 +48,14 @@ Before starting at The Iron Yard you will need a few pieces of free software. Pl
 
 Add google chrome and sublime to your dock.
 
+Take a screen shot of your dock with Google Chrome and Sublime. Email the screenshot to me with a title of "Software Pre-Work"
+
 <!-- Take a screen shot of your dock with Google Chrome and Sublime. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the "Software Pre-Work" assignment within the [assignment app](http://assignments.nutellahabit.com). -->
 
 ### Accounts
 We will use a couple of online services throughout during the class. Please create accounts on these services so that you're ready to rock on day 1.
+
+1. Sign up for a [GitHub account](https://github.com). Make sure to add a profile picture and your full name, since this will help me learn your name.
 
 1. You'll need to sign in to the Mac App Store with you Apple ID. If you don't have one, [sign up here](https://appleid.apple.com/).
 
