@@ -6,3 +6,5 @@ subl
 yeoman
 gulp
 git
+
+GitHub SSH keys
