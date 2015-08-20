@@ -28,8 +28,8 @@
 * [Command Line](/units/command-line/README.md)
 	- `open`, `pwd`, `ls`, `cd`, tab completion, `subl`, `yo tiyfe`, `gulp serve`
 * [HTML Documents](/units/html-documents/README.md)
+	* W3C Validator
 * [CSS Introduction](/units/css-introduction/README.md)
-	* Personal Blocklist Chrome extension
 	* Digital Color Meter - display as hex
 		* Shift-Command-C – this will copy the measured value onto your clipboard
 * Basic Git Workflow
@@ -40,9 +40,12 @@
 ## In-Class Code
 [Code that we wrote today](/notes/day-01/code)
 
+## Review
+3:00pm Software Install Help
+
 ## Homework
 * Sign up and ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Mobile Layout 1]()
+* [Mobile Layout 1](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1)
 * Reading [You Don't Know JS: Up & Going > Chapter 1: Into Programming](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md) up through Conditionals section. Stop before you get to Loops.
 * Optional:
 	* [Tree Practice](https://github.com/TIY-Austin-Front-End-Engineering/tree-practice)
