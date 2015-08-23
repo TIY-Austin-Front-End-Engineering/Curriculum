@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 12
+# Day 11
 
 ## QotD:
 [Questions of the Day]()
@@ -9,14 +9,13 @@
 * Review QotD
 
 ## Goals:
-* Anonymous functions
-* Event listeners
-* Event handlers
-* Event bubbling
+* AJAX
+* In-class chat example
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-12/code)
+[Code that we wrote today](/notes/day-11/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Vanilla JS Todo List
+* Update vanilla js todo list to save/load data to/from tiny pizza server
+* Blog Post

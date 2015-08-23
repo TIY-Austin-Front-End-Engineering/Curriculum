@@ -12,6 +12,7 @@
 * [CSS Positioning](/units/css-positioning)
 * [Form Elements](/units/form-elements)
 * Intro to JS 1 - variables, types
+	* Box activity
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-05/code)

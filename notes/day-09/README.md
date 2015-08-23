@@ -10,6 +10,9 @@
 
 ## Goals:
 * Intro to JS 4 - functions
+	* Play-doh activity - assembly line
+	* Different types of named functions, methods
+	* Closures
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-09/code)

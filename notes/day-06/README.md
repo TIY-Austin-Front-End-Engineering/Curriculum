@@ -12,7 +12,7 @@
 * [CSS Pseudo-Classes](/units/css-pseudo-classes)
 * [CSS Pseudo-Elements](/units/css-pseudo-elements)
 * [CSS Transitions](/units/css-transitions)
-* Intro to JS 2 - boolean logic, if statements, truthy / falsey
+* Intro to JS 2 - boolean logic, if statements, truthy / falsey, ternary operator
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-06/code)
