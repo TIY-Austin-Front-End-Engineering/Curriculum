@@ -52,7 +52,7 @@ Using iTerm run the command `brew install node`. Restart iTerm after you're done
 ### npm packages
 > A streaming build system.
 
-Using iTerm run the command `npm install -g gulp yo`.
+Using iTerm run the command `npm install -g gulp yo mocha eslint htmlhint csslint alarner/generator-tiyfe`.
 
 ### Slack Desktop and Mobile Apps
 > Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
@@ -90,7 +90,11 @@ Install the following packages:
 
 
 Sublime Package Control
-	- HTML Linter
+	- sass
+	- sublime linter
+	- sublimelinter-contrib-eslint
+	- sublimelinter-contrib-htmlhint
 	- eslint
 	- user settings configuration
 	- w3c validator
+
