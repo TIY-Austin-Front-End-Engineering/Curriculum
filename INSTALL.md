@@ -84,6 +84,8 @@ Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Br
 2. Go to [http://www.w3schools.com/](http://www.w3schools.com/).
 3. Click on the red circle with the hand picture and then click on the link "Block current host: w3schools.com"
 
+
+<!--
 Install the following packages:
 
 * 
@@ -98,3 +100,4 @@ Sublime Package Control
 	- user settings configuration
 	- w3c validator
 
+-->
