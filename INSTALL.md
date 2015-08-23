@@ -32,7 +32,7 @@ Use [this link](https://packagecontrol.io/installation) and follow the instructi
 > Sublime Text includes a command line tool, subl, to work with files on the command line. This can be used to open files and projects in Sublime Text, as well working as an EDITOR for unix tools, such as git and subversion.
 
 1. Using iTerm, type the following command: `mkdir ~/bin`
-2. Now type `nano ~/.profile`. This will open up a command line text editor. You cannot use the mouse. You muse use the arrow keys to move around.
+2. Now type `nano ~/.bash_profile`. This will open up a command line text editor. You cannot use the mouse. You muse use the arrow keys to move around.
 3. Add the following code at the very end of the file. Don't worry if the file is empty.
 
 	```bash
@@ -41,7 +41,7 @@ Use [this link](https://packagecontrol.io/installation) and follow the instructi
 	    PATH="$HOME/bin:$PATH"
 	fi
 	```
-4. To save your changes type `ctrl` + `x`. Then press enter twice.
+4. To save your changes type `ctrl` + `x`. Then press the letter *y* and then press enter.
 5. Use [this link](https://www.sublimetext.com/docs/3/osx_command_line.html) and follow the setup instructions to configure the `subl` command.
 
 ### node / npm
@@ -59,8 +59,10 @@ Using iTerm run the command `npm install -g gulp yo mocha eslint htmlhint csslin
 
 Use [this link](https://itunes.apple.com/us/app/slack/id803453959?mt=12#) to install the Slack desktop app. Also go to the app store on your mobile phone and install the slack app for your mobile device as well.
 
+<!--
 ### Various Sublime Packages
 Use [this link](https://packagecontrol.io/docs/usage) to read up on how to install new packages using the Sublime Package Manager that you just installed.
+-->
 
 ### GitHub
 > GitHub is where people build software. More than 10 million people use GitHub to discover, fork, and contribute to over 26 million projects.
