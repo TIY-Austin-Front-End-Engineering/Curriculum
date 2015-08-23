@@ -11,3 +11,5 @@ git
 GitHub SSH keys
 
 Personal Blocklist Chrome extension
+Slack
+Sign up for Breadcrumbs
