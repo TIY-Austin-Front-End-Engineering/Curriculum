@@ -43,6 +43,7 @@ Use [this link](https://packagecontrol.io/installation) and follow the instructi
 	```
 4. To save your changes type `ctrl` + `x`. Then press the letter *y* and then press enter.
 5. Use [this link](https://www.sublimetext.com/docs/3/osx_command_line.html) and follow the setup instructions to configure the `subl` command.
+6. You can now set Sublime as the text editor to use for git: `git config --global core.editor "subl -n -w"`
 
 ### node / npm
 > Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. npm is the package manager for node.
