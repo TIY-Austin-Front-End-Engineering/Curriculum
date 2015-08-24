@@ -5,7 +5,7 @@
 ## Notes
 - Who am I?
 - Who are you?
-- What can you from the course?
+- What can you expect from the course?
 	- Learn a lot!
 	- 20% HTML / CSS
 	- 10% Git / Command Line
@@ -29,6 +29,7 @@
 	- `open`, `pwd`, `ls`, `cd`, tab completion, `subl`, `yo tiyfe`, `gulp serve`
 * [HTML Documents](/units/html-documents/README.md)
 	* W3C Validator
+	* HTML Hint
 * [CSS Introduction](/units/css-introduction/README.md)
 	* Digital Color Meter - display as hex
 		* Shift-Command-C – this will copy the measured value onto your clipboard
