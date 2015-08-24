@@ -93,6 +93,19 @@ Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Br
 3. Click on the red circle with the hand picture and then click on the link "Block current host: w3schools.com"
 
 
+<!-- for next time:
+
+	Xcode (not just Xcode tools)
+	sublime preferences
+	sublime packages
+		- sass
+		- sublime linter
+		- sublimelinter-contrib-eslint
+		- sublimelinter-contrib-htmlhint
+		- w3c validator
+
+-->
+
 <!--
 Install the following packages:
 
@@ -105,7 +118,6 @@ Sublime Package Control
 	- sublimelinter-contrib-eslint
 	- sublimelinter-contrib-htmlhint
 	- eslint
-	- user settings configuration
 	- w3c validator
 
 -->

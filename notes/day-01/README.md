@@ -33,6 +33,7 @@
 	* Digital Color Meter - display as hex
 		* Shift-Command-C – this will copy the measured value onto your clipboard
 * Basic Git Workflow
+	* Identify yourself, set default editor
 	* Setting up new homework assignments
 	* Adding, committing, pushing
 * Homework Tool
