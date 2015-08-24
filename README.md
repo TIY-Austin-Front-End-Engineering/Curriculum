@@ -4,6 +4,7 @@
 
 * [Welcome!](/intro/README.md)
 
+<!--
 ### Weeks 10-12: Final Project
 
 ### Week 9: Crash Courses
@@ -41,6 +42,7 @@
 * [09/02/2015 - Day 07 - HTML/CSS: Grid Systems | JS: Arrays and Objects](/notes/day-07/README.md)
 * [09/01/2015 - Day 06 - CSS: Pseudo-classes/elements, Transitions | JS: Boolean & Ifs](/notes/day-06/README.md)
 * [08/31/2015 - Day 05 - HTML/CSS: Positioning, Form Elements | JS: Types, Variables](/notes/day-05/README.md)
+-->
 
 ### Week 1: Basic HTML/CSS
 * [08/27/2015 - Day 04 - CSS Media Queries and Sass](/notes/day-04/README.md)
