@@ -18,6 +18,11 @@ Use [this link](http://brew.sh/) and follow the instructions to install Homebrew
 
 In iTerm2 type the command `git`. If it is not already installed, it will prompt you with instructions on how to install.
 
+You should also identify yourself to git. Use the following commands:
+
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
+
 ### Sublime Text 3
 > Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
