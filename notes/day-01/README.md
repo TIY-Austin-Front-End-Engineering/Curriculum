@@ -25,6 +25,8 @@
 	- BYOM - Bring your own motivation.
 
 ## Goals
+* [Trees](/units/trees/README.md)
+* [Paths](/units/paths/README.md)
 * [Command Line](/units/command-line/README.md)
 	- `open`, `pwd`, `ls`, `cd`, tab completion, `subl`, `yo tiyfe`, `gulp serve`
 * [HTML Documents](/units/html-documents/README.md)
@@ -33,11 +35,6 @@
 * [CSS Introduction](/units/css-introduction/README.md)
 	* Digital Color Meter - display as hex
 		* Shift-Command-C – this will copy the measured value onto your clipboard
-* Basic Git Workflow
-	* Identify yourself, set default editor
-	* Setting up new homework assignments
-	* Adding, committing, pushing
-* Homework Tool
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-01/code)
