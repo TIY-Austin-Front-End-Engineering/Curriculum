@@ -1,0 +1,23 @@
+/* The size of 1 em is based on the font size of the element. If a particular
+element has a font-size of 16 px, then 1 em on that element would be 16px, 2em
+would be 32px, etc. Be careful about changing font size on elements that have
+children because all of the childrens sizes will be modified if they use ems. */
+
+.grandparent {
+	width: 40em;
+	height: 10em;
+	background-color: blue;
+	padding-top: 20px;
+	color: #fff;
+}
+
+span {
+	font-size: 0.5em;
+}
+
+.parent {
+	width: 20em;
+	height: 5em;
+	margin: 0 auto;
+	background-color: #000;
+}

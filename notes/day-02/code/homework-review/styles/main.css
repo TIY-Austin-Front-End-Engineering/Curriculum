@@ -1,0 +1,15 @@
+body {
+	background-color: #1C82D0;
+}
+
+.border-button {
+	width: 400px;
+	border: 5px solid #fff;
+	padding: 90px 0 90px 0;
+	text-align: center;
+	display: block;				/* We can force any element to be block, even
+								   anchor tags */;
+	color: #fff;
+	font-size: 2.5em;
+	text-decoration: none;
+}
