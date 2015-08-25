@@ -13,7 +13,7 @@
 
 ## Goals:
 * [CSS Box Model](/units/css-box-model/README.md)
-* [CSS Selectors](/units/css-selectors)
+* [CSS Layout](/units/css-box-model/README.md)
 * Basic Git Workflow
 	* Identify yourself, set default editor
 	* Setting up new homework assignments

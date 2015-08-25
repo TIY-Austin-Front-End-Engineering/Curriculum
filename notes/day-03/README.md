@@ -9,7 +9,7 @@
 * Review QotD
 
 ## Goals:
-* [CSS Layout](/units/css-box-model/README.md)
+* [CSS Selectors](/units/css-selectors)
 * [CSS Centering](/units/css-centering/README.md)
 * [CSS Specificity](/units/css-specificity)
 
