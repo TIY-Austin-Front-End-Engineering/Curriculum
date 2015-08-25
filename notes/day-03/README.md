@@ -4,6 +4,7 @@
 
 ## QotD:
 [Questions of the Day]()
+Play through the introduction and Pilot Deck level on [Terminal Renegade](http://alarner.github.io/)
 
 ## Notes:
 * Review QotD
