@@ -46,6 +46,6 @@
 
 ### Week 1: Basic HTML/CSS
 * [08/27/2015 - Day 04 - CSS Media Queries and Sass](/notes/day-04/README.md)
-* [08/26/2015 - Day 03 - CSS Layout, Centering and Specificity](/notes/day-03/README.md)
-* [08/25/2015 - Day 02 - Trees, Paths, CSS Box Model and Selectors](/notes/day-02/README.md)
-* [08/24/2015 - Day 01 - Introductions: Command Line, HTML, CSS and Git](/notes/day-01/README.md)
+* [08/26/2015 - Day 03 - CSS Selectory, Centering and Specificity](/notes/day-03/README.md)
+* [08/25/2015 - Day 02 - Git, CSS Box Model and Layout](/notes/day-02/README.md)
+* [08/24/2015 - Day 01 - Introductions: Command Line, HTML, CSS](/notes/day-01/README.md)
