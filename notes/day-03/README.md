@@ -12,8 +12,8 @@ Play through the introduction and Pilot Deck level on [Terminal Renegade](http:/
 
 ## Goals:
 * [CSS Selectors](/units/css-selectors)
-* [CSS Centering](/units/css-centering/README.md)
 * [CSS Specificity](/units/css-specificity)
+* [CSS Centering](/units/css-centering/README.md)
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-03/code)

@@ -1,0 +1,66 @@
+/* element selector: add background and text color to all div element */
+div {
+	background: #ccc;
+	color: purple;
+}
+
+/* element selector: add text color to all span element */
+span {
+	color: green;
+}
+
+/* ancestor selector: add text color to all anchor tags that are inside of a div
+(either child, grandchild, great grandchild, etc.) You can also use classes,
+ids, etc when using an ancestor selector*/
+div a {
+	color: green;
+}
+
+/* child selector: add font weight to all elements with a class of my-span that
+are direct children of a div. You can also use classes, ids, etc when using a
+child selector*/
+div > .my-span {
+	font-weight: bold;
+}
+
+/* sibling selector: add background to all span elements that are a sibling of a
+div. You can also use classes, ids, etc. */
+div + span {
+	background: pink;
+}
+
+/* id selector. add text decoration to the element with an id of my-id. ids much
+be unique, meaning that there can be no more than one element with an id of
+my-id */
+#my-id {
+	text-decoration: underline;
+}
+
+/* class selector */
+.foo {
+	text-decoration: none;
+}
+
+
+
+section {
+	background-color: #ccc;
+	padding: 1em 0 1em 1em;
+	overflow: hidden;
+}
+
+div {
+	width: 20%;
+	height: 15em;
+	background-color: blue;
+	border-right: 1em solid #ccc;
+	float: left;
+	box-sizing: border-box;
+}
+
+/* pseudo-class selector: select all divs that are the last child of their
+parent */;
+div:last-child {
+	background-color: red;
+	width: 20%;
+}
