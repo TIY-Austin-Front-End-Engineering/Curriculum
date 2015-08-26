@@ -3,7 +3,8 @@
 # Day 3
 
 ## QotD:
-[Questions of the Day]()
+[Questions of the Day](http://classmarker.com)
+
 Play through the introduction and Pilot Deck level on [Terminal Renegade](http://alarner.github.io/)
 
 ## Notes:
