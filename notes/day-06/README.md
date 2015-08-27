@@ -3,7 +3,7 @@
 # Day 6
 
 ## QotD:
-[Questions of the Day]()
+* [Questions of the Day](http://www.classmarker.com/)
 
 ## Notes:
 * Review QotD
