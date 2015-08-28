@@ -1,0 +1,19 @@
+.circle {
+	width: 30px;
+	height: 30px;
+	background-color: #c7d2d8;
+	border-radius: 50%;
+	padding: 16px;
+}
+
+.circle img {
+	width: 30px;
+}
+
+.other-circle {
+	border-radius: 50%;
+	border: 16px solid #c7d2d8;
+	width: 30px;
+	height: 30px;
+	background-color: #c7d2d8;
+}

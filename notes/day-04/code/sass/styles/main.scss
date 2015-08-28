@@ -1,0 +1,146 @@
+@import 'normalize.scss';
+
+$standardSpacing: 1.5em;
+
+@mixin border-radius($radius) {
+	-webkit-border-radius: $radius;
+	-moz-border-radius: $radius;
+	border-radius: $radius;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: sans-serif;
+}
+nav {
+	background-color: #3D4F5C;
+	padding: (150/16)em 0;
+}
+
+nav > h1, nav > h2 {
+	margin: 0;
+	text-align: center;
+}
+
+nav {
+	> h1 {
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 2em;
+		color: #fff;
+	}
+
+	> h2 {
+		font-size: 1.5em;
+		font-weight: 300;
+		color: rgb(176, 202, 219);
+	}
+}
+
+.buttons {
+	margin-top: 1em;
+	
+	text-align: center;
+
+	a {
+		display: inline-block;
+		background: transparent;
+	    border: 2px solid rgb(176, 202, 219);
+	    color: #fff;
+	    padding: $standardSpacing/2 $standardSpacing;
+	    text-decoration: none;
+	    @include border-radius(2px);
+	}
+}
+
+main {
+	padding: 2*$standardSpacing $standardSpacing 0;
+}
+article {
+	color: red;
+
+	h1 {
+		font-size: 2em;
+	    color: #222;
+	    margin-bottom: 0.2em;
+	}
+}
+
+.info {
+	color: #999;
+	font-size: 0.9em;
+
+	a {
+		color: rgb(61, 146, 201);
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+article {
+	margin-bottom: 4em;
+}
+
+article p {
+	font-family: Georgia, "Cambria", serif;
+    color: #444;
+    line-height: 1.8em;
+}
+
+footer {
+	text-align: center;
+	padding: $standardSpacing 0;
+}
+
+footer a {
+	color: #ccc;
+	padding: $standardSpacing/2 $standardSpacing;
+	text-decoration: none;
+	font-size: 0.8em;
+}
+
+footer a:hover {
+	text-decoration: underline;
+}
+
+@media screen and (min-width: 48em) {
+	nav {
+		float: left;
+		height: 100%;
+		padding: 10em $standardSpacing;
+		box-sizing: border-box;
+		width: 33%;
+		position: fixed;
+	}
+
+	main {
+		/*padding-left: 26.375em;*/
+		float: right;
+		width: 67%;
+		box-sizing: border-box;
+	}
+}
+
+@media screen and (min-width: 55em) {
+	nav {
+		width: 18.125em;
+	}
+
+	main {
+		padding-left: 20.125em;
+		padding-right: 2*$standardSpacing;
+		float: none;
+		width: auto;
+	}
+
+	main > article {
+		max-width: 38em;
+		margin: 0 auto;
+	}
+}
