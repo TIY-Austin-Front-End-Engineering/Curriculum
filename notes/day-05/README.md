@@ -9,8 +9,8 @@
 * Review QotD
 
 ## Goals:
-* [CSS Positioning](/units/css-positioning)
 * [Form Elements](/units/form-elements)
+* [CSS Positioning](/units/css-positioning)
 * Intro to JS 1 - variables, types
 	* Box activity
 
