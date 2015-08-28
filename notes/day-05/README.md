@@ -7,6 +7,36 @@
 
 ## Notes:
 * Review QotD
+* types:
+	* string
+	* number
+	* boolean
+	* null
+	* undefined
+	* NaN ("test"*3)
+
+* variables:
+	* assignment
+	* re-assignment
+	* retreiving values
+
+* numbers:
+	* + - * / %
+	* += -= *= /=
+	* Math.pow
+	* Math.random
+	* Math.ceil
+	* Math.floor
+	* Math.round
+	* Math.abs
+
+* strings:
+	* +
+	* +=
+	* .length
+	* .substr(...)
+
+
 
 ## Goals:
 * [Form Elements](/units/form-elements)

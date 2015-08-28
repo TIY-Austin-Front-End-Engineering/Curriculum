@@ -1,0 +1,25 @@
+var x = 7;
+var y = 4;
+var z = x + y;
+
+z-3?
+
+---
+
+var foo = 3;
+foo++;
+foo++;
+
+foo?
+
+---
+
+var age = 29.8;
+var wholeAge = Math.floor(age);
+var nextAge = Math.ceil(age);
+
+nextAge - wholeAge?
+
+---
+
+'5' + 3 - 3?
