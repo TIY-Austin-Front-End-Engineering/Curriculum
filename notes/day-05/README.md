@@ -7,6 +7,7 @@
 
 ## Notes:
 * Review QotD
+* [Review Homework](http://codepen.io/anon/pen/NGWRBK)
 * types:
 	* string
 	* number
@@ -35,6 +36,9 @@
 	* +=
 	* .length
 	* .substr(...)
+	* .charAt
+	* .strpos
+	
 
 
 
