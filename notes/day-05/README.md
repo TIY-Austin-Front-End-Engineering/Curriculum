@@ -7,6 +7,9 @@
 
 ## Notes:
 * Review QotD
+* `npm install -g alarner/tiyfe`
+* `display: inline-block`
+* eshint
 * types:
 	* string
 	* number
@@ -14,12 +17,10 @@
 	* null
 	* undefined
 	* NaN ("test"*3)
-
 * variables:
 	* assignment
 	* re-assignment
 	* retreiving values
-
 * numbers:
 	* + - * / %
 	* += -= *= /=
@@ -29,12 +30,14 @@
 	* Math.floor
 	* Math.round
 	* Math.abs
-
 * strings:
 	* +
 	* +=
 	* .length
 	* .substr(...)
+* booleans
+	* &&, ||, ==, ===, !
+* [worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables-worksheet)
 
 
 
@@ -49,5 +52,5 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Variables and types worksheet
+* [Variables and types worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables)
 * [Responsive Form](https://github.com/TIY-Austin-Front-End-Engineering/responsive-form)

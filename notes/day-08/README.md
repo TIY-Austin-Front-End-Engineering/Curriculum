@@ -10,15 +10,11 @@
 
 ## Goals:
 * Intro to JS 4 - loops
+* Functions
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-08/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Write a blog post explaining your understanding of objects and arrays.
-	* Why do we need them? Include at least one real world example of using each.
-	* How do you set and retreive information using arrays?
-	* How do you set and retreive information using objects?
-* Command Line Tic-tac-toe
-	
+* [Command Line Tic-tac-toe](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe)
