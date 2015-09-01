@@ -11,12 +11,16 @@
 ## Goals:
 * [Grid Systems](/units/grid-systems)
 * Intro to JS 3 - arrays and objects
-	* Russian doll activity
+	* Organizing boxes
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-07/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Simplified grid system assignment
+* [Bootstrap Grid](https://github.com/TIY-Austin-Front-End-Engineering/bootstrap-grid)
+* Write a blog post explaining your understanding of objects and arrays.
+	* Why do we need them? Include at least one real world example of using each.
+	* How do you set and retreive information using arrays?
+	* How do you set and retreive information using objects?
 	

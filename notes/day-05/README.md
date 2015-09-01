@@ -8,6 +8,8 @@
 ## Notes:
 * Review QotD
 * [Review Homework](http://codepen.io/anon/pen/NGWRBK)
+* `npm install -g alarner/tiyfe`
+* `display: inline-block`
 * types:
 	* string
 	* number
@@ -15,12 +17,10 @@
 	* null
 	* undefined
 	* NaN ("test"*3)
-
 * variables:
 	* assignment
 	* re-assignment
 	* retreiving values
-
 * numbers:
 	* + - * / %
 	* += -= *= /=
@@ -30,7 +30,6 @@
 	* Math.floor
 	* Math.round
 	* Math.abs
-
 * strings:
 	* +
 	* +=
@@ -39,11 +38,15 @@
 	* .charAt
 	* .strpos
 	
+* booleans
+	* &&, ||, ==, ===, !
 
 
 
 ## Goals:
-* [Form Elements](/units/form-elements)
+* [CSS Pseudo-Classes](/units/css-pseudo-classes)
+* [CSS Pseudo-Elements](/units/css-pseudo-elements)
+* [Form Elements](/units/form-elements) <!-- we didn't explicitly talk about these -->
 * [CSS Positioning](/units/css-positioning)
 * Intro to JS 1 - variables, types
 	* Box activity
@@ -53,5 +56,5 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Variables and types worksheet
+* [Variables and types worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables)
 * [Responsive Form](https://github.com/TIY-Austin-Front-End-Engineering/responsive-form)
