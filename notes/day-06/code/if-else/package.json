@@ -1,0 +1,19 @@
+{
+  "name": "if-else",
+  "version": "1.0.0",
+  "description": "Practicing if statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "if",
+    "else"
+  ],
+  "author": "Aaron Larner",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^3.0.0"
+  }
+}
