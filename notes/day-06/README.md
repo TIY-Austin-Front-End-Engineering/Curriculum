@@ -9,7 +9,7 @@
 * Review QotD
 * Review Homework
 * Review git workflow
-* eshint
+* `npm install -g eslint eslint-plugin-react`
 * Clearhead
 
 ## Goals:
