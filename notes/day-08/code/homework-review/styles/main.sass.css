@@ -1,0 +1,58 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+.hero {
+  background-image: url(/images/hero-dark.jpg);
+  height: 30em;
+  background-size: cover; }
+
+.navbar {
+  margin-bottom: 0; }
+
+h1 {
+  color: #fff;
+  font-size: 5em;
+  text-align: center; }
+
+h2 {
+  color: #fff;
+  text-align: center; }
+
+h3, h4 {
+  color: #8E9295;
+  margin-bottom: 1.5em; }
+
+h4 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1em; }
+
+p {
+  color: #8B8B8B;
+  margin-bottom: 1.5em; }
+
+.download {
+  padding-left: 3em;
+  padding-right: 3em; }
+
+.well {
+  border: none; }
+
+footer {
+  background: #3A414B; }
+  footer .about-links a {
+    display: block; }
+
+@media screen and (min-width: 48em) {
+  h1 {
+    font-size: 3em;
+    text-align: right; }
+  h2 {
+    font-size: 2em;
+    text-align: left; } }
+
+@media screen and (min-width: 75em) {
+  h1 {
+    font-size: 5em;
+    text-align: center; }
+  h2 {
+    font-size: 2.5em;
+    text-align: center; } }
