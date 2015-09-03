@@ -3,7 +3,7 @@
 # Day 8
 
 ## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+* [All questions except 12, 14, 15](https://github.com/TIY-Austin-Front-End-Engineering/javascript-objects-worksheet)
 
 ## Notes:
 * Review QotD
