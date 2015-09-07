@@ -10,14 +10,13 @@
 
 ## Goals:
 * Intro to JS 4 - functions
-	* Play-doh activity - assembly line
+	* Assembly line activity
 	* Different types of named functions, methods
-	* Closures
+* Intro to Unit Testing 1
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-09/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [JavaScript Form Functions](https://github.com/TIY-Austin-Front-End-Engineering/javascript-form-functions)
-* Another Grid Assignment
+* [Tic Tac Toe Functions](TIY-Austin-Front-End-Engineering_tic-tac-toe-functions)

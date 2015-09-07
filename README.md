@@ -30,13 +30,13 @@
 * [09/16/2015 - Day 15 - AJAX](/notes/day-15/README.md)
 * [09/15/2015 - Day 14 - jQuery Forms, `this`](/notes/day-14/README.md)
 * [09/14/2015 - Day 13 - Intro jQuery](/notes/day-13/README.md)
+-->
 
 ### Week 3: Advanced JS
 * [09/10/2015 - Day 12 - Events](/notes/day-12/README.md)
 * [09/09/2015 - Day 11 - Interacting with the DOM](/notes/day-11/README.md)
 * [09/08/2015 - Day 10 - Unit Testing](/notes/day-10/README.md)
 * [09/07/2015 - Day 09 - Functions](/notes/day-09/README.md)
--->
 
 ### Week 2: Advanced HTML/CSS, Basic JS
 * [09/03/2015 - Day 08 - Loops](/notes/day-08/README.md)

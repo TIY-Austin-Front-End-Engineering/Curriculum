@@ -9,8 +9,8 @@
 * Review QotD
 
 ## Goals:
-* Anonymous functions
-* Event listeners
+* Interacting with the DOM
+* Getting values from form elements
 * Event handlers
 * Event bubbling
 
@@ -19,4 +19,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Vanilla JS Todo List
+* [Vanilla JS Todo List](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-todo)
