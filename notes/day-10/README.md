@@ -24,4 +24,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions)
+* [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions) Normal mode 1-8

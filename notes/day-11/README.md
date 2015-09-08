@@ -9,18 +9,14 @@
 * Review QotD
 
 ## Goals:
-* Interacting with the DOM
-* Getting values from form elements
+* Functions review
+* Anonymous functions
+* Variable scoping
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-11/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* 
-* Write a post about one of these topics. Link to the published article when you submit this assignment.
-	* The biggest success you've had thus far in the course
-	* The most surprising thing about the experience so far
-	* Why you love JavaScript
-	* Why you hate JavaScript
-	* Explain a JavaScript concept that you understand really well in your own words.
+* [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions) Normal mode 9
+* Write a post about your experience in the course thus far. What has surprised you? What did you expect? What advice would you have for others who are just starting week 1?
