@@ -20,8 +20,10 @@
 	* split
 	* join
 	* indexOf
+	* pass by reference
 * Object review
 	* hasOwnProperty
+	* pass by reference
 * Functions review
 * [Unit testing](/units/unit-testing)
 
