@@ -14,8 +14,14 @@
 	* charAt
 	* charCodeAt
 	* fromCharCode
+	* substr
+	* indexOf
 * Array review
+	* split
+	* join
+	* indexOf
 * Object review
+	* hasOwnProperty
 * Functions review
 * [Unit testing](/units/unit-testing)
 
