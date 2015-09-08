@@ -9,6 +9,13 @@
 * Review QotD
 
 ## Goals:
+* String methods
+	* toLowerCase / toUpperCase
+	* charAt
+	* charCodeAt
+	* fromCharCode
+* Array review
+* Object review
 * Functions review
 * [Unit testing](/units/unit-testing)
 
@@ -17,4 +24,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Unit testing assignment
+* [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions)
