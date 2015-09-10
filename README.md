@@ -35,7 +35,7 @@
 ### Week 3: Advanced JS
 * [09/10/2015 - Day 12 - Interacting with the DOM, Events](/notes/day-12/README.md)
 * [09/09/2015 - Day 11 - Functions Review](/notes/day-11/README.md)
-* [09/08/2015 - Day 10 - Unit Testing](/notes/day-10/README.md)
+* [09/08/2015 - Day 10 - Functions Review & Unit Testing](/notes/day-10/README.md)
 * [09/07/2015 - Day 09 - Functions](/notes/day-09/README.md)
 
 ### Week 2: Advanced HTML/CSS, Basic JS
