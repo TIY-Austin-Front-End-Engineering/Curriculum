@@ -9,6 +9,9 @@
 * Review QotD
 
 ## Goals:
+* Review: modifying the DOM
+	* innerHTML
+	* changing styles
 * Interacting with the DOM
 * Getting values from form elements
 * Event listeners
