@@ -11,7 +11,7 @@
 ## Goals:
 * Interacting with the DOM
 * Getting values from form elements
-* Event handlers
+* Event listeners
 * Event bubbling
 
 ## In-Class Code
