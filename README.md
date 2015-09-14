@@ -24,13 +24,13 @@
 * [09/23/2015 - Day 23 - Router](/notes/day-23/README.md)
 * [09/22/2015 - Day 22 - Collections](/notes/day-22/README.md)
 * [09/21/2015 - Day 21 - Classes, Models](/notes/day-21/README.md)
+-->
 
 ### Week 4: jQuery
 * [09/17/2015 - Day 16 - Events](/notes/day-16/README.md)
 * [09/16/2015 - Day 15 - AJAX](/notes/day-15/README.md)
 * [09/15/2015 - Day 14 - jQuery Forms, `this`](/notes/day-14/README.md)
 * [09/14/2015 - Day 13 - Intro jQuery](/notes/day-13/README.md)
--->
 
 ### Week 3: Advanced JS
 * [09/10/2015 - Day 12 - Interacting with the DOM, Events](/notes/day-12/README.md)

@@ -17,5 +17,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Update vanilla js todo list to save/load data to/from tiny pizza server
-* Blog Post
+* [jQuery Chat Application](https://github.com/TIY-Austin-Front-End-Engineering/jquery-chat-application)

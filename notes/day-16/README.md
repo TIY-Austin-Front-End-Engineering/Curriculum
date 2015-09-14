@@ -17,4 +17,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* jQuery Instagram Clone
+* [jQuery Image Board](https://github.com/TIY-Austin-Front-End-Engineering/jquery-image-board)

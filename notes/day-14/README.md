@@ -11,7 +11,8 @@
 ## Goals:
 * Getting values from form elements
 * e.target
-* what is this?
+* [scoping](/units/scoping-closures/README.md)
+* [what is this?](https://github.com/TIY-Austin-Front-End-Engineering/what-is-this)
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-14/code)
@@ -20,4 +21,4 @@
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [jQuery Contact Form](https://github.com/TIY-Austin-Front-End-Engineering/jquery-contact-form)
 * [jQuery Login](https://github.com/TIY-Austin-Front-End-Engineering/jquery-login)
-* JavaScript Functions and Unit Tests
+* Write a new blog post about your understanding of `this`. It could be a poem, interpretive dance, rant, infographic, or just a description of your understanding.
