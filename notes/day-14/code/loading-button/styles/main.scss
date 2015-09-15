@@ -1,0 +1,26 @@
+body {
+	background-color: #1DA655;
+}
+
+button {
+	display: block;
+	background: #107C55;
+	border: none;
+	padding: 0;
+	height: 3.181818em;
+	overflow: hidden;
+	outline: none;
+
+	.background {
+		height: 3.181818em;
+		background-color: #09632A;
+		width: 0;
+	}
+
+	.text {
+		padding: 1em 2em;
+		color: #fff;
+		position: relative;
+    	bottom: 3.1875em;
+	}
+}
