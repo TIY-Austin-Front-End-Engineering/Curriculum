@@ -9,7 +9,7 @@
 * Review QotD
 
 ## Goals:
-* AJAX (http://tiny-pizza-server.herokuapp.com/collections/...)
+* AJAX (http://tiyfe.herokuapp.com/collections/...)
 * In-class chat example
 
 ## In-Class Code
