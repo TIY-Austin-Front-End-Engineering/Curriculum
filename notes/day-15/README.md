@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 11
+# Day 15
 
 ## QotD:
 * [Questions of the Day](http://www.classmarker.com/)
@@ -13,7 +13,7 @@
 * In-class chat example
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-11/code)
+[Code that we wrote today](/notes/day-15/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
