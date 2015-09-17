@@ -2,15 +2,9 @@
 
 # Day 16
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
-
-## Notes:
-* Review QotD
-
 ## Goals:
-* Review
-* Closures
+* Multi user git projects, resolving merge conflicts
+* In-class chat
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-16/code)

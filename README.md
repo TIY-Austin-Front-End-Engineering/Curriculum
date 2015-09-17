@@ -27,7 +27,7 @@
 -->
 
 ### Week 4: jQuery
-* [09/17/2015 - Day 16 - Events](/notes/day-16/README.md)
+* [09/17/2015 - Day 16 - Multi-user git projects, Review](/notes/day-16/README.md)
 * [09/16/2015 - Day 15 - AJAX](/notes/day-15/README.md)
 * [09/15/2015 - Day 14 - jQuery Forms, `this`](/notes/day-14/README.md)
 * [09/14/2015 - Day 13 - Intro jQuery](/notes/day-13/README.md)
