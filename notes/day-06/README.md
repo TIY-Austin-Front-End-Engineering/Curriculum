@@ -60,4 +60,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Command Line Programming Quiz](https://github.com/TIY-Austin-Front-End-Engineering/command-line-programming-quiz)
+
 <!-- This turned out to be a great assignment. Hard mode was great for advanced students, and Normal mode was a good level for struggling students -->

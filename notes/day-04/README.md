@@ -19,4 +19,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
+
 <!-- This was too easy. You need to make it multiple pages for the more advanced students. About half of the class finished it up by Friday -->
