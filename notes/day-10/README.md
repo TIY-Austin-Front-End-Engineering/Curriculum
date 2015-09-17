@@ -33,3 +33,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions) Normal mode 1-8
+
+<!-- this is too much for most students. Too difficult, too early. Unit testing is not clicking naturally. Maybe start with dom manipulation and events / callbacks so that they understand what functions are used for in the wild before getting this difficult -->

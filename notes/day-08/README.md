@@ -18,3 +18,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Command Line Tic-tac-toe](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe)
+
+<!-- good assignment but a bit much for the struggling students -->

@@ -30,3 +30,5 @@
 * [jQuery Like Button](https://github.com/TIY-Austin-Front-End-Engineering/jquery-like)
 * [jQuery Loading Button](https://github.com/TIY-Austin-Front-End-Engineering/jquery-loading-button)
 * [jQuery Tabs](https://github.com/TIY-Austin-Front-End-Engineering/jquery-tabs)
+
+<!-- right amount of difficulty. hard / nightmare mode are good too -->

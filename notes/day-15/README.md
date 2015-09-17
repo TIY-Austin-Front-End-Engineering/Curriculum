@@ -18,3 +18,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [jQuery Chat Application](https://github.com/TIY-Austin-Front-End-Engineering/jquery-chat-application)
+
+<!-- students really love this assignment and seem to be able to tackle it in a night -->

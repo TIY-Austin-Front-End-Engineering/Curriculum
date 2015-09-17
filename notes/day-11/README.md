@@ -20,3 +20,5 @@
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Unit testing functions](https://github.com/TIY-Austin-Front-End-Engineering/unit-testing-functions) Normal mode 9
 * Write a post about your experience in the course thus far. What has surprised you? What did you expect? What advice would you have for others who are just starting week 1?
+
+<!-- this is too much for most students. Too difficult, too early. Unit testing is not clicking naturally. Maybe start with dom manipulation and events / callbacks so that they understand what functions are used for in the wild before getting this difficult -->

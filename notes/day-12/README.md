@@ -23,3 +23,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Vanilla JS Todo List](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-todo)
+
+<!-- most were able to accomplish this. was a bit easy for some students. Add styling for more HTML / CSS practice. Hard mode should be to get elements to cross out when clicked on. Nightmare mode should be to have a button to permanently remove all crossed out items. -->

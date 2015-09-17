@@ -22,3 +22,5 @@
 * [jQuery Contact Form](https://github.com/TIY-Austin-Front-End-Engineering/jquery-contact-form)
 * [jQuery Login](https://github.com/TIY-Austin-Front-End-Engineering/jquery-login)
 * Write a new blog post about your understanding of `this`. It could be a poem, interpretive dance, rant, infographic, or just a description of your understanding.
+
+<!-- right amount of difficulty. hard / nightmare mode are good too -->

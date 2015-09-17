@@ -23,4 +23,6 @@
 	* Why do we need them? Include at least one real world example of using each.
 	* How do you set and retreive information using arrays?
 	* How do you set and retreive information using objects?
+
+<!-- bootstrap grid was quite difficult for most of the class. Maybe make it a bit easier -->
 	
