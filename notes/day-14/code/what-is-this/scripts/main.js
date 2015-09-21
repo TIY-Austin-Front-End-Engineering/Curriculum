@@ -160,7 +160,7 @@ var confusing = {
 
 
 // * Problem 14
-inAFunction('what will', 'happen?');
+// inAFunction('what will', 'happen?');
 // * "this" is ...
 // * because ...
 
