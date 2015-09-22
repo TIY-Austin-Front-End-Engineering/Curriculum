@@ -3,8 +3,8 @@
 # Day 18
 
 ## Goals:
+* Browserify
 * Backbone Models and Collections
-* Hoisting
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-18/code)
