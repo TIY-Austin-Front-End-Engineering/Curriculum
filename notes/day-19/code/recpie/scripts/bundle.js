@@ -12661,58 +12661,65 @@ return jQuery;
 
 },{}],4:[function(require,module,exports){
 'use strict';
+
+var Backbone = require('backbone');
+var IngredientModel = require('../models/IngredientModel');
+module.exports = Backbone.Collection.extend({
+	model: IngredientModel,
+	url: 'http://tiyfe.herokuapp.com/collections/backbone-example'
+});
+
+},{"../models/IngredientModel":6,"backbone":1}],5:[function(require,module,exports){
+'use strict';
 var $ = require('jquery');
-var LikeModel = require('./models/LikeModel.js');
-var LikeButtonView = require('./views/LikeButtonView.js');
-
+var IngredientCollection = require('./collections/IngredientCollection');
+var IngredientModel = require('./models/IngredientModel');
+var _ = require('backbone/node_modules/underscore');
 $(document).ready(function () {
-
-	// var likeModel1 = new LikeModel({likes: 7});
-	// var likeButton1 = new LikeButtonView({model: likeModel1});
-	// likeButton1.render();
-	// // var likeButton2 = new LikeButtonView();
-	// // var likeButton3 = new LikeButtonView();
-	// $('body').append(likeButton1.$el)
-	// console.log(likeButton1);
 
 	/*
   * WHO are the actors
   */
 
 	// 1a. Target the element
-	var $likeButton = $('.like-button');
-	var $lastClicked = $('#last-click');
+	var $textarea = $('textarea');
+	var $ingredient = $('#ingredient');
+	var $quantity = $('#quantity');
+	var $form = $('#form');
+	var $ingredientList = $('#ingredient-list');
+	var ingredientTemplate = _.template($('#ingredient-row').html());
 
-	// 1b. Instantiate a new backbone model
-	var like = new LikeModel();
+	// 1b. Instantiate a new backbone model or collection
+	var ingredients = new IngredientCollection();
 
 	/*
   * WHAT is going to happen? (functions)
   */
 
-	// // 2a. function to run when jQuery event happens
-	function onButtonClick(e) {
-		// this = $likeButton
-		var newNumberOfLikes = like.get('likes') + 1;
-		like.set({
-			likes: newNumberOfLikes,
-			lastClick: new Date()
+	// 2a. function to run when jQuery event happens
+	// Event: submit
+	// Action: get data and store it in the collection
+	function onFormSubmit(e) {
+		e.preventDefault();
+		// var newIngredient = new IngredientModel();
+		ingredients.add({
+			ingredient: $ingredient.val(),
+			quantity: $quantity.val()
 		});
+		// newIngredient.set();
+
+		// var newIngredient = $ingredient.val();
+		// ingredients.add({
+		// 	ingredient: newIngredient,
+		// })
 	}
 
-	// 2b. function to run when model event happens
+	// 2b. function to run when model or collection event happens
 	//	   use jQuery to update the page
-	function onLikeModelChange(likeModelThatWasChanged) {
-		// this = like?
-		console.log(this);
-		var numLikes = likeModelThatWasChanged.get('likes');
-		if (numLikes === 1) {
-			$likeButton.html('1 Like');
-		} else {
-			$likeButton.html(numLikes + ' Likes');
-		}
-
-		$lastClicked.html(likeModelThatWasChanged.get('lastClick'));
+	function onIngredientAdded(newIngredient) {
+		newIngredient.save();
+		var newHtml = ingredientTemplate(newIngredient.toJSON());
+		$ingredientList.append(newHtml);
 	}
 
 	/*
@@ -12720,69 +12727,31 @@ $(document).ready(function () {
   */
 
 	// 3a. connect jQuery like button element with onButtonClick function
-	$likeButton.on('click', onButtonClick);
+	// Element: $form
+	// Event: submit
+	$form.on('submit', onFormSubmit);
 
 	// 3b. connect Backbone like model with onLikeModelChange function
-	like.on('change', onLikeModelChange);
+	ingredients.on('add', onIngredientAdded);
+
+	ingredients.fetch();
 });
 
-},{"./models/LikeModel.js":5,"./views/LikeButtonView.js":6,"jquery":3}],5:[function(require,module,exports){
+},{"./collections/IngredientCollection":4,"./models/IngredientModel":6,"backbone/node_modules/underscore":2,"jquery":3}],6:[function(require,module,exports){
 'use strict';
 
 var Backbone = require('backbone');
 module.exports = Backbone.Model.extend({
 	defaults: {
-		likes: 0,
-		lastClick: null
-	}
+		ingredient: '',
+		quantity: ''
+	},
+	urlRoot: 'http://tiyfe.herokuapp.com/collections/backbone-example',
+	idAttribute: '_id'
+
 });
 
-},{"backbone":1}],6:[function(require,module,exports){
-'use strict';
-var Backbone = require('backbone');
-var _ = require('backbone/node_modules/underscore');
-var LikeModel = require('../models/LikeModel.js');
-module.exports = Backbone.View.extend({
-	tagName: 'button',
-	// events: {
-	// 	'click': 'onLikeButtonClick'
-	// },
-	initialize: function initialize(options) {
-		_.bindAll(this, 'onLikeButtonClick', 'render');
-		if (typeof options === 'undefined') {
-			console.log('undefined');
-			this.options = {
-				color: 'auto'
-			};
-		} else {
-			this.options = options;
-		}
-		console.log('the like button was just created');
-		// this.model = new LikeModel();
-		this.$el.on('click', this.onLikeButtonClick);
-		this.model.on('change', this.render);
-		this.render();
-	},
-	render: function render() {
-		console.log(this.options);
-		this.$el.css('background', this.options.color);
-		var numLikes = this.model.get('likes');
-		if (numLikes === 1) {
-			this.$el.html('1 Like');
-		} else {
-			this.$el.html(numLikes + ' Likes');
-		}
-	},
-	onLikeButtonClick: function onLikeButtonClick() {
-		var newNumberOfLikes = this.model.get('likes') + 1;
-		this.model.set({
-			likes: newNumberOfLikes,
-			lastClick: new Date()
-		});
-	}
-});
-
-},{"../models/LikeModel.js":5,"backbone":1,"backbone/node_modules/underscore":2}]},{},[4])
+},{"backbone":1}]},{},[5])
 
 
 //# sourceMappingURL=bundle.js.map

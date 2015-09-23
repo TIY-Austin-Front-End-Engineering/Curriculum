@@ -1,9 +1,18 @@
 'use strict';
 var $ = require('jquery');
 var LikeModel = require('./models/LikeModel.js');
+var LikeButtonView = require('./views/LikeButtonView.js');
 
 $(document).ready(function() {
 
+	// var likeModel1 = new LikeModel({likes: 7});
+	// var likeButton1 = new LikeButtonView({model: likeModel1});
+	// likeButton1.render();
+	// // var likeButton2 = new LikeButtonView();
+	// // var likeButton3 = new LikeButtonView();
+	// $('body').append(likeButton1.$el)
+	// console.log(likeButton1);
+	
 	/*
 	 * WHO are the actors
 	 */
@@ -19,7 +28,7 @@ $(document).ready(function() {
 	 * WHAT is going to happen? (functions)
 	 */
 
-	// 2a. function to run when jQuery event happens
+	// // 2a. function to run when jQuery event happens
 	function onButtonClick(e) {
 		// this = $likeButton
 		var newNumberOfLikes = like.get('likes')+1;
