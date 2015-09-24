@@ -47,7 +47,7 @@ $(document).ready(function() {
 	//	   use jQuery to update the page
 	function onIngredientAdded(newIngredient) {
 		newIngredient.save();
-		var newHtml = ingredientTemplate(newIngredient.toJSON());
+		// var newHtml = ingredientTemplate(newIngredient.toJSON());
 		$ingredientList.append(newHtml);
 	}
 
