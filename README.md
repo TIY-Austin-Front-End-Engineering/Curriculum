@@ -21,10 +21,10 @@
 
 -->
 ### Week 5: Backbone
-* [09/24/2015 - Day 20 - Router](/notes/day-20/README.md)
+* [09/24/2015 - Day 20 - Advanced Git/GitHub, Hackathon](/notes/day-20/README.md)
 * [09/23/2015 - Day 19 - Views](/notes/day-19/README.md)
 * [09/22/2015 - Day 18 - Models, Collections](/notes/day-18/README.md)
-* [09/21/2015 - Day 17 - Classes, Models](/notes/day-17/README.md)
+* [09/21/2015 - Day 17 - Router, Classes, Models](/notes/day-17/README.md)
 
 ### Week 4: jQuery
 * [09/17/2015 - Day 16 - Multi-user git projects, Review](/notes/day-16/README.md)

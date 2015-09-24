@@ -12,3 +12,5 @@
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Profile Model](https://github.com/TIY-Austin-Front-End-Engineering/profile-model)
+
+<!-- this assignment is too small. add something else next time or beef it up -->

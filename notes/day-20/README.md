@@ -3,7 +3,7 @@
 # Day 20
 
 ## Goals:
-* Design chat
+* Backbone models and collections review
 * Advanced git/github
 
 ## In-Class Code
@@ -11,4 +11,4 @@
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Hackathon
+* [Hackathon](https://github.com/TIY-Austin-Front-End-Engineering/Hackathon/tree/Sept_24_2015)
