@@ -12,14 +12,14 @@
 ### Week 8: Client Project
 
 ### Week 7: Parse / Firebase
+-->
 
 ### Week 6: React
-* [10/01/2015 - Day 28 - ](/notes/day-28/README.md)
-* [09/30/2015 - Day 27 - ](/notes/day-27/README.md)
-* [09/29/2015 - Day 26 - ](/notes/day-26/README.md)
-* [09/28/2015 - Day 25 - ](/notes/day-25/README.md)
+* [10/01/2015 - Day 28 - Review](/notes/day-28/README.md)
+* [09/30/2015 - Day 27 - Backbone with React](/notes/day-27/README.md)
+* [09/29/2015 - Day 26 - React events](/notes/day-26/README.md)
+* [09/28/2015 - Day 25 - Hackathon Retro, Rendering React Components](/notes/day-25/README.md)
 
--->
 ### Week 5: Backbone
 * [09/24/2015 - Day 20 - Advanced Git/GitHub, Hackathon](/notes/day-20/README.md)
 * [09/23/2015 - Day 19 - Views](/notes/day-19/README.md)
