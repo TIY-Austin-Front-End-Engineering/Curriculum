@@ -15,10 +15,10 @@
 -->
 
 ### Week 6: React
-* [10/01/2015 - Day 28 - Review](/notes/day-28/README.md)
-* [09/30/2015 - Day 27 - Backbone with React](/notes/day-27/README.md)
-* [09/29/2015 - Day 26 - React events](/notes/day-26/README.md)
-* [09/28/2015 - Day 25 - Hackathon Retro, Rendering React Components](/notes/day-25/README.md)
+* [10/01/2015 - Day 24 - Review](/notes/day-24/README.md)
+* [09/30/2015 - Day 23 - Backbone with React](/notes/day-23/README.md)
+* [09/29/2015 - Day 22 - React events](/notes/day-22/README.md)
+* [09/28/2015 - Day 21 - Hackathon Retro, Rendering React Components](/notes/day-21/README.md)
 
 ### Week 5: Backbone
 * [09/24/2015 - Day 20 - Advanced Git/GitHub, Hackathon](/notes/day-20/README.md)
