@@ -1,0 +1,42 @@
+body {
+  margin: 0; }
+
+nav {
+  overflow: hidden; }
+  nav strong {
+    display: block;
+    float: left; }
+  nav a {
+    display: block;
+    float: left; }
+  nav div {
+    float: right; }
+
+.float-example {
+  background-color: red;
+  max-width: 60em;
+  margin: 0 auto; }
+  .float-example .content {
+    width: 75%;
+    float: left;
+    border-right: 2em solid transparent;
+    border-left: 2em solid transparent;
+    box-sizing: border-box; }
+  .float-example .sidebar {
+    width: 25%;
+    float: left;
+    border-right: 2em solid transparent;
+    box-sizing: border-box; }
+
+.inline-block-example section {
+  background-color: red; }
+
+.inline-block-example .content {
+  margin: 0;
+  width: 74%;
+  display: inline-block; }
+
+.inline-block-example .sidebar {
+  margin: 0;
+  width: 25%;
+  display: inline-block; }
