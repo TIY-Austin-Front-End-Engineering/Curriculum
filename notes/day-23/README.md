@@ -13,3 +13,5 @@
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [React mapping assignment](https://github.com/alarner/react-mapping)
 * Implement Fresh jobs new job page and list page
+
+<!-- This day was really rough. Need to review mapping and react props before jumping in to rendering lists -->

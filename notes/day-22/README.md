@@ -16,3 +16,5 @@
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Fresh Job Board Models](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-models)
 * [Fresh Job Board Components](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-components)
+
+<!-- Spend more time, more assignments using regular props (not models) -->
