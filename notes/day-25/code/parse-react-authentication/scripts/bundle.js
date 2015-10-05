@@ -32639,6 +32639,11 @@ var React = require('react');
 module.exports = React.createClass({
 	displayName: "exports",
 
+	getInitialState: function getInitialState() {
+		return {
+			error: null
+		};
+	},
 	render: function render() {
 		return React.createElement(
 			"div",
@@ -32648,11 +32653,16 @@ module.exports = React.createClass({
 				{ className: "row" },
 				React.createElement(
 					"form",
-					{ className: "col s12" },
+					{ className: "col s12", onSubmit: this.onRegister },
 					React.createElement(
 						"h1",
 						null,
 						"Register"
+					),
+					React.createElement(
+						"p",
+						null,
+						this.state.error
 					),
 					React.createElement(
 						"div",
@@ -32660,7 +32670,7 @@ module.exports = React.createClass({
 						React.createElement(
 							"div",
 							{ className: "input-field col s12" },
-							React.createElement("input", { type: "text", className: "validate", id: "first_name" }),
+							React.createElement("input", { type: "text", className: "validate", id: "first_name", ref: "email" }),
 							React.createElement(
 								"label",
 								{ htmlFor: "first_name" },
@@ -32674,7 +32684,7 @@ module.exports = React.createClass({
 						React.createElement(
 							"div",
 							{ className: "input-field col s12" },
-							React.createElement("input", { id: "password", type: "password", className: "validate" }),
+							React.createElement("input", { id: "password", type: "password", className: "validate", ref: "password" }),
 							React.createElement(
 								"label",
 								{ htmlFor: "password" },
@@ -32694,6 +32704,34 @@ module.exports = React.createClass({
 				)
 			)
 		);
+	},
+	onRegister: function onRegister(e) {
+		var _this = this;
+
+		e.preventDefault();
+		var email = this.refs.email.getDOMNode().value;
+		var password = this.refs.password.getDOMNode().value;
+
+		var user = new Parse.User();
+		user.set('username', email);
+		user.set('password', password);
+		user.set('email', email);
+
+		user.signUp(null, {
+			success: function success(user) {
+				console.log('success', user);
+				_this.setState({
+					error: null
+				});
+				_this.props.router.navigate('');
+			},
+			error: function error(user, err) {
+				console.log('error', user, err);
+				_this.setState({
+					error: err.message
+				});
+			}
+		});
 	}
 });
 
@@ -32703,6 +32741,7 @@ var React = require('react');
 var Backbone = require('backbone');
 window.$ = require('jquery');
 window.jQuery = $;
+Parse.initialize('Csg0scEKmSx6TxexJhbyVDWkEKS8pV44n5Gz5MGM', 'MVwZx5d3acjBFRpMTVQxxCu2Xp1rvkHE3mltdNbB');
 
 var NavigationComponent = require('./components/NavigationComponent');
 var HomeComponent = require('./components/HomeComponent');
@@ -32710,8 +32749,9 @@ var LoginComponent = require('./components/LoginComponent');
 var RegisterComponent = require('./components/RegisterComponent');
 
 var app = document.getElementById('app');
+var nav = document.getElementById('nav');
 
-React.render(React.createElement(NavigationComponent, null), document.getElementById('nav'));
+React.render(React.createElement(NavigationComponent, null), nav);
 
 var Router = Backbone.Router.extend({
 	routes: {
@@ -32726,7 +32766,7 @@ var Router = Backbone.Router.extend({
 		React.render(React.createElement(LoginComponent, null), app);
 	},
 	register: function register() {
-		React.render(React.createElement(RegisterComponent, null), app);
+		React.render(React.createElement(RegisterComponent, { router: r }), app);
 	}
 });
 
