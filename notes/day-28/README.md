@@ -3,8 +3,7 @@
 # Day 28
 
 ## Goals:
-* Parse CRUD
-* Hoisting
+* Review
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-28/code)

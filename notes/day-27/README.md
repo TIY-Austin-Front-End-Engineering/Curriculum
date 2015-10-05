@@ -4,7 +4,7 @@
 
 ## Goals:
 * Parse CRUD
-* Hoisting
+* [Hoisting](https://github.com/TIY-Austin-Front-End-Engineering/hoisting-worksheet)
 
 ## In-Class Code
 [Code that we wrote today](/notes/day-27/code)
