@@ -10,9 +10,30 @@
 ### Week 9: Crash Courses
 
 ### Week 8: Client Project
-
-### Week 7: Parse / Firebase
 -->
+
+<!--
+Parse:
+- Saving
+- Fetching
+- Querying
+
+React:
+- Navigation
+- Component Communication with events
+
+Vanilla:
+- Hoisting
+- ES6 Arrow Functions
+- Promises
+- Regex
+-->
+
+### Week 7: React / Parse
+* [10/08/2015 - Day 28](/notes/day-28/README.md)
+* [10/07/2015 - Day 27](/notes/day-27/README.md)
+* [10/06/2015 - Day 26](/notes/day-26/README.md)
+* [10/05/2015 - Day 25 - Parse user authentication](/notes/day-25/README.md)
 
 ### Week 6: React
 * [10/01/2015 - Day 24 - React Review](/notes/day-24/README.md)
