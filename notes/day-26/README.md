@@ -9,7 +9,7 @@
 * Regular expressions
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-25/code)
+[Code that we wrote today](/notes/day-26/code)
 
 ## Homework
 * [React navigation](https://github.com/TIY-Austin-Front-End-Engineering/react-navigation)
