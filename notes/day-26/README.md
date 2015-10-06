@@ -3,6 +3,7 @@
 # Day 26
 
 ## Goals:
+* Router details view review
 * Navigation
 * Component Communication with events (Navigation example)
 * Regular expressions
