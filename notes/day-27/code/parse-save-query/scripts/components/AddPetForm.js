@@ -27,7 +27,7 @@ module.exports = React.createClass({
 								<label htmlFor="leg-length">Leg Length</label>
 								<input type="text" ref="legLength" className="form-control" id="leg-length" placeholder="Leg Length" />
 							</div>
-							<div className="checkbox">
+							<div className="checkbox" ref="colors">
 								<div>Color</div>
 								<label>
 									<input type="checkbox" value="brown" /> Brown
@@ -51,12 +51,42 @@ module.exports = React.createClass({
 	},
 	onAddPet: function(e) {
 		e.preventDefault();
-		console.log('save pet');
+		// colorBoxes is a DomNodeList of all of the checkboxes (it's like an
+		// array but not)
+		var colorBoxes = this.refs.colors.getDOMNode().querySelectorAll('input');
+		// console.log(colorBoxes);
+
+		// DOMNodeList's don't have a filter or map methods, so we need to
+		// convert the DOMNodeList to an array
+		// var colorBoxesArray = [].slice.call(colorBoxes);
+
+		var colorStringsArray = [];
+		for(var i = 0; i < colorBoxes.length; i++) {
+			var currentColor = colorBoxes[i];
+			if(currentColor.checked) {
+				colorStringsArray.push(currentColor.value);
+			}
+		}
+
+		// Now colorBoxesArray is an array and we can use filter to find all of
+		// // the checked boxes and then map to convert those elements to their
+		// // string values.
+		// var colorStringsArray = colorBoxesArray
+		// .filter(function(input) {
+		// 	return input.checked;
+		// })
+		// .map(function(input) {
+		// 	return input.value;
+		// });
+
+		// console.log(colorStringsArray);
+
 		var newPet = new PetModel({
 			name: this.refs.name.getDOMNode().value,
 			type: this.refs.type.getDOMNode().value,
 			legLength: this.refs.legLength.getDOMNode().value,
-			user: Parse.User.current()
+			user: Parse.User.current(),
+			colors: colorStringsArray
 		});
 
 		newPet.save();

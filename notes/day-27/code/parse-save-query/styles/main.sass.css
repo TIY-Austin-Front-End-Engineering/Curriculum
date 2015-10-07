@@ -1,3 +1,6 @@
 @import url(../node_modules/bootstrap/dist/css/bootstrap.css);
 button {
   margin-top: 2em; }
+
+.pets a {
+  display: block; }

@@ -34988,7 +34988,7 @@ module.exports = React.createClass({
 						),
 						React.createElement(
 							'div',
-							{ className: 'checkbox' },
+							{ className: 'checkbox', ref: 'colors' },
 							React.createElement(
 								'div',
 								null,
@@ -35031,12 +35031,42 @@ module.exports = React.createClass({
 	},
 	onAddPet: function onAddPet(e) {
 		e.preventDefault();
-		console.log('save pet');
+		// colorBoxes is a DomNodeList of all of the checkboxes (it's like an
+		// array but not)
+		var colorBoxes = this.refs.colors.getDOMNode().querySelectorAll('input');
+		// console.log(colorBoxes);
+
+		// DOMNodeList's don't have a filter or map methods, so we need to
+		// convert the DOMNodeList to an array
+		// var colorBoxesArray = [].slice.call(colorBoxes);
+
+		var colorStringsArray = [];
+		for (var i = 0; i < colorBoxes.length; i++) {
+			var currentColor = colorBoxes[i];
+			if (currentColor.checked) {
+				colorStringsArray.push(currentColor.value);
+			}
+		}
+
+		// Now colorBoxesArray is an array and we can use filter to find all of
+		// // the checked boxes and then map to convert those elements to their
+		// // string values.
+		// var colorStringsArray = colorBoxesArray
+		// .filter(function(input) {
+		// 	return input.checked;
+		// })
+		// .map(function(input) {
+		// 	return input.value;
+		// });
+
+		// console.log(colorStringsArray);
+
 		var newPet = new PetModel({
 			name: this.refs.name.getDOMNode().value,
 			type: this.refs.type.getDOMNode().value,
 			legLength: this.refs.legLength.getDOMNode().value,
-			user: Parse.User.current()
+			user: Parse.User.current(),
+			colors: colorStringsArray
 		});
 
 		newPet.save();
@@ -35173,21 +35203,29 @@ module.exports = React.createClass({
 
 	getInitialState: function getInitialState() {
 		return {
-			pets: []
+			pets: [],
+			currentType: null
 		};
 	},
 	componentWillMount: function componentWillMount() {
 		var _this = this;
 
 		var query = new Parse.Query(PetModel);
-		query.equalTo('user', Parse.User.current()).find().then(function (pets) {
+		query.find().then(function (pets) {
 			_this.setState({ pets: pets });
 		}, function (err) {
 			console.log(err);
 		});
 	},
 	render: function render() {
-		var petElements = this.state.pets.map(function (pet) {
+		var _this2 = this;
+
+		var petElements = this.state.pets.filter(function (pet) {
+			if (_this2.state.currentType === null) {
+				return true;
+			}
+			return pet.get('type') == _this2.state.currentType;
+		}).map(function (pet) {
 			return React.createElement(
 				'a',
 				{ href: '#pet/details/' + pet.id },
@@ -35196,14 +35234,34 @@ module.exports = React.createClass({
 		});
 		return React.createElement(
 			'div',
-			{ className: 'container' },
+			{ className: 'container pets' },
 			React.createElement(
 				'h1',
 				null,
 				'List Pets'
 			),
+			React.createElement(
+				'button',
+				{ onClick: this.showCorgies },
+				'Corgies'
+			),
+			React.createElement(
+				'button',
+				{ onClick: this.showPitBulls },
+				'Pit Bulls'
+			),
 			petElements
 		);
+	},
+	showCorgies: function showCorgies() {
+		this.setState({
+			currentType: 1
+		});
+	},
+	showPitBulls: function showPitBulls() {
+		this.setState({
+			currentType: 5
+		});
 	}
 });
 
@@ -35449,6 +35507,7 @@ module.exports = React.createClass({
 		);
 
 		if (this.state.pet) {
+			var colors = this.state.pet.get('colors') || [];
 			content = React.createElement(
 				'div',
 				null,
@@ -35466,6 +35525,16 @@ module.exports = React.createClass({
 					'div',
 					null,
 					this.state.pet.get('legLength')
+				),
+				React.createElement(
+					'div',
+					null,
+					colors.join()
+				),
+				React.createElement(
+					'button',
+					{ onClick: this.deletePet, className: 'btn btn-danger' },
+					'Delete'
 				)
 			);
 		}
@@ -35480,6 +35549,9 @@ module.exports = React.createClass({
 			),
 			content
 		);
+	},
+	deletePet: function deletePet() {
+		this.state.pet.destroy();
 	}
 });
 
