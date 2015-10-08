@@ -1,0 +1,13 @@
+.popup {
+	position: absolute;
+	padding: 1em;
+	background-color: #fff;
+	color: #666;
+	border: 1px solid #ccc;
+	top: 64px;
+	right: 61px;
+
+	&.register {
+		right: 0;
+	}
+}
