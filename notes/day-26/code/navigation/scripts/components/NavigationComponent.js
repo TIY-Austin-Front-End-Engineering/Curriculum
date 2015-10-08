@@ -2,25 +2,48 @@ var React = require('react');
 var Backbone = require('backbone');
 
 module.exports = React.createClass({
-	componentWillMount: function(){
+	componentWillMount: function() {
 		this.props.router.on('route', () => {
 			this.forceUpdate();
 		});
 	},
 	render: function() {
-		var leftLinks = [];
-		var rightLinks = [];
+		var currentPage = Backbone.history.getFragment();
+		console.log('render', currentPage);
+		var links = [];
 
-		leftLinks.push(this.createNavLink('', 'Home'));
-
-		if(!Parse.User.current()) {
-			rightLinks.push(this.createNavLink('login', 'Login'));
-			rightLinks.push(this.createNavLink('register', 'Register'));
+		if(currentPage === '') {
+			links.push(<li key="home" className="active"><a href="#">Home</a></li>);
 		}
 		else {
-			leftLinks.push(this.createNavLink('dashboard', 'Dashboard'));
-			rightLinks.push(<li><a href="#" onClick={this.logout}>Logout</a></li>);
+			links.push(<li key="home"><a href="#">Home</a></li>);
 		}
+
+		if(Parse.User.current()) {
+			if(currentPage === 'dashboard') {
+				links.push(<li key="dashboard" className="active"><a href="#dashboard">Dashboard</a></li>);
+			}
+			else {
+				links.push(<li key="dashboard"><a href="#dashboard">Dashboard</a></li>);
+			}
+		}
+		else {
+			if(currentPage === 'login') {
+				links.push(<li key="login" className="active"><a href="#login">Login</a></li>);
+			}
+			else {
+				links.push(<li key="login"><a href="#login">Login</a></li>);
+			}
+
+			if(currentPage === 'register') {
+				links.push(<li key="register" className="active"><a href="#register">Register</a></li>);
+			}
+			else {
+				links.push(<li key="register"><a href="#register">Register</a></li>);
+			}
+		}
+
+
 
 		return (
 			<div className="container-fluid">
@@ -35,27 +58,10 @@ module.exports = React.createClass({
 				</div>
 				<div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul className="nav navbar-nav navbar-left">
-						{leftLinks}
-					</ul>
-					<ul className="nav navbar-nav navbar-right">
-						{rightLinks}
+						{links}
 					</ul>
 				</div>
 			</div>
 		);
-	},
-	logout: function(e) {
-		e.preventDefault();
-		Parse.User.logOut();
-		this.props.router.navigate('', {trigger: true});
-	},
-	createNavLink: function(url, label) {
-		var currentUrl = Backbone.history.getFragment();
-		if(currentUrl === url) {
-			return (<li className="active"><a href={'#'+url}>{label}</a></li>);
-		}
-		else {
-			return (<li><a href={'#'+url}>{label}</a></li>);
-		}
 	}
 });

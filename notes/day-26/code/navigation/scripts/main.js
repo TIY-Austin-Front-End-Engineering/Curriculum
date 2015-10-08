@@ -57,26 +57,26 @@ var Router = Backbone.Router.extend({
 		}
 	},
 	register: function() {
-		if(Parse.User.current()) {
-			this.navigate('dashboard', {trigger: true});
-		}
-		else {
+		// if(Parse.User.current()) {
+		// 	this.navigate('dashboard', {trigger: true});
+		// }
+		// else {
 			React.render(
 				<RegisterPageComponent router={this} />,
 				app
 			);
-		}
+		// }
 	},
 	login: function() {
-		if(Parse.User.current()) {
-			this.navigate('dashboard', {trigger: true});
-		}
-		else {
+		// if(Parse.User.current()) {
+		// 	this.navigate('dashboard', {trigger: true});
+		// }
+		// else {
 			React.render(
 				<LoginPageComponent router={this} />,
 				app
 			);
-		}
+		// }
 	}
 });
 
