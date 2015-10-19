@@ -17,3 +17,5 @@ Resources:
 * [nodemailer](http://www.nodemailer.com/)
 
 ## Homework
+* Legal driving age
+* Self-checkout
