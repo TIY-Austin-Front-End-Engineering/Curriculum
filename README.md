@@ -27,6 +27,19 @@ Vanilla:
 - Promises
 -->
 
+### Week 9: Crash Courses & Review
+* [10/22/2015 - Day 36 - Angular](/notes/day-36/README.md)
+* [10/21/2015 - Day 35 - APIs](/notes/day-35/README.md)
+* [10/20/2015 - Day 34 - Express / Sending Emails / Texts](/notes/day-34/README.md)
+* [10/19/2015 - Day 33 - ES2015](/notes/day-33/README.md)
+
+### Week 8: Client Project
+* 10/16/2015 - Day 32.1 - Client Project Work Day & Planning
+* 10/15/2015 - Day 32 - Client Project Work Day & Design Review
+* 10/14/2015 - Day 31 - Client Project Sprint 1 Retrospective & Work Day
+* 10/13/2015 - Day 30 - Client Project Work Day
+* 10/12/2015 - Day 29 - Client Project Introduction
+
 ### Week 7: React / Parse
 * [10/08/2015 - Day 28 - Review](/notes/day-28/README.md)
 * [10/07/2015 - Day 27 - Parse CRUD, Hoisting](/notes/day-27/README.md)
