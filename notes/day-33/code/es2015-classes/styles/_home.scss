@@ -1,0 +1,106 @@
+.home-container-component {
+
+	font-family: $paragraphFontFamily;
+
+	.img-box {
+		background-image: url("../images/hero.jpg");
+		height: 25em;
+		background-size: cover;
+
+		.mask {
+			width: 100%;
+			height: 25em;
+			background-color: RGBA(0, 0, 0, 0.2);
+			z-index: 999999;
+
+			.row {
+				.three.columns {
+					width: 100%;
+					box-sizing: border-box;
+					padding: 10em 2em;
+					text-align: center;
+
+					.brand-title {
+						color: #FFF;
+						background-color: rgba(0,0,0,0.3);
+						font-size: 36px;
+						border-radius: 18px;
+						font-family: $paragraphFontFamily;
+					}
+				}
+				.nine.columns {
+					box-sizing: border-box;
+					display: none;
+					padding: 6em 2em;
+
+					.home-content {
+						color: #fff;
+						font-size: 18px;
+						border-radius: 18px;
+						padding: 2em;
+						background-color: rgba(0,0,0,0.3);
+					}
+				}
+			}
+		}
+	}
+	> .row {
+		.four.columns {
+
+			.home-card {
+				margin: 1em;
+				padding: 3px;
+				background-color: $navbar;
+				box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.3);
+
+				img {
+					border: 1px solid $hover;
+					display: none;
+				}
+				.home-card-text {
+					color: #fff;
+					padding: 1em;
+					font-size: 18px;
+					hr {
+						margin-bottom: 1em;
+						border-color: $hover;
+					}
+					h3 {
+						color: $headerTextColor;
+						font-family: $paragraphFontFamily;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media screen and(min-width: 550px) {
+
+	.home-container-component {
+
+		.four.columns {
+			width: 100%;
+			margin-left: 0;
+		}
+	}
+}
+
+@media screen and(min-width: 1050px) {
+
+	.home-container-component {
+
+		.img-box .mask .row .three.columns {
+			width: 22%;
+		}
+		.img-box .mask .row .nine.columns {
+			display: block;
+		}
+		.four.columns {
+			width: 30.6666666667%;
+		}
+		.four.columns:first-child {
+			margin-left: 4%;
+		}
+	}
+}

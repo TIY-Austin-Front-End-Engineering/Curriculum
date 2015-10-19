@@ -1,0 +1,1544 @@
+@charset "UTF-8";
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+/**
+ * 1. Set default font family to sans-serif.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+html {
+  font-family: sans-serif;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+/**
+ * Remove default margin.
+ */
+body {
+  margin: 0; }
+
+/* HTML5 display definitions
+   ========================================================================== */
+/**
+ * Correct `block` display not defined for any HTML5 element in IE 8/9.
+ * Correct `block` display not defined for `details` or `summary` in IE 10/11
+ * and Firefox.
+ * Correct `block` display not defined for `main` in IE 11.
+ */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block; }
+
+/**
+ * 1. Correct `inline-block` display not defined in IE 8/9.
+ * 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera.
+ */
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  /* 1 */
+  vertical-align: baseline;
+  /* 2 */ }
+
+/**
+ * Prevent modern browsers from displaying `audio` without controls.
+ * Remove excess height in iOS 5 devices.
+ */
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+/**
+ * Address `[hidden]` styling not present in IE 8/9/10.
+ * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+ */
+[hidden],
+template {
+  display: none; }
+
+/* Links
+   ========================================================================== */
+/**
+ * Remove the gray background color from active links in IE 10.
+ */
+a {
+  background-color: transparent; }
+
+/**
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+a:active,
+a:hover {
+  outline: 0; }
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Address styling not present in IE 8/9/10/11, Safari, and Chrome.
+ */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/**
+ * Address style set to `bolder` in Firefox 4+, Safari, and Chrome.
+ */
+b,
+strong {
+  font-weight: bold; }
+
+/**
+ * Address styling not present in Safari and Chrome.
+ */
+dfn {
+  font-style: italic; }
+
+/**
+ * Address variable `h1` font-size and margin within `section` and `article`
+ * contexts in Firefox 4+, Safari, and Chrome.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/**
+ * Address styling not present in IE 8/9.
+ */
+mark {
+  background: #ff0;
+  color: #000; }
+
+/**
+ * Address inconsistent and variable font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/**
+ * Prevent `sub` and `sup` affecting `line-height` in all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sup {
+  top: -0.5em; }
+
+sub {
+  bottom: -0.25em; }
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove border when inside `a` element in IE 8/9/10.
+ */
+img {
+  border: 0; }
+
+/**
+ * Correct overflow not hidden in IE 9/10/11.
+ */
+svg:not(:root) {
+  overflow: hidden; }
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * Address margin not present in IE 8/9 and Safari.
+ */
+figure {
+  margin: 1em 40px; }
+
+/**
+ * Address differences between Firefox and other browsers.
+ */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/**
+ * Contain overflow in all browsers.
+ */
+pre {
+  overflow: auto; }
+
+/**
+ * Address odd `em`-unit font size rendering in all browsers.
+ */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em; }
+
+/* Forms
+   ========================================================================== */
+/**
+ * Known limitation: by default, Chrome and Safari on OS X allow very limited
+ * styling of `select`, unless a `border` property is set.
+ */
+/**
+ * 1. Correct color not being inherited.
+ *    Known issue: affects color of disabled elements.
+ * 2. Correct font properties not being inherited.
+ * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */ }
+
+/**
+ * Address `overflow` set to `hidden` in IE 8/9/10/11.
+ */
+button {
+  overflow: visible; }
+
+/**
+ * Address inconsistent `text-transform` inheritance for `button` and `select`.
+ * All other form control elements do not inherit `text-transform` values.
+ * Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera.
+ * Correct `select` style inheritance in Firefox.
+ */
+button,
+select {
+  text-transform: none; }
+
+/**
+ * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio`
+ *    and `video` controls.
+ * 2. Correct inability to style clickable `input` types in iOS.
+ * 3. Improve usability and consistency of cursor style between image-type
+ *    `input` and others.
+ */
+button,
+html input[type="button"], input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  /* 2 */
+  cursor: pointer;
+  /* 3 */ }
+
+/**
+ * Re-set default cursor for disabled elements.
+ */
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+/**
+ * Remove inner padding and border in Firefox 4+.
+ */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/**
+ * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+ * the UA stylesheet.
+ */
+input {
+  line-height: normal; }
+
+/**
+ * It's recommended that you don't attempt to style these elements.
+ * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ *
+ * 1. Address box sizing set to `content-box` in IE 8/9/10.
+ * 2. Remove excess padding in IE 8/9/10.
+ */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * Fix the cursor style for Chrome's increment/decrement buttons. For certain
+ * `font-size` values of the `input`, it causes the cursor style of the
+ * decrement button to change from `default` to `text`.
+ */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto; }
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  /* 2 */
+  box-sizing: content-box; }
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/**
+ * Define consistent border, margin, and padding.
+ */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+/**
+ * 1. Correct `color` not being inherited in IE 8/9/10/11.
+ * 2. Remove padding so people aren't caught out if they zero out fieldsets.
+ */
+legend {
+  border: 0;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
+textarea {
+  overflow: auto; }
+
+/**
+ * Don't inherit the `font-weight` (applied by a rule above).
+ * NOTE: the default cannot safely be changed in Chrome and Safari on OS X.
+ */
+optgroup {
+  font-weight: bold; }
+
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+td,
+th {
+  padding: 0; }
+
+/*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; }
+
+.column,
+.columns {
+  width: 100%;
+  float: left;
+  box-sizing: border-box; }
+
+/* For devices larger than 400px */
+@media (min-width: 400px) {
+  .container {
+    width: 85%;
+    padding: 0; } }
+
+/* For devices larger than 550px */
+@media (min-width: 550px) {
+  .container {
+    width: 80%; }
+  .column,
+  .columns {
+    margin-left: 4%; }
+  .column:first-child,
+  .columns:first-child {
+    margin-left: 0; }
+  .one.column,
+  .one.columns {
+    width: 4.66666666667%; }
+  .two.columns {
+    width: 13.3333333333%; }
+  .three.columns {
+    width: 22%; }
+  .four.columns {
+    width: 30.6666666667%; }
+  .five.columns {
+    width: 39.3333333333%; }
+  .six.columns {
+    width: 48%; }
+  .seven.columns {
+    width: 56.6666666667%; }
+  .eight.columns {
+    width: 65.3333333333%; }
+  .nine.columns {
+    width: 74.0%; }
+  .ten.columns {
+    width: 82.6666666667%; }
+  .eleven.columns {
+    width: 91.3333333333%; }
+  .twelve.columns {
+    width: 100%;
+    margin-left: 0; }
+  .one-third.column {
+    width: 30.6666666667%; }
+  .two-thirds.column {
+    width: 65.3333333333%; }
+  .one-half.column {
+    width: 48%; }
+  /* Offsets */
+  .offset-by-one.column,
+  .offset-by-one.columns {
+    margin-left: 8.66666666667%; }
+  .offset-by-two.column,
+  .offset-by-two.columns {
+    margin-left: 17.3333333333%; }
+  .offset-by-three.column,
+  .offset-by-three.columns {
+    margin-left: 26%; }
+  .offset-by-four.column,
+  .offset-by-four.columns {
+    margin-left: 34.6666666667%; }
+  .offset-by-five.column,
+  .offset-by-five.columns {
+    margin-left: 43.3333333333%; }
+  .offset-by-six.column,
+  .offset-by-six.columns {
+    margin-left: 52%; }
+  .offset-by-seven.column,
+  .offset-by-seven.columns {
+    margin-left: 60.6666666667%; }
+  .offset-by-eight.column,
+  .offset-by-eight.columns {
+    margin-left: 69.3333333333%; }
+  .offset-by-nine.column,
+  .offset-by-nine.columns {
+    margin-left: 78.0%; }
+  .offset-by-ten.column,
+  .offset-by-ten.columns {
+    margin-left: 86.6666666667%; }
+  .offset-by-eleven.column,
+  .offset-by-eleven.columns {
+    margin-left: 95.3333333333%; }
+  .offset-by-one-third.column,
+  .offset-by-one-third.columns {
+    margin-left: 34.6666666667%; }
+  .offset-by-two-thirds.column,
+  .offset-by-two-thirds.columns {
+    margin-left: 69.3333333333%; }
+  .offset-by-one-half.column,
+  .offset-by-one-half.columns {
+    margin-left: 52%; } }
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
+html {
+  font-size: 62.5%; }
+
+body {
+  font-size: 1.5em;
+  /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222; }
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 300; }
+
+h1 {
+  font-size: 4.0rem;
+  line-height: 1.2;
+  letter-spacing: -.1rem; }
+
+h2 {
+  font-size: 3.6rem;
+  line-height: 1.25;
+  letter-spacing: -.1rem; }
+
+h3 {
+  font-size: 3.0rem;
+  line-height: 1.3;
+  letter-spacing: -.1rem; }
+
+h4 {
+  font-size: 2.4rem;
+  line-height: 1.35;
+  letter-spacing: -.08rem; }
+
+h5 {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  letter-spacing: -.05rem; }
+
+h6 {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  letter-spacing: 0; }
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  h1 {
+    font-size: 5.0rem; }
+  h2 {
+    font-size: 4.2rem; }
+  h3 {
+    font-size: 3.6rem; }
+  h4 {
+    font-size: 3.0rem; }
+  h5 {
+    font-size: 2.4rem; }
+  h6 {
+    font-size: 1.5rem; } }
+
+p {
+  margin-top: 0; }
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: #1EAEDB; }
+
+a:hover {
+  color: #0FA0CE; }
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+  display: inline-block;
+  height: 38px;
+  padding: 0 30px;
+  color: #555;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #bbb;
+  cursor: pointer;
+  box-sizing: border-box; }
+
+.button:hover,
+button:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover,
+input[type="button"]:hover,
+.button:focus,
+button:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+input[type="button"]:focus {
+  color: #333;
+  border-color: #888;
+  outline: 0; }
+
+.button.button-primary,
+button.button-primary,
+input[type="submit"].button-primary,
+input[type="reset"].button-primary,
+input[type="button"].button-primary {
+  color: #FFF;
+  background-color: #33C3F0;
+  border-color: #33C3F0; }
+
+.button.button-primary:hover,
+button.button-primary:hover,
+input[type="submit"].button-primary:hover,
+input[type="reset"].button-primary:hover,
+input[type="button"].button-primary:hover,
+.button.button-primary:focus,
+button.button-primary:focus,
+input[type="submit"].button-primary:focus,
+input[type="reset"].button-primary:focus,
+input[type="button"].button-primary:focus {
+  color: #FFF;
+  background-color: #1EAEDB;
+  border-color: #1EAEDB; }
+
+/* Forms
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
+textarea,
+select {
+  height: 38px;
+  padding: 6px 10px;
+  /* The 6px vertically centers text on FF, ignored by Webkit */
+  background-color: #fff;
+  border: 1px solid #D1D1D1;
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box; }
+
+/* Removes awkward default styles on some inputs for iOS */
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="text"],
+input[type="tel"],
+input[type="url"],
+input[type="password"],
+textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none; }
+
+textarea {
+  min-height: 65px;
+  padding-top: 6px;
+  padding-bottom: 6px; }
+
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="text"]:focus,
+input[type="tel"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+select:focus {
+  border: 1px solid #33C3F0;
+  outline: 0; }
+
+label,
+legend {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: 600; }
+
+fieldset {
+  padding: 0;
+  border-width: 0; }
+
+input[type="checkbox"],
+input[type="radio"] {
+  display: inline; }
+
+label > .label-body {
+  display: inline-block;
+  margin-left: .5rem;
+  font-weight: normal; }
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul {
+  list-style: circle inside; }
+
+ol {
+  list-style: decimal inside; }
+
+ol, ul {
+  padding-left: 0;
+  margin-top: 0; }
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+  margin: 1.5rem 0 1.5rem 3rem;
+  font-size: 90%; }
+
+li {
+  margin-bottom: 1rem; }
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+  padding: 0.2rem 0.5rem;
+  margin: 0 0.2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #F1F1F1;
+  border: 1px solid #E1E1E1;
+  border-radius: 4px; }
+
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre; }
+
+/* Tables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+th,
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #E1E1E1; }
+
+th:first-child,
+td:first-child {
+  padding-left: 0; }
+
+th:last-child,
+td:last-child {
+  padding-right: 0; }
+
+/* Spacing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+button,
+.button {
+  margin-bottom: 1rem; }
+
+input,
+textarea,
+select,
+fieldset {
+  margin-bottom: 1.5rem; }
+
+pre,
+blockquote,
+dl,
+figure,
+table,
+p,
+ul,
+ol,
+form {
+  margin-bottom: 2.5rem; }
+
+/* Utilities
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box; }
+
+.u-max-full-width {
+  max-width: 100%;
+  box-sizing: border-box; }
+
+.u-pull-right {
+  float: right; }
+
+.u-pull-left {
+  float: left; }
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+hr {
+  margin-top: 3rem;
+  margin-bottom: 3.5rem;
+  border-width: 0;
+  border-top: 1px solid #E1E1E1; }
+
+/* Clearing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Self Clearing Goodness */
+.container:after,
+.row:after,
+.u-cf {
+  content: "";
+  display: table;
+  clear: both; }
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to structure the use of media queries is to create the queries
+near the relevant code. For example, if you wanted to change the styles for buttons
+on small devices, paste the mobile query code up in the buttons section and style it
+there.
+*/
+/* Larger than mobile */
+/* Larger than phablet (also point when grid becomes active) */
+/* Larger than tablet */
+/* Larger than desktop */
+/* Larger than Desktop HD */
+.nav-bar {
+  background: #412D62;
+  height: 67px;
+  overflow: hidden; }
+  .nav-bar .beniz {
+    display: none; }
+  .nav-bar a {
+    text-decoration: none;
+    color: #FFA54B; }
+    .nav-bar a .nav-bar-button {
+      display: block;
+      font-size: 2em;
+      text-align: left;
+      padding: 0.3em 2em 0.3em 0.5em;
+      border-top: 2px solid #FFA54B; }
+  .nav-bar a:hover {
+    color: #FFA54B;
+    background-color: #FFA54B; }
+  .nav-bar .logo {
+    height: 4em;
+    width: 4em;
+    float: left;
+    margin-left: .3em; }
+  .nav-bar .user-name-display {
+    color: #F4EAE0;
+    padding: 1.5em 0 1.5em 1.5em;
+    float: left; }
+  .nav-bar .hamburger {
+    color: #F8E1B5;
+    float: right; }
+  .nav-bar .hamburger-image {
+    height: 3em;
+    width: 3em;
+    padding: .8em; }
+  .nav-bar .closed {
+    display: none; }
+  .nav-bar .open {
+    display: block;
+    float: right;
+    position: fixed;
+    top: 67px;
+    right: 0;
+    background: #412D62;
+    text-align: center; }
+  .nav-bar #hamburger-list {
+    border-left: 4px solid #412D62;
+    border-right: 4px solid #412D62; }
+  @media screen and (min-width: 550px) {
+    .nav-bar .hamburger-image {
+      display: none; }
+    .nav-bar .hamburger {
+      display: none; }
+    .nav-bar #hamburger-list {
+      display: none; }
+    .nav-bar a .nav-bar-button {
+      float: right;
+      padding: 0.6em 1em;
+      font-size: 1.5em;
+      text-align: center;
+      border: none; }
+    .nav-bar .beniz {
+      display: inline; } }
+
+.quiz-list-component {
+  font-family: "Oswald", sans-serif; }
+  .quiz-list-component .row .left {
+    width: 100%; }
+    .quiz-list-component .row .left .copy-container {
+      background-color: #F4EAE0;
+      padding: 20px;
+      margin: 1em 10px; }
+      .quiz-list-component .row .left .copy-container .copy-title {
+        font-size: 30px;
+        color: #FFA54B;
+        font-family: "Oswald", sans-serif; }
+      .quiz-list-component .row .left .copy-container .copy {
+        color: #412D62;
+        font-size: 20px; }
+      .quiz-list-component .row .left .copy-container hr {
+        margin: .5em 0;
+        border-color: #F8E1B5; }
+  .quiz-list-component .row .right {
+    width: 100%;
+    margin: 0; }
+    .quiz-list-component .row .right .quiz-banner-container {
+      background-color: #412D62;
+      height: 4em;
+      margin: 1em 10px;
+      line-height: 5em; }
+      .quiz-list-component .row .right .quiz-banner-container h1 {
+        font-family: "Oswald", sans-serif;
+        text-align: center;
+        color: #FF434A; }
+    .quiz-list-component .row .right .quiz-margin-container {
+      border: 10px solid transparent;
+      box-sizing: border-box; }
+      .quiz-list-component .row .right .quiz-margin-container .quiz-container {
+        color: #412D62;
+        overflow: hidden;
+        background-color: #F4EAE0;
+        transition: box-shadow 0.25s;
+        padding: 20px;
+        border-radius: 0 0 2px 2px;
+        box-sizing: border-box; }
+        .quiz-list-component .row .right .quiz-margin-container .quiz-container .quiz-title {
+          color: #FFA54B;
+          height: 35px;
+          font-size: 22px;
+          font-family: "Oswald", sans-serif; }
+          .quiz-list-component .row .right .quiz-margin-container .quiz-container .quiz-title span {
+            font-size: 24px;
+            height: 35px;
+            float: left; }
+        .quiz-list-component .row .right .quiz-margin-container .quiz-container div {
+          font-size: 20px; }
+          .quiz-list-component .row .right .quiz-margin-container .quiz-container div .quiz-start-expire {
+            margin-right: 1em; }
+            .quiz-list-component .row .right .quiz-margin-container .quiz-container div .quiz-start-expire .quiz-time-title {
+              font-weight: bold;
+              color: #FFA54B;
+              font-size: 15px; }
+        .quiz-list-component .row .right .quiz-margin-container .quiz-container hr {
+          margin: 10px 0;
+          border-color: #F8E1B5;
+          clear: both; }
+        .quiz-list-component .row .right .quiz-margin-container .quiz-container .take-quiz {
+          cursor: pointer;
+          color: #412D62;
+          vertical-align: middle;
+          background-color: #90C5A9;
+          margin: 0 auto;
+          font-family: "Oswald", sans-serif;
+          box-shadow: 3px 3px 0 #FF434A;
+          border: none;
+          font-weight: bold;
+          border-radius: .1em; }
+
+@media screen and (min-width: 1031px) {
+  .quiz-list-component .row .left {
+    width: 30.6666666667%; }
+  .quiz-list-component .row .right {
+    width: 65.3333333333%;
+    margin-left: 4%; }
+    .quiz-list-component .row .right .quiz-margin-container {
+      display: inline-block;
+      width: 50%; } }
+
+.home-container-component {
+  font-family: "Oswald", sans-serif; }
+  .home-container-component .img-box {
+    background-image: url("../images/hero.jpg");
+    height: 25em;
+    background-size: cover; }
+    .home-container-component .img-box .mask {
+      width: 100%;
+      height: 25em;
+      background-color: RGBA(0, 0, 0, 0.2);
+      z-index: 999999; }
+      .home-container-component .img-box .mask .row .three.columns {
+        width: 100%;
+        box-sizing: border-box;
+        padding: 10em 2em;
+        text-align: center; }
+        .home-container-component .img-box .mask .row .three.columns .brand-title {
+          color: #FFF;
+          background-color: rgba(0, 0, 0, 0.3);
+          font-size: 36px;
+          border-radius: 18px;
+          font-family: "Oswald", sans-serif; }
+      .home-container-component .img-box .mask .row .nine.columns {
+        box-sizing: border-box;
+        display: none;
+        padding: 6em 2em; }
+        .home-container-component .img-box .mask .row .nine.columns .home-content {
+          color: #fff;
+          font-size: 18px;
+          border-radius: 18px;
+          padding: 2em;
+          background-color: rgba(0, 0, 0, 0.3); }
+  .home-container-component > .row .four.columns .home-card {
+    margin: 1em;
+    padding: 3px;
+    background-color: #412D62;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.3); }
+    .home-container-component > .row .four.columns .home-card img {
+      border: 1px solid #F8E1B5;
+      display: none; }
+    .home-container-component > .row .four.columns .home-card .home-card-text {
+      color: #fff;
+      padding: 1em;
+      font-size: 18px; }
+      .home-container-component > .row .four.columns .home-card .home-card-text hr {
+        margin-bottom: 1em;
+        border-color: #F8E1B5; }
+      .home-container-component > .row .four.columns .home-card .home-card-text h3 {
+        color: #FF434A;
+        font-family: "Oswald", sans-serif; }
+
+@media screen and (min-width: 550px) {
+  .home-container-component .four.columns {
+    width: 100%;
+    margin-left: 0; } }
+
+@media screen and (min-width: 1050px) {
+  .home-container-component .img-box .mask .row .three.columns {
+    width: 22%; }
+  .home-container-component .img-box .mask .row .nine.columns {
+    display: block; }
+  .home-container-component .four.columns {
+    width: 30.6666666667%; }
+  .home-container-component .four.columns:first-child {
+    margin-left: 4%; } }
+
+.loginFormContainer {
+  background-color: #F4EAE0;
+  width: 50;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5em; }
+  .loginFormContainer .login-heading {
+    background: #412D62;
+    color: #FF434A;
+    padding-bottom: .1em;
+    padding-left: .5em; }
+    .loginFormContainer .login-heading h3 {
+      margin: 0; }
+  .loginFormContainer .login-form {
+    background: #fff;
+    margin-bottom: 10em;
+    padding-bottom: 2em; }
+    .loginFormContainer .login-form label, .loginFormContainer .login-form input {
+      color: #FFA54B; }
+    .loginFormContainer .login-form .button-primary {
+      background-color: #90C5A9;
+      font-family: "Oswald", sans-serif;
+      box-shadow: 3px 3px 0px #FF434A;
+      border: none;
+      font-weight: bold;
+      border-radius: .1em;
+      color: #412D62;
+      margin-left: 5%; }
+    .loginFormContainer .login-form .u-full-width {
+      width: 90%;
+      margin-left: 5%; }
+
+.post-question-component {
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2em;
+  background: #fff;
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3em; }
+  .post-question-component h3 {
+    color: #FF434A;
+    background: #412D62;
+    padding-left: 2%; }
+  .post-question-component label {
+    color: #FFA54B; }
+  .post-question-component .post-question {
+    text-align: left;
+    float: right;
+    padding: 2%; }
+    .post-question-component .post-question .validate {
+      width: 100%; }
+    .post-question-component .post-question .choice {
+      width: 80%;
+      margin-right: 2%; }
+    .post-question-component .post-question .choice-btn {
+      width: 18%; }
+    .post-question-component .post-question button {
+      background-color: #90C5A9;
+      color: #412D62;
+      font-family: "Oswald", sans-serif;
+      box-shadow: 3px 3px 0px #FF434A;
+      border: none;
+      font-weight: bold;
+      font-size: .8em;
+      border-radius: .1em; }
+  .post-question-component #radiooo span p {
+    display: inline;
+    padding-left: 0.8em;
+    color: #412D62; }
+
+@media (min-width: 550px) {
+  .post-question-component .column, .post-question-component .columns {
+    margin-left: 0; } }
+
+.quiz-details-component {
+  font-family: "Oswald", sans-serif;
+  margin-left: 10%;
+  width: 80%;
+  font-size: 1.2em;
+  background-color: #F4EADF;
+  margin-top: 3em;
+  margin-bottom: 10%;
+  border: 1px solid black;
+  box-shadow: 2px 2px 2px #000;
+  padding: 2%;
+  color: #412D62; }
+  .quiz-details-component p {
+    display: inline; }
+  .quiz-details-component h1 {
+    font-family: "Oswald", sans-serif;
+    color: #FF434A;
+    background-color: #412D62;
+    text-align: center; }
+  .quiz-details-component h4 {
+    font-family: "Oswald", sans-serif;
+    color: #FFA54B;
+    padding-left: 0;
+    margin: 0; }
+  .quiz-details-component button {
+    background-color: #90C5A9;
+    padding: 0 10px;
+    border: none;
+    color: #412D62;
+    font-family: "Oswald", sans-serif;
+    cursor: pointer;
+    border-radius: .1em;
+    box-shadow: 3px 3px 0 #FF434A; }
+  .quiz-details-component .questions {
+    color: red; }
+
+.reg-form-container {
+  height: 100%;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background: #fff;
+  padding-bottom: 1em;
+  margin-top: 3em;
+  margin-bottom: 6em; }
+  .reg-form-container .reg-form {
+    height: 100%;
+    width: 100%; }
+  .reg-form-container .reg-head {
+    font-family: Oswald, sans-serif;
+    color: #FF434A;
+    text-align: center;
+    font-weight: bold 20em;
+    padding-bottom: 0.5em;
+    padding-top: 1em;
+    margin-right: 0.4em; }
+    .reg-form-container .reg-head hr {
+      margin: 0;
+      border-color: #F8E1B5;
+      clear: both;
+      padding-bottom: 2em; }
+  .reg-form-container label {
+    font-family: Oswald, sans-serif;
+    color: #FFA54B;
+    display: block;
+    margin-left: 4%;
+    margin-right: 5%; }
+  .reg-form-container input {
+    margin-left: 4%;
+    margin-right: 5%;
+    display: block;
+    width: 90%;
+    color: #42094A; }
+  .reg-form-container select {
+    display: block;
+    width: 40%;
+    margin-left: 25%; }
+  .reg-form-container .reg-button-primary {
+    background-color: #90C5A9;
+    border-bottom: 2px solid #FF434A;
+    color: #42094A;
+    margin-left: 4%;
+    margin-right: 5%; }
+
+.att-container {
+  margin: 0 5em; }
+  .att-container form {
+    margin: 0; }
+  .att-container thead {
+    background: #fff;
+    color: #412D62; }
+  .att-container th {
+    text-align: center;
+    background: #412D62;
+    color: #fff; }
+  .att-container button {
+    background-color: #90C5A9;
+    font-family: "Oswald", sans-serif;
+    box-shadow: 3px 3px 0px #FF434A;
+    border: none;
+    font-weight: bold;
+    border-radius: .1em;
+    margin-left: 1.6em; }
+  .att-container .exampleRecipientInput {
+    float: left;
+    display: inline-block;
+    width: 40%; }
+  .att-container option {
+    display: inline-block; }
+  .att-container #att-title {
+    text-align: center;
+    font-size: 3em;
+    margin-top: .5em;
+    color: #FF434A;
+    background: #412D62;
+    padding: .4em 0; }
+  .att-container .att-info {
+    font-size: 2em;
+    margin-top: 2em; }
+  .att-container td {
+    background: #F4EADF;
+    border: 2px solid #F4EAE0; }
+  .att-container td:first-child {
+    padding-left: 15px; }
+
+.class-analytics-container {
+  font-family: "Oswald", sans-serif; }
+  .class-analytics-container .border {
+    width: 90%;
+    box-sizing: border-box;
+    margin-bottom: 1em;
+    padding: 1em;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.3);
+    background-color: #F4EADF; }
+  .class-analytics-container .page-title {
+    margin-top: 1em;
+    margin-left: 1em;
+    color: #FF434A;
+    font-family: "Oswald", sans-serif;
+    width: 99%;
+    margin-bottom: 1em; }
+  .class-analytics-container .left-side {
+    background-color: #F4EADF;
+    padding: 0em 1em; }
+    .class-analytics-container .left-side .choose-quiz {
+      font-size: 30px;
+      color: #FFA54B; }
+    .class-analytics-container .left-side .select-btn {
+      background-color: #90C5A9;
+      font-family: "Oswald", sans-serif;
+      box-shadow: 3px 3px 0px #FF434A;
+      border: none;
+      font-weight: bold;
+      border-radius: .1em; }
+    .class-analytics-container .left-side .select-btn:hover {
+      background-color: #F8E1B5;
+      color: #412D62; }
+    .class-analytics-container .left-side .drop-down-btn {
+      font-family: "Oswald", sans-serif;
+      cursor: pointer;
+      width: 100%; }
+  .class-analytics-container .question-title {
+    margin: 0;
+    color: #7E9E99; }
+  .class-analytics-container .question-answer #silly {
+    margin-bottom: 0;
+    color: #7E9E99; }
+  .class-analytics-container span {
+    color: #412D62; }
+
+#silly1 {
+  margin-bottom: 0;
+  color: #7E9E99; }
+
+@media (max-width: 62.5em) {
+  .four.columns {
+    width: 100%; }
+  .eight.columns {
+    width: 100%;
+    margin-top: 2em; } }
+
+.dashboard-box h1 {
+  margin-top: 1em;
+  font-family: "Oswald", sans-serif;
+  color: #FF434A; }
+
+.dashboard-box h5 {
+  font-family: "Oswald", sans-serif;
+  color: #FFA54B; }
+
+.dashboard-box .row .six.columns {
+  text-align: center;
+  background-color: #fff;
+  margin-top: 1em;
+  margin-bottom: 1em; }
+  .dashboard-box .row .six.columns .need {
+    text-align: center; }
+
+.dashboard-box a {
+  text-decoration: none; }
+
+.quiz-results-container .title {
+  font-family: "Oswald", sans-serif;
+  color: #90C5A9; }
+
+.quiz-results-container .question {
+  font-size: 1.2em; }
+
+.quiz-results-container .container {
+  margin: 2em;
+  font-family: "Oswald", sans-serif; }
+
+.quiz-results-container .question-container {
+  margin: 2em;
+  font-family: "Oswald", sans-serif; }
+
+.quiz-results-container .totals {
+  padding: 1em;
+  box-shadow: 2px 2px 10px #000; }
+
+.quiz-results-container .percentage {
+  margin: 2em 0;
+  font-family: "Oswald", sans-serif; }
+
+.quiz-results-container .green {
+  color: green;
+  font-weight: bold;
+  font-family: "Oswald", sans-serif; }
+
+.quiz-results-container .red {
+  color: red;
+  font-weight: bold;
+  font-family: "Oswald", sans-serif; }
+
+.create-quiz-container {
+  font-family: "Oswald", sans-serif;
+  padding-right: 2%;
+  padding-left: 2%;
+  font-size: 1.2em; }
+  .create-quiz-container .header {
+    background: #412D62;
+    padding-left: 2%;
+    padding-right: 2%; }
+  .create-quiz-container form {
+    padding: 2%; }
+  .create-quiz-container h3 {
+    font-family: "Oswald", sans-serif;
+    color: #FF434A;
+    padding: 0;
+    margin: 0; }
+  .create-quiz-container label {
+    color: #FFA54B; }
+  .create-quiz-container .create-quiz {
+    background: #fff;
+    margin-top: 3em;
+    float: right; }
+    .create-quiz-container .create-quiz button {
+      background-color: #90C5A9;
+      font-family: "Oswald", sans-serif;
+      box-shadow: 3px 3px 0px #FF434A;
+      border: none;
+      font-weight: bold;
+      border-radius: .1em; }
+  .create-quiz-container .existing-quiz {
+    margin-top: 3em;
+    padding: 0;
+    background: #fff; }
+    .create-quiz-container .existing-quiz button {
+      background-color: #90C5A9;
+      font-family: "Oswald", sans-serif;
+      box-shadow: 3px 3px 0px #FF434A;
+      border: none;
+      font-weight: bold;
+      font-size: .8em;
+      border-radius: .1em; }
+    .create-quiz-container .existing-quiz #quizList {
+      width: 100%;
+      box-sizing: border-box; }
+
+.create-cohort-box .create-cohort-inner-box {
+  padding-top: 5em; }
+
+.create-cohort-box h2 {
+  color: #FF434A;
+  font-family: "Oswald", sans-serif;
+  background: #412D62;
+  padding-left: 0.25em; }
+
+.create-cohort-box p {
+  font-family: "Oswald", sans-serif; }
+
+.create-cohort-box .cohortLinks {
+  background-color: #fff;
+  padding: 0.5em; }
+
+.create-cohort-box .cohortName {
+  text-decoration: underline;
+  margin-bottom: 0; }
+
+.create-cohort-box .seven.columns {
+  background: #fff; }
+
+.create-cohort-box form {
+  padding: 0.5em; }
+
+.create-cohort-box #button-primary {
+  background-color: #90C5A9;
+  box-shadow: 3px 3px 0px #FF434A; }
+
+.create-cohort-box .container {
+  background: #F4EAE0;
+  margin-top: 5em;
+  margin-bottom: 2em; }
+
+@media (max-width: 62.5em) {
+  .seven.columns {
+    width: 100%; }
+  .five.columns {
+    width: 100%;
+    margin-top: 2em;
+    margin-left: 0; } }
+
+.att-container {
+  text-align: none;
+  margin: 0 4em; }
+  .att-container #att-title {
+    text-align: left;
+    font-family: "Oswald", sans-serif;
+    color: #FF434A;
+    background: #F4EADF;
+    margin-bottom: -1em; }
+  .att-container .att-table {
+    background: #fff;
+    color: #412D62; }
+  .att-container th {
+    border: 2px solid #F4EAE0; }
+  .att-container td {
+    background: #fff;
+    border: 2px solid #F4EAE0; }
+  .att-container .att-butt {
+    margin-left: 1em;
+    float: left;
+    color: #412D62; }
+  .att-container #exampleRecipientInput {
+    float: left;
+    display: inline-block;
+    width: 40%; }
+  .att-container option {
+    display: inline-block; }
+  .att-container label {
+    color: #FFA54B;
+    font-family: "Oswald", sans-serif;
+    margin-top: 0; }
+  .att-container .att-info {
+    font-size: 2em;
+    margin-top: 2em; }
+  .att-container td:first-child {
+    padding-left: 15px; }
+
+.edit-quiz-box .row .eight.columns h3 {
+  font-family: "Oswald", sans-serif;
+  color: #FF434A; }
+
+.edit-quiz-box .row .four.columns button {
+  background: #90C5A9;
+  box-shadow: 3px 3px 0px #FF434A; }
+
+.edit-quiz-box .six.columns {
+  text-align: left;
+  color: #412D62;
+  font-family: "Oswald", sans-serif;
+  padding: 0.5em;
+  background-color: #fff; }
+  .edit-quiz-box .six.columns .answerChoices {
+    color: #90C5A9;
+    margin: 0; }
+
+.credits-container {
+  color: #412D62;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  background: #fff; }
+  .credits-container td {
+    border: none; }
+  .credits-container tr {
+    border: none; }
+  .credits-container th {
+    color: #FFA54B; }
+  .credits-container .credits-title {
+    background: #412D62;
+    color: #FF434A;
+    padding-left: 2em; }
+
+footer .footer-container {
+  border-top: 1px solid #bbb; }
+  footer .footer-container .footer-links {
+    font-family: "Oswald", sans-serif;
+    text-decoration: none;
+    padding-left: 2em;
+    color: #42094A; }
+
+.moveAlong404 {
+  text-align: center;
+  margin: 2em auto 0 auto; }
+  .moveAlong404 a {
+    text-decoration: none;
+    color: #FFA54B; }
+  .moveAlong404 a:hover {
+    color: #412D62; }
+  .moveAlong404 img {
+    border-radius: 4px; }
+
+body {
+  background-color: #F4EAE0;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh; }
+
+main {
+  flex: 1; }
+
+button.button {
+  background-color: #90C5A9;
+  font-family: "Oswald", sans-serif;
+  box-shadow: 3px 3px 0px #FF434A;
+  border: none;
+  font-weight: bold;
+  border-radius: .1em;
+  color: #412D62; }
