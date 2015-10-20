@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <form id="form" action="/products/email" method="POST">
+    	<input type="text" id="email" placeholder="email" name="to">
+    	<textarea id="message" placeholder="message" name="message"></textarea>
+    	<button>Send</button>
+    </form>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <!--
+    <script type="text/javascript">
+    	$('#form').on('submit', function(e) {
+    		e.preventDefault();
+    		$.post(
+    			'/products/email',
+    			{
+    				to: $('#email').val(),
+    				message: $('#message').val()
+    			},
+    			function(data) {
+    				console.log(data);
+    			},
+    			'json'
+    		)
+    	})
+    </script>
+    -->
+  </body>
+</html>
