@@ -3,6 +3,7 @@
 # Day 35
 
 Goals:
+* How to learn new tools:
 * [filepicker](https://www.filepicker.com/)
 * [google maps](https://developers.google.com/maps/documentation/javascript/)
 
@@ -10,4 +11,5 @@ Goals:
 [Code that we wrote today](/notes/day-35/code)
 
 ## Homework
-[Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
+* Requirements 1-4 of the [Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
+* Area of a rectangular room
