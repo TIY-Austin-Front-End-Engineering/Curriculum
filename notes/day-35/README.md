@@ -11,5 +11,5 @@ Goals:
 [Code that we wrote today](/notes/day-35/code)
 
 ## Homework
-* Requirements 1-4 of the [Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
+* Requirements 1-4 of [Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
 * Area of a rectangular room

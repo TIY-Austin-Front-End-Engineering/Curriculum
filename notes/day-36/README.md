@@ -24,4 +24,5 @@ Goals:
 [Code that we wrote today](/notes/day-36/code)
 
 ## Homework
-[Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
+* Requirements 5-8 of[Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
+* Password strength indicator
