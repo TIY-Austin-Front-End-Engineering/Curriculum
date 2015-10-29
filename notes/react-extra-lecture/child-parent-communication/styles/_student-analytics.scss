@@ -1,0 +1,61 @@
+.att-container {
+	margin: 0 5em;
+
+	form {
+		margin: 0;
+	}
+
+	thead {
+		background: #fff;
+		color: $navbar;
+	}
+
+	th {
+		text-align: center;
+		background: $navbar;
+		color: #fff;
+	}
+
+	button {
+		background-color: $buttonBackground;
+		font-family: $paragraphFontFamily;
+		box-shadow: 3px 3px 0px $buttonBorderColor;
+		border: none;
+		font-weight: bold;
+		border-radius: .1em;
+		margin-left: 1.6em;
+	}
+
+	.exampleRecipientInput {
+		float: left;
+		display: inline-block;
+		width: 40%;
+	}
+
+	option {
+		display: inline-block;
+	}
+
+	#att-title {
+		text-align: center;
+		font-size: 3em;
+		margin-top: .5em;
+		color: $headerTextColor;
+		background: $navbar;
+		padding: .4em 0;
+	}
+
+	.att-info {
+		font-size: 2em;
+		margin-top: 2em;
+	}
+
+	td {
+		background: $innerContainer;
+		border: 2px solid $bodyBackground;
+	}
+
+	td:first-child {
+		padding-left: 15px;
+	}
+}

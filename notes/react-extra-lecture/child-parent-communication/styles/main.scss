@@ -1,0 +1,46 @@
+@import 'normalize',
+		'skeleton',
+		'variables',
+		'navigation',
+		'quiz-list',
+		'home',
+		'login',
+		'possible-answers',
+		'post-question',
+		'quiz-details',
+		'register',
+		'student-analytics',
+		'class-analytics',
+		'dashboard',
+		'quiz-results',
+		'create-quiz',
+		'create-cohort',
+		'attendance',
+		'edit-quiz',
+		'credits',
+		'footer',
+		'move-along-404';
+
+body {
+	background-color: $bodyBackground;
+	display: flex;
+	flex-flow: column;
+	min-height: 100vh;
+}
+
+main {
+	flex: 1;
+		// height: 100%;
+		// padding: 0;
+		// margin: 0;
+}
+
+button.button {
+	background-color: $buttonBackground;
+	font-family: $paragraphFontFamily;
+	box-shadow: 3px 3px 0px $buttonBorderColor;
+	border: none;
+	font-weight: bold;
+	border-radius: .1em;
+	color: $buttonTextColor;
+}

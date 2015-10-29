@@ -1,0 +1,35 @@
+.edit-quiz-box {
+
+	.row {
+
+		.eight.columns {
+
+			h3 {
+				font-family: $headerFontFamily;
+				color: $headerTextColor;
+			}
+		}
+
+		.four.columns {
+
+			button {
+				background: $buttonBackground;
+				box-shadow: 3px 3px 0px $buttonBorderColor;
+			}
+		}
+	}
+
+	.six.columns {
+		text-align: left;
+		color: $paragraphColor;
+		font-family: $paragraphFontFamily;
+		padding: 0.5em;
+		background-color: $contentBackground;
+
+		.answerChoices{
+			color: $buttonBackground;
+			margin: 0;
+		}
+	}
+}
+

@@ -1,0 +1,46 @@
+.quiz-details-component {
+	font-family: $headerFontFamily;
+	margin-left: 10%;
+	width: 80%;
+	font-size: 1.2em;
+	background-color: $innerContainer;
+	margin-top: 3em;
+	margin-bottom:10%;
+	border: 1px solid black;
+	box-shadow: 2px 2px 2px #000;
+	padding: 2%;
+	color:$paragraphColor;
+
+	p {
+		display: inline;
+	}
+
+	h1 {
+		font-family: $headerFontFamily;
+	    color:#FF434A;
+		background-color:#412D62;
+		text-align:center;
+	}
+
+	h4 {
+		font-family: $headerFontFamily;
+		color:$subheaderTextColor;
+		padding-left: 0;
+		margin: 0;
+	}
+
+	button {
+		background-color: #90C5A9;
+		padding: 0 10px;
+		border: none;
+		color: #412D62;
+		font-family: "Oswald", sans-serif;
+		cursor: pointer;
+		border-radius: .1em;
+		box-shadow: 3px 3px 0 #FF434A;
+	}
+
+	.questions {
+		color:red;
+	}
+}

@@ -1,0 +1,13 @@
+footer {
+
+	.footer-container {
+		border-top: 1px solid #bbb;
+
+		.footer-links {
+			font-family: $paragraphFontFamily;
+			text-decoration: none;
+			padding-left: 2em;
+			color: #42094A;
+		}
+	}
+}

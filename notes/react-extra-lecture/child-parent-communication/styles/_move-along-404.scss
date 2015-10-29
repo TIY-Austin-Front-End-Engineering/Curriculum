@@ -1,0 +1,17 @@
+.moveAlong404 {
+	text-align: center;
+	margin: 2em auto 0 auto;
+
+	a {
+		text-decoration: none;
+		color: $subheaderTextColor;
+	}
+
+	a:hover {
+		color: $navbar;
+	}
+
+	img {
+		border-radius: 4px;
+	}
+}
