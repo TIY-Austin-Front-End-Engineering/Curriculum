@@ -22,6 +22,7 @@ I wish I didn't have to bring this up, but it has been an issue in the past. You
 
 ## Homework Assignments
 
+See Trello Board
 
 ## Check-ins
 
@@ -32,7 +33,7 @@ It's your responsibility to make sure you send weekly email updates and show up 
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
-	* 11:00am - 
+	* 11:00am - Mory
 	* 2:00pm - 
 * 11/26/2015 Email check in
 * 12/03/2015 Email check in
