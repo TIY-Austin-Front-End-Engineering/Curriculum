@@ -29,7 +29,7 @@ See Trello Board
 It's your responsibility to make sure you send weekly email updates and show up for the one on ones until you graduate. I will *not* send reminders for these. You should coordinate with me to get a 30 minute slot reserved for the in-person one on ones. If you finish before 01/08/2016 you're welcome to demo and take the test early. Touch base with me if that's the case and we can schedule accordingly.
 
 * 11/19/2015 In-person check in @ The Iron Yard
-	* 9:00am - 
+	* 9:00am - Joseph
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
@@ -39,7 +39,7 @@ It's your responsibility to make sure you send weekly email updates and show up 
 * 12/03/2015 Email check in
 * 12/10/2015 Email check in
 * 12/17/2015 In-person check in @ The Iron Yard
-	* 9:00am - 
+	* 9:00am - Joseph
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
@@ -48,7 +48,7 @@ It's your responsibility to make sure you send weekly email updates and show up 
 * 12/22/2015 through 12/28/2015 Email check in on one of these days to accomodate the holidays
 * 12/31/2015 Email check in
 * 01/04/2016 Final Project Presentations
-	* 9:00am - 
+	* 9:00am - Joseph
 	* 9:30am - 
 	* 10:00am - 
 	* 10:30am - 
