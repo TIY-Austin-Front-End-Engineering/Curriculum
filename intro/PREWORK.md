@@ -11,6 +11,15 @@ You will use GitHub and a custom built assignments app to turn in homework over 
 2. Sign in to the [assignment app](http://assignments.nutellahabit.com) using your GitHub account. As you complete assignments, submit them there.
 -->
 
+### JavaScript:
+We will spend most of our time talking about JavaScript. JavaScript allows us to add interactions to our web applications.
+
+Complete the Kahn Academy course at https://www.khanacademy.org/computing/computer-programming/programming (if you did the Codecademy course that's fine too, but I think Kahn Academy is better).
+
+This is not how our course will be taught ­­ but it’s great to get yourself as familiar as possible with some of the syntax of the language.
+
+Take a screen shot of the completion screen showing that you've completed all of the tasks. Email the screenshot to me with a title of "JavaScript Pre-Work"
+
 ### HTML/CSS:
 HTML and CSS are the foundation of all the content of a webpage or web app. However, we will only be spending about two weeks on HTML and CSS, so having a basic foundation before class will be very helpful.
 
@@ -19,15 +28,6 @@ Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This 
 Take a screen shot of the completion screen showing that you've completed all of the tasks. Email the screenshot to me with a title of "HTML/CSS Pre-Work"
 
 <!-- Take a screen shot of the completion screen showing that you've completed all of the tasks. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the "HTML/CSS Pre-Work" assignment within the [assignment app](http://assignments.nutellahabit.com). -->
-
-### JavaScript:
-We will spend most of our time talking about JavaScript. JavaScript allows us to add interaction to our web applications.
-
-Complete the Codecademy course at http://www.codecademy.com/en/tracks/web. This should take you approximately 7 hours, depending on your prior experience.
-
-This is not how our course will be taught ­­ but it’s great to get yourself as familiar as possible with some of the syntax of the language.
-
-Take a screen shot of the completion screen showing that you've completed all of the tasks. Email the screenshot to me with a title of "JavaScript Pre-Work"
 
 <!-- Take a screen shot of the completion screen showing that you've completed all of the tasks. Upload the screenshot to [imgur](http://imgur.com/) or another photo sharing service and submit a link to the picture on the "JavaScript Pre-Work" assignment within the [assignment app](http://assignments.nutellahabit.com). -->
 
