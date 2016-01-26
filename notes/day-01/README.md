@@ -13,7 +13,9 @@
 	- Daily Warm Up
 	- Daily Homework
 	- Bi-weekly reviews
-	- 1 or 2 Group Projects
+	- 2 Group Projects
+		- Design Frontend, Backend Group Project (April 8th - 10th)
+
 - What do I expect of you?
 	- Show up on time (or a few minutes early) - that means in your seat at 9:00am. Not rolling in at 9:02 and grabbing coffee.
 	- Stay on campus until 5pm.
