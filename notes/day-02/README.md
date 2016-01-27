@@ -22,4 +22,4 @@
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/) in your own words (even if it already has an answer)
 1. First three layouts from [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
-1. Read 
+1. Read [JavaScript Introduction](/units/javascript-introduction)

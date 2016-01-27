@@ -4,6 +4,7 @@
 
 * [Welcome!](/intro/README.md)
 
+<!--
 ### Week 12: Graduation
 * 05/20/2016 - Day 60 - Graduation Dinner
 * 05/19/2016 - Day 59 - Demo Day
@@ -84,6 +85,7 @@
 ### Week 1: Basic HTML/CSS/JS
 * [03/04/2016 - Day 05 - EXTRA EXTRA: Code Review](/notes/day-04/README.md)
 * [03/03/2016 - Day 04 - JS Variables, CSS Media Queries and Selectors](/notes/day-04/README.md)
+-->
 * [03/02/2016 - Day 03 - JS Introduction, CSS Layout and Centering](/notes/day-03/README.md)
 * [03/01/2016 - Day 02 - Git, CSS Box Model](/notes/day-02/README.md)
 * [02/29/2016 - Day 01 - Introductions to the Course, Command Line, HTML, CSS](/notes/day-01/README.md)
