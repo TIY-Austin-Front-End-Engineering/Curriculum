@@ -19,7 +19,7 @@ Day 3
 Day 4
   [2] JS Variables
   [3] CSS Media Queries
-  [2] CSS Selectors
+  [2] CSS Selectors (http://flukeout.github.io/)
   [1] CSS Fonts
 
 Day 5
