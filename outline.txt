@@ -8,19 +8,19 @@ Day 1
 
 Day 2
   [4] Git Introduction
-  [3] CSS Box Model
+  [3] CSS Box Model + basic display stuff
 
 Day 3
-  [1] JS Introduction (http://dazm.co/javascript-brightgauge-lunch-learn/)
-  [3] JS Strings
   [4] CSS Layout (floats)
   [4] CSS Centering
+  [1] CSS Fonts
+  [2] CSS Selectors (http://flukeout.github.io/)
 
 Day 4
-  [2] JS Variables
   [3] CSS Media Queries
-  [2] CSS Selectors (http://flukeout.github.io/)
-  [1] CSS Fonts
+  [1] HTML Form Elements 
+  [2] Sass
+  [3] CSS Specificity
 
 Day 5
   ** Code Review **
@@ -30,19 +30,20 @@ Day 5
 ::::::: Week 2 - Hello JavaScript :::::::
 
 Day 6
-  [2] JS Numbers
-  [3] CSS Specificity
-  [4] CSS Positioning
+  [1] JS Introduction (http://dazm.co/javascript-brightgauge-lunch-learn/)
+  Take from crash course
 
 Day 7
-  [1] HTML Form Elements 
-  [2] Sass
+  [3] JS Strings
+  [2] JS Variables
+  [2] JS Numbers
   [4] JS Booleans
   [4] JS Conditional Logic
 
 Day 8
   [5] JS Functions
   [2.5] JS Arrays
+  [2] JS Functional Programming (practical)
 
 Day 9
   [2.5] JS Arrays Continued
@@ -57,9 +58,12 @@ Day 10
 ::::::: Week 3 - Advanced JavaScript :::::::
 
 Day 11
-  [5] CSS Grid Systems
   [5] JS Objects
-  [5] JS Pass by value / reference
+  [3] JS Pass by value / reference
+  [5] CSS Grid Systems
+  - https://github.com/theironyard/js-assignments/tree/master/JavaScript%20Basics/js-arrays-map-filter
+  - simplified grid system
+  [4] CSS Positioning
 
 Day 12
   [3] JS Scoping
@@ -92,16 +96,16 @@ Day 16
 Day 17
   [3] jQuery Data Attributes
   [4] AJAX 1
+  [3] Client Side Routing
+  [2] JS Functional Programming (theory)
 
 Day 18
   [3] jQuery Plugins
   [4] AJAX 2
-  [5] Parse Introduction
+  [5] JS Currying
 
 Day 19
-  [4] JS Functional Programming
-  [5] JS Currying
-  [3] Client Side Routing
+  Node introduction
 
 Day 20
   ** One on ones **
@@ -112,16 +116,16 @@ Day 20
 
 Day 21
   Unit Testing Introduction
-  rmurphey/js-assessment
+  Unit Testing Functions Assignment
 
 Day 22
-  rmurphey/js-assessment
+  Unit Testing Functions Assignment
 
 Day 23
-  rmurphey/js-assessment
+  Unit Testing Functions Assignment
 
 Day 24
-  rmurphey/js-assessment
+  Unit Testing Functions Assignment
 
 Day 25
   ** SQL Extra Lecture **
@@ -184,16 +188,16 @@ Day 35
 ::::::: Week 8 - Client Project :::::::
 
 Day 36
-  Morning Whiteboarding
-  React User Authentication
-  Parse CRUD
+  Node Day 1 - Setup
 
 Day 37
-  Morning Whiteboarding
-  Unit Testing Review
-  Parse Queries
+  Node Day 2 - Building an API
+  Writing Vanilla Unit Tests
 
 Day 38
+  Node Day 3 - User Authentication
+  React User Authentication
+  Writing React Unit Tests
 
 
 Day 39
