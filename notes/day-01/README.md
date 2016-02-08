@@ -32,10 +32,10 @@
 	- BYOM - Bring your own motivation.
 
 ## Goals
-* [Trees](/units/trees/README.md)
-* [Paths](/units/paths/README.md)
 * [Command Line](/units/command-line/README.md)
 	- `touch`, `pwd`, `ls`, `cd`, tab completion, `subl`, `rm`, `rmdir`
+* [Trees](/units/trees/README.md)
+* [Paths](/units/paths/README.md)
 * [HTML Documents](/units/html-documents/README.md)
 	- Margin issues
 	- Nesting elements
@@ -48,15 +48,15 @@
 
 ## Homework
 1. Sign up and ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/) in your own words (even if it already has an answer)
+1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-01) in your own words (even if it already has an answer)
 1. Week 1 File Structure
 1. [Mobile Layout 1](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-1)
 1. Read [CSS Box Model](/units/css-box-model)
 
 ## Review
+1. [Command Line](/units/command-line/README.md)
 1. [Trees](/units/trees/README.md)
 1. [Paths](/units/paths/README.md)
-1. [Command Line](/units/command-line/README.md)
 1. [HTML Documents](/units/html-documents/README.md)
 1. [CSS Introduction](/units/css-introduction/README.md)
 
