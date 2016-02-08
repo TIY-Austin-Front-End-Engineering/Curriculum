@@ -11,7 +11,7 @@ Day 2
   [3] CSS Box Model
 
 Day 3
-  [1] JS Introduction
+  [1] JS Introduction (http://dazm.co/javascript-brightgauge-lunch-learn/)
   [3] JS Strings
   [4] CSS Layout (floats)
   [4] CSS Centering
