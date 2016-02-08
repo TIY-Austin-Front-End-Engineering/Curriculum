@@ -6,7 +6,7 @@ Day 1
   [1] HTML Introduction
   [1] CSS Introduction
 
-Day 2
+Day 2 (Jess)
   [4] Git Introduction
   [3] CSS Box Model + basic display stuff
 
@@ -33,19 +33,19 @@ Day 6
   [1] JS Introduction (http://dazm.co/javascript-brightgauge-lunch-learn/)
   Take from crash course
 
-Day 7
+Day 7 (Jess)
   [3] JS Strings
   [2] JS Variables
   [2] JS Numbers
   [4] JS Booleans
   [4] JS Conditional Logic
 
-Day 8
+Day 8 (Jess)
   [5] JS Functions
   [2.5] JS Arrays
   [2] JS Functional Programming (practical)
 
-Day 9
+Day 9 (Jess)
   [2.5] JS Arrays Continued
   [5] JS Loops
 
@@ -76,7 +76,7 @@ Day 13
   [5] JS Constructors
   [1] JS Dates
 
-Day 14
+Day 14 (Jess)
   [4] JS Prototypes
   [4] JS Regex
 
@@ -93,7 +93,7 @@ Day 16
   [3] jQuery Forms
   [4] JS Events II (event object and bubbling)
 
-Day 17
+Day 17 (Jess)
   [3] jQuery Data Attributes
   [4] AJAX 1
   [3] Client Side Routing
@@ -134,14 +134,15 @@ Day 25
 
 ::::::: Week 6 - Backbone :::::::
 
-Day 26
+Day 26 (Jess)
   Morning Whiteboarding
   [4] Babel / ES2015
   [4] Gulp
   [3] Node CLI scripts
 
-Day 27
+Day 27 (Jess)
   Morning Whiteboarding
+  Backbone Introduction
   [5] Views Part 1
 
 Day 28
@@ -162,26 +163,27 @@ Day 30
 
 ::::::: Week 7 - React :::::::
 
-Day 31
+Day 31 (Jess)
   Morning Whiteboarding
   React Components
-  React Events
 
-Day 32
+Day 32 (Jess)
   Morning Whiteboarding
   React Props
   React State
+  React Component Lifecycle
 
-Day 33
+Day 33 (Jess)
   Morning Whiteboarding
   React Rendering Lists
+  React Events
 
-Day 34
+Day 34 (Jess)
   Morning Whiteboarding
   React Callback Props
 
-Day 35
-  ** Server Side JS Extra Lecture **
+Day 35 (Jess)
+  ** Flux Extra Lecture **
 
 ======= Fancy Table =======
 
