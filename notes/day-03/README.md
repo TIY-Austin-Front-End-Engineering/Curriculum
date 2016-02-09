@@ -15,6 +15,9 @@
 * [CSS Selectors](/units/css-selectors/README.md)
 * CSS Fonts
 
+## In Class:
+* [CSS Dinner](http://flukeout.github.io/)
+
 ## Homework
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-03) in your own words (even if it already has an answer)

@@ -2,22 +2,20 @@
 
 # Day 4
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+<!--
+## In-Class Code
+[Code that we wrote today](/notes/day-04/code)
+-->
 
 ## Notes:
-* Review QotD
-* `npm install -g alarner/tiyfe`
 
 ## Goals:
 * [CSS Media Queries](/units/css-media-queries)
-* [Sass](http://sass-lang.com/guide)
-
-## In-Class Code
-[Code that we wrote today](/notes/day-04/code)
+* HTML Form Elements
+* [Sass](/units/sass)
+* [CSS Specificity](/units/css-specificity)
 
 ## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
-
-<!-- This was too easy. You need to make it multiple pages for the more advanced students. About half of the class finished it up by Friday -->
+1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
+1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-04) in your own words (even if it already has an answer)
+1. [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
