@@ -8,4 +8,4 @@
 * Code Review
 
 ## Homework
-* See [day 04](../day-04)
+* See [day 04](../day-04#homework)
