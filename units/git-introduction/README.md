@@ -43,8 +43,7 @@ Git also allows us to maintain references to **remote repositories**, or copies 
 
 To create a new remote repository from your current local repository: use the command `hub create <optional_remote_repository_name>`. This creates a copy of your current repo on github.
 
-To send updates to the remote repository from your local machine use the `git push` command.
-
+To send updates to the remote repository from your local machine use the `git push` command. 
 
 ## Quick Guide
 

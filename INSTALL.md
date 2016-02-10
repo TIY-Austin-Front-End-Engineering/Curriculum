@@ -80,6 +80,11 @@ Use [this link](https://github.com/join) to sign up for a GitHub account. You ju
 
 Use [this link](https://help.github.com/articles/generating-ssh-keys/) and follow the instructions to set up SSH keys for your GitHub account.
 
+### Hub
+> hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+
+Using iTerm2, type the following command: `brew install hub`
+
 ### Breadcrumbs
 > Breadcrumbs is a question and answer tool where you can practice the things you've learned in the class, help your fellow students and get answers to your questions.
 
@@ -88,7 +93,7 @@ Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Br
 ### Personal Blocklist Chrome Extension
 > Blocks domains/hosts from appearing in your Google search results.
 
-1. Use [this link](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en) to install the personal block list. 
+1. Use [this link](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en) to install the personal block list.
 2. Go to [http://www.w3schools.com/](http://www.w3schools.com/).
 3. Click on the red circle with the hand picture and then click on the link "Block current host: w3schools.com"
 
@@ -109,7 +114,7 @@ Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Br
 <!--
 Install the following packages:
 
-* 
+*
 
 
 Sublime Package Control
