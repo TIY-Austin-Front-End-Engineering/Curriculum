@@ -24,7 +24,7 @@
     * ternary operator
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-06/code)
+<!-- [Code that we wrote today](/notes/day-07/code) -->
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)

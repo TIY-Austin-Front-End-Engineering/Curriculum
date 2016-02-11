@@ -12,39 +12,25 @@ JavaScript has a notion of **types**, which are different categories of informat
 ## Numbers
 JavaScript numbers are pretty much the same as numbers that we'd use to calculate things with a calculator. We can perform **operations** on them, like addition, subtraction, multiplication, etc.
 
-Our JavaScript code is made up of a series of **expressions** like the one below:
-
-```js
-2+2
-```
-
-In the expression above, we are adding two different numbers together. Expressions in JavaScript can often be simplified, or **evaluated**. For example, `2+2` is evaluated to another number, `4`. Simple enough eh?
-
-If you remember back to your arithmetic days, there is a special order in which mathematical operations are performed. Do you Remember *PEMDAS* or *please excuse my dear aunt sally*? These are easy ways to remember the order in which mathematical operations are done. The order is:
-
-1. Parentheses
-2. Exponents
-3. Multiplication / Division
-4. Addition / Subtraction
-
-This is all the math you will ever need to know to become a web developer. Let's look at the following JavaScript expression:
-
-```js
-2+2*3
-```
-
-JavaScript is not smart. It can't evaluate this expression all at once. It has to break it down into parts, and do one operation at a time. Based on the order of operations we laid out above here are the steps JavaScript will take.
-
-1. `2*3` is equal to `6`. The multiplication is done first because it has a higher precedence than addition.
-2. After the multiplication calculation is complete, the expression will look like: `2+6`. This is simple enough. Now JavaScript will do the addition and get a final value of `8`.
-
-##### NaN
+##### NaN, infinity, -infinity
 `NaN` is a special number value the represents "Not a Number". Let's say, for example, you tried to do math with non-numbers, like so:
 
 ```js
-2-"this string is not a number"
+2-"this string is not a number" // evaluates to NaN
 ```
 This expression will evaluate to `NaN`, because, you guessed it, the answer is not a number.
+
+`infinity` and `-infinity` are just what they sound like. They are special, number values in JavaScript that represent their namesake.
+
+##### Cool stuff you can do with numbers
+* `+` `-` `*` `/` `%`
+* `+=` `-=` `*=` `/=`
+* `Math.pow()`
+* `Math.random()`
+* `Math.ceil()`
+* `Math.floor()`
+* `Math.round()`
+* `Math.abs()`
 
 ## Strings
 JavaScript strings are text. Strings are denoted by quotation marks (either single '' or double ""). Think of them as 'strings' of characters. Any character can be in a string, including numbers. Revisit the [JavaScript Introduction](../javascript-introduction/README.md) for more details on strings.
@@ -59,6 +45,14 @@ JavaScript has one operator that works on strings. It looks (and technically is)
 ```js
 "Hi! My name is " + "Billy Jo" // evaluates to "Hi! My name is Billy Jo"
 ```
+
+##### Cool stuff you can do with strings
+* `+`
+* `+=`
+* `.length`
+* `.substr()`
+* `.charAt()`
+
 
 ## Booleans
 JavaScript booleans are the value `true` or `false`. The words "true" and "false" are reserved words in JavaScript, so if you type them into your console without quotation marks, they will be interpreted as their value, and you will not get an error. Our computer thinks of booleans as either a 0 or a 1. Either nothing, or something.
@@ -100,4 +94,7 @@ I recommend playing around with this some. Until you are used to type coercion, 
 
 ## More Resources
 * [JavaScript Types - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+* [JavaScript Strings - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* [JavaScript Math object - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+* [JavaScript Numbers - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
 * [JavaScript Operators and Expressions - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
