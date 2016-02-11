@@ -1,28 +1,33 @@
 [Table of Contents](/README.md)
 
-# Day 7
+# Day 6
 
 ## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+[worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables-worksheet)
 
 ## Notes:
 * Review QotD
+* Review Homework
+* Review git workflow
 
 ## Goals:
-* [Grid Systems](/units/grid-systems)
-* Intro to JS 3 - arrays and objects
-	* Organizing boxes
+* Intro to JS 2
+  * [Primitives](../units/javascript-primitives)
+    * numbers
+    * strings
+    * booleans
+    * null and undefined
+  * [Variables](../units/javascript-variables)
+  * [Boolean logic](../units/javascript-if-statements)
+    * if statements
+    * truthy / falsey
+    * ternary operator
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-07/code)
+[Code that we wrote today](/notes/day-06/code)
 
 ## Homework
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Bootstrap Grid](https://github.com/TIY-Austin-Front-End-Engineering/bootstrap-grid)
-* Write a blog post explaining your understanding of objects and arrays.
-	* Why do we need them? Include at least one real world example of using each.
-	* How do you set and retreive information using arrays?
-	* How do you set and retreive information using objects?
+* [Command Line Programming Quiz](https://github.com/TIY-Austin-Front-End-Engineering/command-line-programming-quiz)
 
-<!-- bootstrap grid was quite difficult for most of the class. Maybe make it a bit easier -->
-	
+<!-- This turned out to be a great assignment. Hard mode was great for advanced students, and Normal mode was a good level for struggling students -->
