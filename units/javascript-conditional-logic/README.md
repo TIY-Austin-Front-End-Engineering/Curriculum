@@ -1,4 +1,4 @@
-# JavaScript Boolean Logic
+# JavaScript Conditional Logic
 
 ### You should already know about
 * [JavaScript variables](../javascript-variables/README.md)
