@@ -1,21 +1,23 @@
 [Table of Contents](/README.md)
 
-# Day 4
+# Day 04 - CSS Media Queries, Specificity, HTML Form Elements and Sass
 
-<!--
-## In-Class Code
-[Code that we wrote today](/notes/day-04/code)
--->
-
-## Notes:
-
-## Goals:
+## Topics
 * [CSS Media Queries](/units/css-media-queries)
 * HTML Form Elements
 * [Sass](/units/sass)
 * [CSS Specificity](/units/css-specificity)
 
-## Homework
-1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-04) in your own words (even if it already has an answer)
-1. [Responsive Site](https://github.com/TIY-Austin-Front-End-Engineering/responsive-site)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
+
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
+
+## Assignments
+* [Day 04: Breadcrumbs Questions](https://online.theironyard.com/library/paths/115/units/377/assignments/644)
+* [Responsive Site](https://online.theironyard.com/library/paths/115/units/377/assignments/647)
+
+## Resources
+
