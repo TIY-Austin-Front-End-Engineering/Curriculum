@@ -2,7 +2,7 @@
 
 ### You should already know about
 * [CSS Introduction](../css-introduction/README.md)
-* [CSS Layout](../css-layout/README.md)
+<!-- * [CSS Layout](../css-layout/README.md) -->
 
 Everything in HTML and CSS can be described as a rectangular box. All we do when we are applying CSS properties is specifying what that box should look like. There are a few crtitcal properties that we use to size and orient our boxes (HTML elements). Those properties are:
 
