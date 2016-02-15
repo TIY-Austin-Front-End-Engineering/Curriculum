@@ -7,7 +7,7 @@
 * [CSS Selectors](/units/css-selectors/README.md)
 * [CSS Dinner](http://flukeout.github.io/) in class exercise
 * [CSS Centering](/units/css-centering/README.md)
-* CSS Fonts
+* [CSS Fonts](https://developers.google.com/fonts/docs/getting_started)
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
