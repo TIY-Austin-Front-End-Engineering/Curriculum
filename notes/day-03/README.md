@@ -18,7 +18,7 @@
 
 ## Assignments
 * [Breadcrumbs Questions of the Day](https://online.theironyard.com/library/paths/115/units/377/assignments/644)
-* Finish [Mobile Layout 2](https://online.theironyard.com/library/paths/115/units/377/assignments/636)
+* Finish Mobile Layout 2
 * [Blog Post: CSS Resets](https://online.theironyard.com/library/paths/115/units/377/assignments/645)
 
 ## Resources
