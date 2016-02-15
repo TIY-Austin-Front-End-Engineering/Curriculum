@@ -1,14 +1,31 @@
 [Table of Contents](/README.md)
 
-# Day 2
+# Day 02 - Git, CSS Box Model
 
-<!--
-## In-Class Code
-[Code that we wrote today](/notes/day-02/code)
--->
+## Topics
+* [CSS Box Model](/units/css-box-model/README.md)
+  * Everything is a box
+  * Boxes have 4 areas we can manipulate
+    * Content
+      * Height
+      * Width
+    * Padding
+    * Border
+    * Margin
+  * Box-sizing
 
-## Notes:
+* Block vs Inline elements
+  * Block: Proud parent
+  * Inline: Disrespectful teenager
 
+* [Git Introduction](/units/git-introduction/README.md)
+  * What and why is git?
+  * [Setting up git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  * [Authorizing Github](https://help.github.com/articles/generating-an-ssh-key/)
+  * Tracking, staging, and committing
+  * Remote repos and pushing
+
+## Notes
 HTML Elements can generally be broken down into one of two categories: inline, and block-level.
 
 ##### Inline elements
@@ -28,16 +45,13 @@ Think of them as proud parents.
   * aka: comply with height, width, and all margins
 * For a full list of inline elements available see the [MDN Documentation for block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 
-## Goals:
-* [CSS Box Model](/units/css-box-model/README.md)
-* [Git Introduction](/units/git-introduction/README.md)
-	<!-- * Identify yourself, set default editor
-	* Setting up new homework assignments
-	* Adding, committing, pushing -->
-* Homework Tool
+<!-- ## Code
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-02/code) -->
 
-## Homework
+## Assignments
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 2. Answer one of [these questions](http://tiy.breadcrumbsqa.com/) in your own words (even if it already has an answer)
 3. First three layouts from [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
 4. Read [JavaScript Introduction](/units/javascript-introduction)
+
+## Resources
