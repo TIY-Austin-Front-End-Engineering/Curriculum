@@ -47,5 +47,3 @@
 * [Command Line Programming Quiz](https://github.com/TIY-Austin-Front-End-Engineering/command-line-programming-quiz)
 
 ## Resources
-* Links to [lessons](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/units)
-* And links to [outside resources](www.csstricks.com)
