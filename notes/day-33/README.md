@@ -5,6 +5,11 @@
 ## Topics
 * React Rendering Lists
 * React Events
+  * Built in properties for event handler functions
+  * Gotcha: Virtual DOM means Virtual Events - data will not persist in async
+  * Getting values from forms
+    * using `state`
+    * using `refs`
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->

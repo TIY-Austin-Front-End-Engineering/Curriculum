@@ -15,9 +15,13 @@
       * babel-preset-es2015
     * import: `import React from 'react';` `import ReactDOM from 'react-dom';`
 * React Components
-  * Syntax - XML + HTML + JS = JSX
   * Every component must represent a single element
-  * Rendering to the DOM - ReactDOM vs React
+  * Syntax
+    * JS only
+    * XML + HTML + JS = JSX
+  * Rendering
+    * ReactDOM vs. React
+    * `render()`
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
