@@ -12,7 +12,7 @@ Specific requirements goes here
 
 > Hints go here
 
-###### Required Files
+###### What to Submit
 
 * `/path/to/file/1`
 * `/path/to/2`
@@ -25,7 +25,7 @@ Specific requirements goes here
 
 > Hints go here
 
-###### Required Files
+###### What to Submit
 
 * `/path/to/file/1`
 * `/path/to/2`
@@ -38,7 +38,7 @@ Specific requirements goes here
 
 > Hints go here
 
-###### Required Files
+###### What to Submit
 
 * `/path/to/file/1`
 * `/path/to/2`
