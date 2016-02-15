@@ -4,8 +4,17 @@
 
 ## Topics
 * Props
+  * Passing values as props
+  * Using `this.props`
 * State
+  * Props v. state
+  * Where does state live?
+  * Setting initial state
+  * Updating state: `this.setState()`
 * Component Lifecycle
+  * `componentWillMount`
+  * `componentDidMount`
+  * Updated state or props
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
@@ -17,5 +26,3 @@
 ## Assignments
 
 ## Resources
-* Links to [lessons](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/units)
-* And links to [outside resources](www.csstricks.com)
