@@ -45,8 +45,7 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
 
 ## Assignments
-* Sign up and ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-01) in your own words (even if it already has an answer)
+* [Breadcrumbs Questions of the Day](https://online.theironyard.com/library/paths/115/units/377/assignments/637)
 * [Week 1 File Structure](https://online.theironyard.com/library/paths/115/units/385/assignments/635)
 * [Mobile Layout 1](https://online.theironyard.com/library/paths/115/units/377/assignments/636)
 * Read [CSS Box Model](/units/css-box-model)
