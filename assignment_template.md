@@ -8,11 +8,11 @@ High level description goes here
 
 Specific requirements goes here
 
-###### Notes
+##### Notes
 
 > Hints go here
 
-###### What to Submit
+##### What to Submit
 
 * `/path/to/file/1`
 * `/path/to/2`
@@ -21,24 +21,14 @@ Specific requirements goes here
 
 Specific requirements goes here
 
-###### Notes
+##### Notes
 
 > Hints go here
-
-###### What to Submit
-
-* `/path/to/file/1`
-* `/path/to/2`
 
 ## Epic Mode
 
 Specific requirements goes here
 
-###### Notes
+##### Notes
 
 > Hints go here
-
-###### What to Submit
-
-* `/path/to/file/1`
-* `/path/to/2`
