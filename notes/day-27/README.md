@@ -1,13 +1,33 @@
 [Table of Contents](/README.md)
 
-# Day 27
+# Day 27 - Backbone: Introduction, Views part 1
 
-## Goals:
-* Parse CRUD
-* [Hoisting](https://github.com/TIY-Austin-Front-End-Engineering/hoisting-worksheet)
+## Topics
+* Backbone Introduction
+  * What and why is MVC?
+  * Dependencies
+  * `_.extend()`
+* Backbone Views Part 1
+  * Views are constructors that create HTML elements with special features
+  * `Backbone.View.extend()`
+  * Defining
+    * `tagName`
+    * `className`
+    * `initialize`
+    * `render`
+  * Instantiating
+    * `new ViewName()`
+  * Basic properties
+    * `el`
+    * `$el`
 
-## In-Class Code
-[Code that we wrote today](/notes/day-27/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* [Parse products](https://github.com/TIY-Austin-Front-End-Engineering/parse-products)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-27/code) -->
+
+## Assignments
+
+## Resources

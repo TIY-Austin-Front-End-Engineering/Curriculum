@@ -1,26 +1,32 @@
 [Table of Contents](/README.md)
 
-# Day 14
+# Day 14 - JS: Prototypes, Regex
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+## Topics
+* JS Prototypes
+  * Everything is an object
+  * If you don't have a property, look it up on the prototype
+  * It's **not inheritance**!! It is a pointer reference
+  * Add to an prototype
+  * Create a prototype with a constructor
+  * Create a prototype without a constructor: `Object.create()`
+* JS Regex
+  * What and why is regex?
+  * Anatomy of a regex
+    * `//`
+    * patterns
+    * flags
+  * `.match()`, `.replace()`
 
-## Notes:
-* Review QotD
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Goals:
-* Getting values from form elements
-* e.target
-* [scoping](/units/scoping-closures/README.md)
-* [what is this?](https://github.com/TIY-Austin-Front-End-Engineering/what-is-this)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-14/code) -->
 
-## In-Class Code
-[Code that we wrote today](/notes/day-14/code)
+## Assignments
+[Regex Crossword](https://regexcrossword.com/) (tutorial and beginner level)
+[Vanilla JS ToDo](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-todo)
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [jQuery Contact Form](https://github.com/TIY-Austin-Front-End-Engineering/jquery-contact-form)
-* [jQuery Login](https://github.com/TIY-Austin-Front-End-Engineering/jquery-login)
-* Write a new blog post about your understanding of `this`. It could be a poem, interpretive dance, rant, infographic, or just a description of your understanding.
-
-<!-- right amount of difficulty. hard / nightmare mode are good too -->
+## Resources

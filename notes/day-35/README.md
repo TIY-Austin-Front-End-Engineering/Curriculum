@@ -1,15 +1,15 @@
 [Table of Contents](/README.md)
 
-# Day 35
+# Day 35 - EXTRA, EXTRA: Flux, Redux
 
-Goals:
-* How to learn new tools:
-* [filepicker](https://www.filepicker.com/)
-* [google maps](https://developers.google.com/maps/documentation/javascript/)
+## Topics
+* Flux
 
-## In-Class Code
-[Code that we wrote today](/notes/day-35/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* Requirements 1-4 of [Final Project Planning](https://github.com/TIY-Austin-Front-End-Engineering/Final-Project-Planning)
-* Area of a rectangular room
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-35/code) -->
+
+## Resources

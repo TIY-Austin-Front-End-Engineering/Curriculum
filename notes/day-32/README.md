@@ -1,20 +1,21 @@
 [Table of Contents](/README.md)
 
-# Day 22
+# Day 32 - React: Props, State, Component Lifecycle
 
-## Goals:
-* Learn how to build flexible components with React properties and passing in models
-* Data modeling
-	* one to one
-	* one to many
-	* many to many
+## Topics
+* Props
+* State
+* Component Lifecycle
 
-## In-Class Code
-[Code that we wrote today](/notes/day-22/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Fresh Job Board Models](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-models)
-* [Fresh Job Board Components](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-components)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-32/code) -->
 
-<!-- Spend more time, more assignments using regular props (not models) -->
+## Assignments
+
+## Resources
+* Links to [lessons](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/units)
+* And links to [outside resources](www.csstricks.com)
