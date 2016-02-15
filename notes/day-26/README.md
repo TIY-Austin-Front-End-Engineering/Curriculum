@@ -1,16 +1,17 @@
 [Table of Contents](/README.md)
 
-# Day 26
+# Day 33
 
 ## Goals:
-* Router details view review
-* Navigation
-* Component Communication with events (Navigation example)
-* Regular expressions
+* Babel
+* ES2015
 
 ## In-Class Code
-[Code that we wrote today](/notes/day-26/code)
+[Code that we wrote today](/notes/day-33/code)
+
+Resources:
+* [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
 
 ## Homework
-* [React navigation](https://github.com/TIY-Austin-Front-End-Engineering/react-navigation)
-* Complete the Tutorial and Beginner difficulties from [Regex Crossword](https://regexcrossword.com/)
+* Blog Post - Client project retrospective
+* Tip calculator
