@@ -1,33 +1,51 @@
 [Table of Contents](/README.md)
 
-# Day 6
+# Day 07 - JS: Primitives, Variables, Conditional Logic
 
-## QotD:
-[worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables-worksheet)
+## Topics
+* [Primitives](../units/javascript-primitives)
+  * Numbers
+    * Basic numbers
+    * Special numbers (`infinity`, `-infinity`, `NaN`)
+    * Cool stuff you can do with numbers
+      * basic math
+      * increment and decrement
+      * `Math.`
+  * Strings
+    * Cool stuff you can do with strings
+      * concatenation
+      * `.length`, `.charAt()`, `.indexOf()`, `.substr()`
+  * Booleans
+  * `undefined` and `null`
+  * Type coercion
+* [Variables](../units/javascript-variables)
+* [Conditional Logic](../units/javascript-if-statements)
+  * Operators - accept values AND expressions
+    * `>` greater than
+    * `<`  less than
+    * `===` equal to
+    * `!==` not equal to
+    * `>=` greater than or equal to
+    * `<=` less than or equal to
+    * `&&` AND, evaluates true when BOTH operands evaluate to true
+    * `||` OR, evaluates to true when EITHER operand evaluates to true
+  * `if` statements
+  * `else` statements
+  * truthy and falsey
+  * `==` vs. `===`
+  * ternary operator
 
-## Notes:
-* Review QotD
-* Review Homework
-* Review git workflow
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Goals:
-* Intro to JS 2
-  * [Primitives](../units/javascript-primitives)
-    * numbers
-    * strings
-    * booleans
-    * null and undefined
-  * [Variables](../units/javascript-variables)
-  * [Boolean logic](../units/javascript-if-statements)
-    * if statements
-    * truthy / falsey
-    * ternary operator
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-07/code) -->
 
-## In-Class Code
-<!-- [Code that we wrote today](/notes/day-07/code) -->
-
-## Homework
+## Assignments
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Command Line Programming Quiz](https://github.com/TIY-Austin-Front-End-Engineering/command-line-programming-quiz)
 
-<!-- This turned out to be a great assignment. Hard mode was great for advanced students, and Normal mode was a good level for struggling students -->
+## Resources
+* Links to [lessons](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/units)
+* And links to [outside resources](www.csstricks.com)

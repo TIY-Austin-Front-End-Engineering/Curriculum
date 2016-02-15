@@ -1,24 +1,23 @@
 [Table of Contents](/README.md)
 
-# Day 9
+# Day 09 - JS: ForEach, Map, Filter, Reduce
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+## Topics
+* JS functions are first class  
+* Built in array methods
+	* `.map()`
+	* `.reduce()`
+	* `.filter()`
+	* `.forEach()`
 
-## Notes:
-* Review QotD
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Goals:
-* Intro to JS 4 - functions
-	* Assembly line activity
-	* Different types of named functions, methods
-* Intro to Unit Testing 1
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-09/code) -->
 
-## In-Class Code
-[Code that we wrote today](/notes/day-09/code)
+## Assignments
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Tic Tac Toe Functions](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe-functions)
 
-<!-- maybe this was better than the actual tic tac toe assignment? -->
+## Resources

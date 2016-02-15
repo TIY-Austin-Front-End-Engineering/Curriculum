@@ -1,21 +1,17 @@
 [Table of Contents](/README.md)
 
-# Day 34
+# Day 34 - React: Callback Props
 
-Goals:
-* Express
-* Sending Emails (nodemailer / mailgun)
-* .gitignore file
-* Twilio
+## Topics
+* React Callback Props
 
-## In-Class Code
-[Code that we wrote today](/notes/day-34/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-Resources:
-* [express](http://expressjs.com/)
-* [node twilio api](https://www.twilio.com/docs/node/install)
-* [nodemailer](http://www.nodemailer.com/)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
 
-## Homework
-* Legal driving age
-* Self-checkout
+## Assignments
+
+## Resources

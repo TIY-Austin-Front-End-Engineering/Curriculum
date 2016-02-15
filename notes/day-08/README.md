@@ -1,22 +1,43 @@
 [Table of Contents](/README.md)
 
-# Day 8
+# Day 08 - JS: Loops, Functions, Arrays
 
-## QotD:
-* [All questions except 12, 14, 15](https://github.com/TIY-Austin-Front-End-Engineering/javascript-objects-worksheet)
-
-## Notes:
-* Review QotD
-
-## Goals:
-* Intro to JS 4 - loops
+## Topics
+* Loops
+  * initialization (usually declaring a variable for counting where we are in the loop)
+  * condition (the test to determine whether or not to run the code)
+  * final expression (code to run after the code has run, before checking the condition again)
+  * statement (code to run on each go through the loop)
 * Functions
+  * What and why is a function?
+  * Anatomy of a function
+    * `function` keyword
+    * parameters
+    * statement
+    * return value
+  * expression vs declaration
+  * invoking a function (arguments vs parameters)
+* Arrays
+  * What and why is an array?
+  * Anatomy of an array
+    * square brackets: `[]`
+    * `,` delineated
+    * can contain any value that can be stored in a variable
+  * Retrieving array values
+    * zero indexed
+    * 'bracket notation'
+  * `.length`
+  * Looping over an array
 
-## In-Class Code
-[Code that we wrote today](/notes/day-08/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-08/code) -->
+
+## Assignments
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Command Line Tic-tac-toe](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe)
+* [Tic Tac Toe Functions](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe-functions)
 
-<!-- good assignment but a bit much for the struggling students -->
+## Resources

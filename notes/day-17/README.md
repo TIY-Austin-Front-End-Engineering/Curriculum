@@ -1,20 +1,35 @@
 [Table of Contents](/README.md)
 
-# Day 17
+# Day 17 - JS: the `data` attribute, AJAX, `hashchange` routing, functional programming
 
-## Goals:
-* Finish [what is this?](https://github.com/TIY-Austin-Front-End-Engineering/what-is-this) assignment.
-* Constructors
-* Backbone overview
-* Backbone router
-* Backbone models introduction
+## Topics
+* jQuery Data Attributes
+  * `data-` attributes on HTML5 elements
+  * `$(selector).data()`
+* AJAX 1
+  * What and why is AJAX?
+  * `$.ajax()`
+    * defaults - accepts a url and makes a `GET` request
+    * setup/options
+      * HTTP CRUD verbs - `GET`, `PUT`, `POST`, `DELETE`
+    * Why can't get to the data? Learn about the [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (until min. 17)
+    * handlers
+      * `.done()`
+      * `.fail()`
+      * `.always()`
+* Updating DOM using hash changes
+  * `location.hash`
+  * `window.onhashchange`
+* JS Functional Programming (theory)
 
-## In-Class Code
-[Code that we wrote today](/notes/day-17/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [NFL Player Stats](https://github.com/TIY-Austin-Front-End-Engineering/nfl-player-stats)
-* [Router Game](https://github.com/TIY-Austin-Front-End-Engineering/router-game)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-17/code) -->
 
-<!-- These were both good assignments -->
+## Assignments
+[Etsy search page](https://github.com/theironyard/js-assignments/tree/master/APIs/js-template-etsy-search)
+
+## Resources

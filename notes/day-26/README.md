@@ -1,17 +1,33 @@
 [Table of Contents](/README.md)
 
-# Day 33
+# Day 26 - JS: ES2015, Build Tools
 
-## Goals:
-* Babel
-* ES2015
+## Topics
+* Pre-procesor review
+* Babel / ES2015
+  * Modules
+  * Block scoping `let` and read-only `const`
+  * Arrow functions
+  * Destructuring
+  * Learn more cool stuff by reading [Babel's docs](https://babeljs.io/docs/learn-es2015/)
+* Build tools
+  * What and why is a build tool?
+    * Run pre-processors
+    * Minify files
+    * Run development servers
+    * Watch for file changes
+    * Deploy
+  * Gulp
+    * `gulpfile.js`
+  * Node CLI Scripts
 
-## In-Class Code
-[Code that we wrote today](/notes/day-33/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-Resources:
-* [ECMAScript 6 Features](https://github.com/lukehoban/es6features)
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-26/code) -->
 
-## Homework
-* Blog Post - Client project retrospective
-* Tip calculator
+## Assignments
+
+## Resources

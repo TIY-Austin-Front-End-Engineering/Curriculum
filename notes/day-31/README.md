@@ -1,15 +1,31 @@
 [Table of Contents](/README.md)
 
-# Day 21
+# Day 31 - React: Introduction, Components
 
-## Goals:
-* Learn how to build components with React
+## Topics
+* React Introduction
+  * What and why is React?
+    * Not MVC, 1 way data flow
+    * Virtual DOM and diff'ing
+  * Setup
+    * install (via npm)
+      * react
+      * react-dom
+      * babel-preset-react
+      * babel-preset-es2015
+    * import: `import React from 'react';` `import ReactDOM from 'react-dom';`
+* React Components
+  * Syntax - XML + HTML + JS = JSX
+  * Every component must represent a single element
+  * Rendering to the DOM - ReactDOM vs React
 
-## In-Class Code
-[Code that we wrote today](/notes/day-21/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Fresh Job Board Views](https://github.com/TIY-Austin-Front-End-Engineering/fresh-job-board-views)
-* Blog post: Hackathon retrospective. How does working in a team change the way you do development? What will you do differently the next time you work on a development team?
-* Watch this [React in seven minutes](https://egghead.io/lessons/react-react-in-7-minutes) video.
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-31/code) -->
+
+## Assignments
+
+## Resources

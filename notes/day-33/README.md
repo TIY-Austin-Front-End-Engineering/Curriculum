@@ -1,17 +1,18 @@
 [Table of Contents](/README.md)
 
-# Day 23
+# Day 33 - React: Rendering Lists, Events
 
-## Goals:
-* Hoisting
-* Combining Backbone Models and Collections with React
+## Topics
+* React Rendering Lists
+* React Events
 
-## In-Class Code
-[Code that we wrote today](/notes/day-23/code)
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [React mapping assignment](https://github.com/TIY-Austin-Front-End-Engineering/react-mapping)
-* Implement Fresh jobs new job page and list page
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-33/code) -->
 
-<!-- This day was really rough. Need to review mapping and react props before jumping in to rendering lists -->
+## Assignments
+
+## Resources
