@@ -29,5 +29,3 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-26/code) -->
 
 ## Assignments
-
-## Resources

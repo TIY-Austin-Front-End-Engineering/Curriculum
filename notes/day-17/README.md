@@ -25,7 +25,7 @@
     * No side effects
     * Stateless
     * Immutable
-
+    
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
 
