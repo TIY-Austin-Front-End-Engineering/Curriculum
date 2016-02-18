@@ -45,4 +45,10 @@
 ## Assignments
 * Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Command Line Programming Quiz](https://online.theironyard.com/library/paths/115/units/378/assignments/650)
+
 ## Resources
+* [Primitives](../units/javascript-primitives)
+* [Variables](../units/javascript-variables)
+* [Conditional Logic](../units/javascript-if-statements)
+* [Truthy and falsy](http://www.sitepoint.com/javascript-truthy-falsy/)
+* [The Ternary operator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
