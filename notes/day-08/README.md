@@ -41,3 +41,7 @@
 * [Tic Tac Toe Functions](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe-functions)
 
 ## Resources
+* [Loops and iteration - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+* [Writing functions - JS for Cats](http://jsforcats.com/#writing-functions)
+* [Functions - Eloquent JavaScript](http://eloquentjavascript.net/03_functions.html)
+* [Arrays - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)

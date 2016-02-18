@@ -20,11 +20,11 @@ Implement the functions for a tic tac toe game
 
 ##### Notes
 
-You will need to run the npm install command to install all of the necessary dependencies for this project. When you run npm install the node package manager will look at the package.json file and install everything that is listed as a dependency or devDependency.
+> You will need to run the npm install command to install all of the necessary dependencies for this project. When you run npm install the node package manager will look at the package.json file and install everything that is listed as a dependency or devDependency.
 
-You can test to see if the function is working as expected by running the command npm test. This will run through the unit tests and let you know if anything is failing a test. When you begin everything will be failing. As you complete the functions, the tests should start to pass.
+> You can test to see if the function is working as expected by running the command npm test. This will run through the unit tests and let you know if anything is failing a test. When you begin everything will be failing. As you complete the functions, the tests should start to pass.
 
-You can play the actual game by running the command node scripts/main.js.
+> You can play the actual game by running the command node scripts/main.js.
 
 ##### What to Submit
 
