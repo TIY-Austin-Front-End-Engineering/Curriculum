@@ -17,10 +17,6 @@ Re-Create An Etsy Page - example:  https://www.etsy.com/search?q=whiskey
   * You may omit the "Top Categories" section
   * No need to make any of the form elements work.
 
-##### Notes
-
-> Hints go here
-
 ##### What to Submit
 
 A link to a repository with at least the following files:
