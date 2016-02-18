@@ -54,3 +54,8 @@ Think of them as proud parents.
 3. First three layouts from [Mobile Layout 2](https://online.theironyard.com/library/paths/115/units/377/assignments/649)
 
 ## Resources
+* [MDN Documentation for block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+* [MDN Documentation for inline elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+* [CSS Box Model](/units/css-box-model/README.md)
+* [CSS Tricks explains the box model](https://css-tricks.com/the-css-box-model/)
+* [Git Introduction](/units/git-introduction/README.md)
