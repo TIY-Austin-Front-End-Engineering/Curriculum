@@ -51,7 +51,6 @@ Think of them as proud parents.
 ## Assignments
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 2. Answer one of [these questions](http://tiy.breadcrumbsqa.com/) in your own words (even if it already has an answer)
-3. First three layouts from [Mobile Layout 2](https://github.com/TIY-Austin-Front-End-Engineering/mobile-layout-2)
-4. Read [JavaScript Introduction](/units/javascript-introduction)
+3. First three layouts from [Mobile Layout 2](https://online.theironyard.com/library/paths/115/units/377/assignments/649)
 
 ## Resources
