@@ -21,6 +21,10 @@
   * `location.hash`
   * `window.onhashchange`
 * JS Functional Programming (theory)
+  * Functions should be pure
+    * No side effects
+    * Stateless
+    * Immutable
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
@@ -33,9 +37,10 @@
 [Etsy search page](https://github.com/theironyard/js-assignments/tree/master/APIs/js-template-etsy-search)
 
 ## Resources
-[Working with Data Attributes](http://www.abeautifulsite.net/working-with-html5-data-attributes/)
-[Data Attributes - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes)
-[Data Attributes - jQuery docs](https://api.jquery.com/jquery.data/)
-[Understanding the Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-[About Ajax - jQuery](https://learn.jquery.com/ajax/)
-[Basic hashchange router](https://github.com/NicerHugs/basicRouter)
+* [Working with Data Attributes](http://www.abeautifulsite.net/working-with-html5-data-attributes/)
+* [Data Attributes - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes)
+* [Data Attributes - jQuery docs](https://api.jquery.com/jquery.data/)
+* [Understanding the Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [About Ajax - jQuery](https://learn.jquery.com/ajax/)
+* [Basic hashchange router](https://github.com/NicerHugs/basicRouter)
+* [Don't be scared of functional programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
