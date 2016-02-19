@@ -1,9 +1,3 @@
-# Assignment Name
-
-## Description
-
-High level description goes here
-
 ## Explorer Mode
 
 Specific requirements goes here

@@ -1,15 +1,8 @@
 [Table of Contents](/README.md)
 
-# Day 6
+# Day 06 - JavaScript Introduction
 
-<!--
-## In-Class Code
-[Code that we wrote today](/notes/day-05/code)
--->
-
-## Notes:
-
-## Goals:
+## Topics
 * [JavaScript Introduction](/units/javascript-introduction)
 	* The JavaScript interpreter
 	* Turning problems into code / inputs & outputs
@@ -32,17 +25,15 @@
 	* logical operators
 	* if statements
 
-## Homework
+## Notes
+
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
+
+## Assignments
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-06) in your own words (even if it already has an answer)
-1. Mad Lib
-1. Retirement Calculator
-1. Paint Calculator
-1. Tax Calculator
-1. Self-Checkout
-
-
-<!--
-* [Variables and types worksheet](https://github.com/TIY-Austin-Front-End-Engineering/javascript-variables)
-* [Responsive Form](https://github.com/TIY-Austin-Front-End-Engineering/responsive-form)
--->
+1. [Mad Lib](https://online.theironyard.com/library/paths/115/units/378/assignments/678)
+1. [Retirement Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/679)
+1. [Paint Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/680)
