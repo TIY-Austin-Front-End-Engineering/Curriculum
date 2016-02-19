@@ -37,3 +37,9 @@
 1. [Mad Lib](https://online.theironyard.com/library/paths/115/units/378/assignments/678)
 1. [Retirement Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/679)
 1. [Paint Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/680)
+
+## Resources
+* [Primitives](../units/javascript-primitives)
+* [Variables](../units/javascript-variables)
+* [Conditional Logic](../units/javascript-if-statements)
+* [Truthy and falsy](http://www.sitepoint.com/javascript-truthy-falsy/)
