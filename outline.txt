@@ -59,9 +59,9 @@ Day 10
 
 Day 11
   [5] JS Objects
+  - - https://github.com/theironyard/js-assignments/tree/master/JavaScript%20Basics/js-arrays-map-filter
   [3] JS Pass by value / reference
   [5] CSS Grid Systems
-  - https://github.com/theironyard/js-assignments/tree/master/JavaScript%20Basics/js-arrays-map-filter
   - simplified grid system
   [4] CSS Positioning
 
