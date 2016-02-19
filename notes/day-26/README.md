@@ -29,3 +29,4 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-26/code) -->
 
 ## Assignments
+?? Refactoring project? Make the battleship assignment work in the browser? incorporate ES2015 into it?
