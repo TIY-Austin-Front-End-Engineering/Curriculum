@@ -13,7 +13,7 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
 
 ## Assignments
-* Continue working on [Responsive Site](https://online.theironyard.com/library/paths/115/units/377/assignments/647)
+* Continue working on Battleship
 
 ## Resources
 
