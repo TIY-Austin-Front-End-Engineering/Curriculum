@@ -1,48 +1,40 @@
-# Battleship
+# Number Guessing Game
 
 ## Description
 
-Create a command line version of the classic board game
+Create a one player number guessing game
 
 ## Explorer Mode
 
-* Use `prompt`, `confirm`, and `console.log` to make a 2 player game that can be played by viewing the command line on a web browser.
-* Each player should have one ship (battleship), which is 4 spaces long.
-* Each player should have at least 1 board, to keep track of their hits and misses.
-* Begin by asking each player to choose the location of their ship (you can have them specify every coordinate, or perhaps just choose a starting point and a direction).
-* Display the player's board to the user when it is their turn, so that they can choose where to attack next. You can probably reuse some code from the tic-tac-toe assignment for this!
-* On their turn, ask players to attack by inputting coordinates.
-* Check the coordinates given against the location of the opponents ship. If the coordinates match, announce a hit! Otherwise, announce a miss.
-* Keep track of hits and misses on each player's board, so that they can be displayed to the user. You can use whatever characters you like to display a hit or a miss. Unattacked spaces should be denoted by an empty space.
-* Keep track of how many hits a player has made. When a player attacks a space occupied by the other player's battleship, check to see if that was the winning blow!
-* When all 4 spaces occupied by either player's battleship have been attacked, announce the winner, and that game is over.
+* Clone this repo!
+* Change the remote!
+* Edit the `main.js`.
+* You are creating a guessing game. Some elements of the game are already written, but poorly!
+* When the player initiates a game, the computer should pick a random (whole) number between 0 - 100.
+* As the player guesses, the computer should let the player know if they should guess higher or lower.
+* When the player guesses the number, the computer should congratulate them and ask if they want to play again.
+* If the player chooses to play again, the game should reset, and the computer should choose a new number.
+* Create a stylesheet to make your game pretty (but only after your game works)!
 
 ##### Notes
 
-> You may want to use a `while` loop to keep track of turns.
+> There are some notes for you in the `main.js` file
 
 ##### What to Submit
 
-A link to a repository containing at least the following:
+A link to a repo containing at least:
 * `index.html`
 * `main.js`
+* `style.css`
 
 ## Adventurer Mode
 
-Use objects to keep track of more information!
-* Allow the users to input their names with `prompt`, and inform them by name when it is their turn, or they have been hit.
-* Have more than just one ship on the board. In the original battleship game, there are 5 ships:
-  * Aircraft Carrier: 5 long,
-  * Battleship: 4 long,
-  * Submarine: 3 long,
-  * Destroyer: 3 long,
-  * Patrol Boat: 2 long
-* During setup, ask the users to place each one of their pieces in turn. You will probably want to create a second board for each player (much like the actual game) where the player can see their piece placement.
-* Keep track of hits to each ship, and announce the ship by name when it is sunk. You could display a message like "Joey hit Steven's Aircraft Carrier".
-* Remember that no matter how many ships are in the game, the game is still only won by sinking the battleship.
+* Allow the user to select a range of numbers between which to guess.
+* Have the computer keep track of how many turns it took the player to guess the number. Tell the player how many turns it took them to guess after they have won.
 
 ## Epic Mode
 
-* Create AI, so that a single user can play against the computer. Initially set the computer to choose a completely random attack every turn.
-* If you finish that, allow the user to choose `hard` mode, in which the computer will strategically attack, rather than randomly attack
-* For fun, make an `impossible` mode, where the computer just immediately attacks the player's battleship, and therefore wins in 4 moves every time.
+* Minimize the actual logic in any of your functions (including the `guessingGame`) by breaking your code into smaller chunks. Try to make as much of the code as modular as possible - this means finding patterns and re-using code whenever possible.
+* Try to refactor your code so that your functions have return values, and no side effects. You won't be able to completely remove side effects, but see how close you can get.
+
+> Sometimes, if you just add a(nother) parameter to a function, you can use it for two different, but similar situations.
