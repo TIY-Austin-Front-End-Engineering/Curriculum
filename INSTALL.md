@@ -77,9 +77,6 @@ curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zs
 sed -i '.zshrc_original' 's/robbyrussell/dbla/g' ~/.zshrc
 ```
 ```
-sed -i '.zshrc_original' 's/plugins=(git)/plugins=(git sublime)/g' ~/.zshrc
-```
-```
 source ~/.zshrc
 ```
 
@@ -108,6 +105,14 @@ Install the following package:
 1. Babel
 1. LoremIpsum
 1. Sass
+
+### subl command
+> subl command line command
+
+Run this command in iTerm:
+```
+ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+```
 
 ### Git Editor
 > Change git to use Sublime as your editor
