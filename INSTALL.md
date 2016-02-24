@@ -53,6 +53,7 @@ You should also identify yourself to git. Use the following commands:
 git config --global user.name "Your Name"
 git config --global user.email you@example.com
 git config --global credential.helper osxkeychain
+git config --global push.default matching
 ```
 
 ### oh my zsh
