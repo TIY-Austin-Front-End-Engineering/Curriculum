@@ -124,6 +124,21 @@ Using iTerm run the command `brew install node`.
 
 Using iTerm run the command `brew install tree`.
 
+### PostgreSQL
+> PostgreSQL is a powerful, open source object-relational database system.
+
+Using iTerm run the command `brew install postgres`.
+
+#### Important!
+Once postgres is done installing you will see some text in your terminal that looks like this:
+
+```
+To have launchd start postgresql at login:
+  ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+```
+
+Be sure to run the command that starts with `ln -sfv ...` before moving on.
+
 ### Hub
 > hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 
