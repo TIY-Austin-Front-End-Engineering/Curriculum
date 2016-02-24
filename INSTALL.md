@@ -1,17 +1,46 @@
+### Run Software Update
+> We want the newest version of OS X and all updates before we move on.
+
+Follow [these instructions](https://support.apple.com/en-us/HT201541) to update to the newest version of OS X.
+
 ### Chrome
 > A fast free web browser with great web developer tools.
 
-Use [this link](https://www.google.com/chrome/browser/desktop/index.html) to download and install Chrome on your computer. Set chrome as your default web browser.
+Use [this link](https://www.google.com/chrome/browser/desktop/index.html) to download and install Chrome on your computer.
+
+##### Set chrome as your default web browser.
+1. From the Apple menu, choose System Preferences, then click General.
+2. Click the "Default web browser" pop-up menu and choose Chrome.
+
+### Slack Desktop and Mobile Apps
+> Slack is a chat tool that I will use to do all of our online communication.
+
+Use [this link](https://itunes.apple.com/us/app/slack/id803453959?mt=12#) to install the Slack desktop app.
+
+Go to your Applications folder and find Slack. Drag it into your dock.
+
+Open up slack. It will prompt you to enter your teamdomain. Enter: *theironyardatx*
+
+Enter your email address and password.
+
+> You should have received an email with instructions on how to set up your account. If you did not, grab Travis or one of the instructors. 
+
+##### Automatically open Slack on login
+1. From the Apple menu, choose System Preferences, then click Users & Groups.
+1. Make sure your user is selected on the left and then click Login Items on thr upper right.
+1. Click the `+` button to add a new Login Item.
+1. Select Slack from the Applications folder and click Add.
+
+The teamdomain is *theironyardatx*. 
+
+Also go to the app store on your mobile phone and install the slack app for your mobile device as well.
 
 ### iTerm
 > iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with OS 10.5 (Leopard) or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
 
-Use [this link](https://iterm2.com/downloads/stable/iTerm2_v2_0.zip) to download and then install iTerm2.
-
-### Homebrew
-> Homebrew installs the stuff you need that Apple didn’t.
-
-Use [this link](http://brew.sh/) and follow the instructions to install Homebrew. When the intructions reference the Terminal you can use iTerm2 that you just installed instead.
+1. Use [this link](http://iterm2.com/) to download iTerm2.
+1. Drag the iTerm application into your Applications folder.
+1. Drag the iTerm application from your Applications folder into your dock for easy access.
 
 ### Git
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -20,8 +49,25 @@ In iTerm2 type the command `git`. If it is not already installed, it will prompt
 
 You should also identify yourself to git. Use the following commands:
 
+```
 git config --global user.name "Your Name"
 git config --global user.email you@example.com
+git config --global credential.helper osxkeychain
+```
+
+### oh my zsh
+> Gives our terminal a facelift.
+
+In iTerm2 type the following command:
+
+```
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+### Homebrew
+> Homebrew installs the stuff you need that Apple didn’t.
+
+Use [this link](http://brew.sh/) and follow the instructions to install Homebrew. When the intructions reference the Terminal you can use iTerm2 that you just installed instead.
 
 ### Sublime Text 3
 > Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
@@ -60,10 +106,6 @@ Using iTerm run the command `brew install node`. Restart iTerm after you're done
 
 Using iTerm run the command `npm install -g gulp yo mocha eslint htmlhint csslint alarner/generator-tiyfe`.
 
-### Slack Desktop and Mobile Apps
-> Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
-
-Use [this link](https://itunes.apple.com/us/app/slack/id803453959?mt=12#) to install the Slack desktop app. Also go to the app store on your mobile phone and install the slack app for your mobile device as well.
 
 <!--
 ### Various Sublime Packages
