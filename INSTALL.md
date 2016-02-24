@@ -58,10 +58,22 @@ git config --global credential.helper osxkeychain
 ### oh my zsh
 > Gives our terminal a facelift.
 
-In iTerm2 type the following command:
+In iTerm2 run the following commands one by one:
 
 ```
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+```
+curl https://gist.githubusercontent.com/alarner/cf808bc1eccaae7198c6/raw/dbla.zsh-theme > ~/.oh-my-zsh/themes/dbla.zsh-theme
+```
+```
+sed -i '.zshrc_original' 's/robbyrussell/dbla/g' ~/.zshrc
+```
+```
+sed -i '.zshrc_original' 's/plugins=(git)/plugins=(git sublime)/g' ~/.zshrc
+```
+```
+source ~/.zshrc
 ```
 
 ### Homebrew
@@ -79,53 +91,52 @@ Use [this link](http://www.sublimetext.com/3) to download Sublime Text 3 for OS 
 
 Use [this link](https://packagecontrol.io/installation) and follow the instructions to install the Sublime Text 3 package manager. You will need to use Sublime to install the package manager. Be sure to restart Sublime after installing the package manager.
 
-### Sublime Text 3 `subl` Command
-> Sublime Text includes a command line tool, subl, to work with files on the command line. This can be used to open files and projects in Sublime Text, as well working as an EDITOR for unix tools, such as git and subversion.
+### Various Sublime Packages
+Use [this link](https://packagecontrol.io/docs/usage) to read up on how to install new packages using the Sublime Package Manager that you just installed.
 
-1. Using iTerm, type the following command: `mkdir ~/bin`
-2. Now type `nano ~/.bash_profile`. This will open up a command line text editor. You cannot use the mouse. You muse use the arrow keys to move around.
-3. Add the following code at the very end of the file. Don't worry if the file is empty.
+Install the following package:
 
-	```bash
-	# set PATH so it includes user's private bin if it exists
-	if [ -d "$HOME/bin" ] ; then
-	    PATH="$HOME/bin:$PATH"
-	fi
-	```
-4. To save your changes type `ctrl` + `x`. Then press the letter *y* and then press enter.
-5. Use [this link](https://www.sublimetext.com/docs/3/osx_command_line.html) and follow the setup instructions to configure the `subl` command.
-6. You can now set Sublime as the text editor to use for git: `git config --global core.editor "subl -n -w"`
+1. SublimeLinter
+1. SublimeLinter-contrib-eslint
+1. Babel
+1. LoremIpsum
+1. Sass
+
+### Git Editor
+> Change git to use Sublime as your editor
+
+Run this command in iTerm `git config --global core.editor "subl -n -w"`
 
 ### node / npm
 > Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. npm is the package manager for node.
 
-Using iTerm run the command `brew install node`. Restart iTerm after you're done.
+Using iTerm run the command `brew install node`.
 
-### npm packages
-> A streaming build system.
+### tree
+> Tree is a recursive directory listing command that produces a depth indented listing of files
 
-Using iTerm run the command `npm install -g gulp yo mocha eslint htmlhint csslint alarner/generator-tiyfe`.
-
-
-<!--
-### Various Sublime Packages
-Use [this link](https://packagecontrol.io/docs/usage) to read up on how to install new packages using the Sublime Package Manager that you just installed.
--->
-
-### GitHub
-> GitHub is where people build software. More than 10 million people use GitHub to discover, fork, and contribute to over 26 million projects.
-
-Use [this link](https://github.com/join) to sign up for a GitHub account. You just need the free plan. On your profile upload a picture of yourself. This will help me to remember your name.
-
-### GitHub SSH Keys
-> SSH keys are a way to identify trusted computers, without involving passwords.
-
-Use [this link](https://help.github.com/articles/generating-ssh-keys/) and follow the instructions to set up SSH keys for your GitHub account.
+Using iTerm run the command `brew install tree`.
 
 ### Hub
 > hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 
 Using iTerm2, type the following command: `brew install hub`
+
+### npm packages
+> A streaming build system.
+
+Using iTerm run the following commands:
+```
+npm install -g eslint eslint-plugin-react
+```
+```
+curl https://gist.githubusercontent.com/alarner/d7888d68e9228326a71b/raw/.eslintrc > ~/.eslintrc
+```
+
+### GitHub
+> GitHub is where people build software. More than 10 million people use GitHub to discover, fork, and contribute to over 26 million projects.
+
+Use [this link](https://github.com/join) to sign up for a GitHub account. You just need the free plan. On your profile upload a picture of yourself. This will help me to remember your name.
 
 ### Breadcrumbs
 > Breadcrumbs is a question and answer tool where you can practice the things you've learned in the class, help your fellow students and get answers to your questions.
@@ -138,6 +149,11 @@ Use [this link](http://tiy.breadcrumbsqa.com/index/register) to sign up for a Br
 1. Use [this link](https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en) to install the personal block list.
 2. Go to [http://www.w3schools.com/](http://www.w3schools.com/).
 3. Click on the red circle with the hand picture and then click on the link "Block current host: w3schools.com"
+
+### Postman Chrome Extension
+> Postman helps you develop APIs faster.
+
+Install [this chrome extension](https://chrome.google.com/webstore/detail/postman-rest-client-short/mkhojklkhkdaghjjfdnphfphiaiohkef?hl=en).
 
 
 <!-- for next time:
