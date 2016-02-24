@@ -3,7 +3,6 @@
 
 Follow [these instructions](https://support.apple.com/en-us/HT201541) to update to the newest version of OS X.
 
-
 ### Chrome
 > A fast free web browser with great web developer tools.
 
