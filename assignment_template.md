@@ -7,9 +7,17 @@ Specific requirements goes here
 > Hints go here
 
 ##### What to Submit
-
-* `/path/to/file/1`
-* `/path/to/2`
+Link: 
+  * A link to a repo containing:
+    * index.html
+    * main.js
+Notes:
+  * Your confidence level for this assignment, 0-5. (0 is no confidence, 5 is master)
+  * Less than 5? Submit 1 question and 1 answer on Breadcrumbs and include a link to them.
+  * 5? Great! Submit 2 answers on Breadcrumbs and include a link to them.
+  * Did you complete at least "Explorer Mode"?
+  * If no, briefly explain why not.
+  * If yes, how far past Explorer did you get?
 
 ## Adventurer Mode
 
