@@ -82,10 +82,13 @@
 * [03/08/2016 - Day 07 - HTML: Form Elements, CSS: Sass, JS: Booleans and Conditional Logic](/notes/day-06/README.md)
 * [03/07/2016 - Day 06 - JS: Numbers, CSS: Specificity and Positioning](/notes/day-05/README.md)
 
-### Week 1: Basic HTML/CSS/JS
+
 * [03/04/2016 - Day 05 - EXTRA EXTRA: Code Review](/notes/day-04/README.md)
 * [03/03/2016 - Day 04 - JS Variables, CSS Media Queries and Selectors](/notes/day-04/README.md)
 -->
-* [03/02/2016 - Day 03 - JS Introduction, CSS Layout and Centering](/notes/day-03/README.md)
+### Week 1: Basic HTML/CSS
+* [03/04/2016 - Day 05 - Code Review](/notes/day-05/README.md)
+* [03/03/2016 - Day 04 - Media Queries, Form Elements, Sass](/notes/day-04/README.md)
+* [03/02/2016 - Day 03 - CSS Layout, Centering, Selectors](/notes/day-03/README.md)
 * [03/01/2016 - Day 02 - Git, CSS Box Model](/notes/day-02/README.md)
 * [02/29/2016 - Day 01 - Introductions to the Course, Command Line, HTML, CSS](/notes/day-01/README.md)
