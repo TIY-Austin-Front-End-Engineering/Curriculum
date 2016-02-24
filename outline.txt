@@ -1,26 +1,26 @@
 ::::::: Week 1 - Introductions :::::::
 
 Day 1
-  [1] Course Introduction
-  [4] Command Line Introduction
-  [1] HTML Introduction
-  [1] CSS Introduction
+  [1] Course Introduction (separate)
+  [4] Command Line Introduction (Justin)
+  [1] HTML Introduction (Aaron)
+  [1] CSS Introduction (Aaron)
 
-Day 2 (Jess)
-  [4] Git Introduction
-  [3] CSS Box Model + basic display stuff
+Day 2 
+  [4] Git Introduction (Justin)
+  [3] CSS Box Model + basic display stuff (Jess)
 
-Day 3
-  [4] CSS Layout (floats)
-  [4] CSS Centering
-  [1] CSS Fonts
-  [2] CSS Selectors (http://flukeout.github.io/)
+Day 3 
+  [4] CSS Layout (floats) (Abby)
+  [4] CSS Centering (Abby)
+  [1] CSS Fonts (Abby)
+  [2] CSS Selectors (http://flukeout.github.io/) (Aaron)
+  [3] CSS Specificity (Aaron)
 
-Day 4
-  [3] CSS Media Queries
-  [1] HTML Form Elements 
-  [2] Sass
-  [3] CSS Specificity
+Day 4 
+  [3] CSS Media Queries (Aaron)
+  [1] HTML Form Elements (Jess)
+  [2] Sass (Abby)
 
 Day 5
   ** Code Review **
