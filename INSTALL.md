@@ -144,6 +144,21 @@ To have launchd start postgresql at login:
 
 Be sure to run the command that starts with `ln -sfv ...` before moving on.
 
+### Redis
+> Redis is an open source (BSD licensed), in-memory data structure store, used as database, cache and message broker.
+
+Using iTerm run the command `brew install redis`.
+
+#### Important!
+Once redis is done installing you will see some text in your terminal that looks like this:
+
+```
+To have launchd start redis at login:
+  ln -sfv /usr/local/opt/redis/*.plist ~/Library/LaunchAgents
+```
+
+Be sure to run the command that starts with `ln -sfv ...` before moving on.
+
 ### Hub
 > hub is a command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 
