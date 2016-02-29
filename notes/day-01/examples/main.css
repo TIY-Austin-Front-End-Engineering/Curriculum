@@ -1,0 +1,18 @@
+header {
+	height: 2em;
+	background-color: #E6DB74;
+}
+
+section {
+	background-color: #44AF40;
+	margin-top: 0.5em;
+	padding: 1.5em 0;
+}
+
+.greeting {
+	width: 8em;
+	height: 1em;
+	background-color: #fff;
+	margin: 0 auto;
+	border: 16px solid #000;
+}
