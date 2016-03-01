@@ -27,9 +27,8 @@
 
 ## Notes
 
-## Code
-<!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/code) -->
+<!-- ## Code
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-06/examples) -->
 
 ## Assignments
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)

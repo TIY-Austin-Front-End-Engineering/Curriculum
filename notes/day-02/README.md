@@ -46,7 +46,7 @@ Think of them as proud parents.
 * For a full list of inline elements available see the [MDN Documentation for block-level elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 
 <!-- ## Code
-[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-02/code) -->
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-02/examples) -->
 
 ## Assignments
 1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
