@@ -16,7 +16,6 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-03/examples) -->
 
 ## Assignments
-* [Day 03: Breadcrumbs Questions](https://online.theironyard.com/library/paths/115/units/377/assignments/644)
 * Finish [Mobile Layout 2](https://online.theironyard.com/library/paths/115/units/377/assignments/649)
 * [Blog Post: CSS Resets](https://online.theironyard.com/library/paths/115/units/377/assignments/645)
 * Read [CSS Media Queries](/units/css-media-queries)

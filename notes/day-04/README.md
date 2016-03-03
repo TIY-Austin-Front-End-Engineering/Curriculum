@@ -15,7 +15,6 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-04/examples) -->
 
 ## Assignments
-* [Day 04: Breadcrumbs Questions](https://online.theironyard.com/library/paths/115/units/377/assignments/644)
 * [Responsive Site](https://online.theironyard.com/library/paths/115/units/377/assignments/647)
 
 ## Resources

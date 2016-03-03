@@ -28,8 +28,6 @@
 		- BYOM - Bring your own motivation.
 * [Command Line](/units/command-line/README.md)
 	* `touch`, `pwd`, `ls`, `cd`, tab completion, `subl`, `rm`, `rmdir`, `tree`
-* [Trees](/units/trees/README.md)
-* [Paths](/units/paths/README.md)
 * [HTML Documents](/units/html-documents/README.md)
 	* Margin issues
 	* Nesting elements
