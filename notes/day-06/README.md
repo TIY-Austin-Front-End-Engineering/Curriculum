@@ -31,8 +31,6 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-06/examples) -->
 
 ## Assignments
-1. Ask one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-1. Answer one of [these questions](http://tiy.breadcrumbsqa.com/index/index/day-06) in your own words (even if it already has an answer)
 1. [Mad Lib](https://online.theironyard.com/library/paths/115/units/378/assignments/678)
 1. [Retirement Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/679)
 1. [Paint Calculator](https://online.theironyard.com/library/paths/115/units/378/assignments/680)
