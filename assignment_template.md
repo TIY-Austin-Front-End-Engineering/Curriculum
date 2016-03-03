@@ -4,14 +4,14 @@ Specific requirements goes here
 
 ##### Notes
 
-> Hints go here
+  > Hints go here
 
 ##### What to Submit
-Link: 
+* Link:
   * A link to a repo containing:
     * index.html
     * main.js
-Notes:
+* Notes:
   * Your confidence level for this assignment, 0-5. (0 is no confidence, 5 is master)
   * Less than 5? Submit 1 question and 1 answer on Breadcrumbs and include a link to them.
   * 5? Great! Submit 2 answers on Breadcrumbs and include a link to them.

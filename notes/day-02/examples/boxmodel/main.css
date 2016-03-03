@@ -1,0 +1,16 @@
+.tall {
+  background: pink;
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.orange {
+  width: 25%;
+  background: orange;
+  padding: 1em;
+}
+.blue {
+  width: 25%;
+  background: dodgerblue;
+  padding: 1em;
+}

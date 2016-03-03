@@ -1,0 +1,17 @@
+.outer {
+  height: 10em;
+  background: pink;
+}
+
+.inner {
+  height: 1em;
+  background: white;
+  border: 1px solid black;
+
+  /*center the text inside the box*/
+  text-align: center;
+
+  /*center the box itself inside its parent*/
+  width: 8em;
+  margin: 0 auto;
+}
