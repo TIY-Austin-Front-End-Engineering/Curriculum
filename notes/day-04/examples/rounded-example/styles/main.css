@@ -1,0 +1,7 @@
+.rounded {
+	width: 10em;
+	height: 10em;
+	background-color: #333;
+	border-radius: 50% 50% 10% 10%;
+	margin: 5em auto;
+}

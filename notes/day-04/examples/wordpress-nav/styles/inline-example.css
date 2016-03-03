@@ -1,0 +1,16 @@
+.nav-logo > img {
+	height: 2em;
+	padding-right: 1em;
+}
+
+nav {
+	background-color: #2382AE;
+	padding: 0.5em 0;
+}
+
+nav > div {
+	line-height: 2em;
+	display: inline-block;
+	width: 50%;
+	background-color: blue;
+}

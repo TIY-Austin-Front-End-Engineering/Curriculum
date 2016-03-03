@@ -1,0 +1,12 @@
+.info {
+	padding: 2em;
+	background-color: #ccc;
+}
+
+.feature-list {
+	margin-bottom: 1em;
+}
+
+.info .feature-list {
+	border: 1px solid black;
+}

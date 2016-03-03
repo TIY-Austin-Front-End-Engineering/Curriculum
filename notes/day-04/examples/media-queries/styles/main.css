@@ -1,0 +1,38 @@
+section.features {
+	padding: 0.25em;
+	background-color: blue;
+}
+
+section > div {
+	padding: 0.5em;
+	background-color: white;
+	margin-bottom: 1em;
+	font-weight: normal;
+}
+
+@media (min-width: 40em) {
+	section.features {
+		overflow: hidden;
+		background-color: pink;
+	}
+
+	section > div {
+		font-weight: bold;
+		float: left;
+		width: 25%;
+		box-sizing: border-box;
+	}
+}
+
+@media (min-width: 60em) {
+	section.features {
+		width: 55em;
+		margin: 0 auto;
+	}
+}
+
+@media print {
+	section.features {
+		background-color: #ccc;
+	}
+}

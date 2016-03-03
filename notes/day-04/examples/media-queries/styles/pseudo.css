@@ -1,0 +1,9 @@
+div:nth-child(even) {
+	background-color: green;
+}
+
+input:focus {
+	border-bottom: 1px solid #333;
+}
+
+

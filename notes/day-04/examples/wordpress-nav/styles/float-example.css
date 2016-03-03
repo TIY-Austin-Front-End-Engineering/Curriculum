@@ -1,0 +1,28 @@
+nav {
+	background-color: #2382AE;
+	padding: 0.5em 0;
+	overflow: hidden;
+}
+
+nav > a {
+	display: block;
+	color: white;
+	line-height: 2em;
+}
+
+.nav-logo {
+	padding: 0 1em;
+	float: left;
+}
+
+.log-in {
+	float: right;
+	padding: 0 1em;
+}
+
+.nav-logo > img {
+	height: 2em;
+	display: block;
+	float: left;
+	padding-right: 1em;
+}
