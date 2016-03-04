@@ -42,7 +42,6 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-07/examples) -->
 
 ## Assignments
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
 * [Command Line Programming Quiz](https://online.theironyard.com/library/paths/115/units/378/assignments/650)
 
 ## Resources

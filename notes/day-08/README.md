@@ -28,6 +28,7 @@
     * 'bracket notation'
   * `.length`
   * Looping over an array
+* Forking / cloning
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
@@ -36,8 +37,7 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-08/examples) -->
 
 ## Assignments
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [Tic Tac Toe Functions](https://github.com/TIY-Austin-Front-End-Engineering/tic-tac-toe-functions)
+* [Tic Tac Toe Functions](https://online.theironyard.com/library/paths/115/units/378/assignments/994)
 
 ## Resources
 * [Loops and iteration - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)

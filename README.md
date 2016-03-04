@@ -86,14 +86,13 @@
 * [03/04/2016 - Day 05 - EXTRA EXTRA: Code Review](/notes/day-04/README.md)
 * [03/03/2016 - Day 04 - JS Variables, CSS Media Queries and Selectors](/notes/day-04/README.md)
 -->
-<!--
+
 ### Week 2: Hello JavaScript
 * [03/11/2016 - Day 10 - One on Ones](/notes/day-10/README.md)
-* [03/10/2016 - Day 09 - Array Review and Loops](/notes/day-09/README.md)
-* [03/09/2016 - Day 08 - Functions and Arrays](/notes/day-08/README.md)
+* [03/10/2016 - Day 09 - ForEach, Map, Filter, Reduce](/notes/day-09/README.md)
+* [03/09/2016 - Day 08 - Loops, Functions, Arrays](/notes/day-08/README.md)
 * [03/08/2016 - Day 07 - Primitives and Conditional Logic](/notes/day-07/README.md)
 * [03/07/2016 - Day 06 - JS Introduction](/notes/day-06/README.md)
--->
 
 ### Week 1: Basic HTML/CSS
 * [03/04/2016 - Day 05 - Code Review](/notes/day-05/README.md)

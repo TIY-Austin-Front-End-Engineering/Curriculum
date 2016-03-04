@@ -23,7 +23,8 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-09/examples) -->
 
 ## Assignments
-Battleship
+[Number Guessing Game](https://online.theironyard.com/library/paths/115/units/378/assignments/995)
+[JavaScript Function Practice](https://online.theironyard.com/library/paths/115/units/378/assignments/996)
 
 ## Resources
 [`.forEach()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
