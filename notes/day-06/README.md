@@ -45,5 +45,5 @@
 ## Resources
 * [Primitives](/units/javascript-primitives)
 * [Variables](/units/javascript-variables)
-* [Conditional Logic](/units/javascript-if-statements)
+* [Conditional Logic](/units/javascript-conditional-logic)
 * [Truthy and falsy](http://www.sitepoint.com/javascript-truthy-falsy/)
