@@ -11,6 +11,8 @@
 * [JavaScript Introduction](/units/javascript-introduction)
 	* The JavaScript interpreter
 	* Turning problems into code / inputs & outputs
+* Bi-weekly assessment
+
 * console
 * strings
 * Saying Hello
