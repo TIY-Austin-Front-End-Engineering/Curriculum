@@ -3,6 +3,11 @@
 # Day 06 - JavaScript Introduction
 
 ## Topics
+* Homework Review
+	* Everyone did mobile first! Great job!
+* Homework rules
+	* submission template, url = github
+	* submission deadline = midnight the night before
 * [JavaScript Introduction](/units/javascript-introduction)
 	* The JavaScript interpreter
 	* Turning problems into code / inputs & outputs
