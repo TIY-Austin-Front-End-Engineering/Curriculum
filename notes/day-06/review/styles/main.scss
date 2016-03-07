@@ -1,0 +1,53 @@
+body {
+	background-color: #000;
+}
+
+nav {
+	ul {
+		list-style: none;
+		overflow: hidden;
+		padding: 0;
+		li {
+			float: left;
+		}
+	}
+	a {
+		color: green;
+	}
+}
+
+.pricing {
+	> div {
+		height: 30em;
+	}
+}
+
+.personal {
+	background-color: red;
+}
+
+.small-business {
+	background-color: green;
+}
+
+.enterprise {
+	background-color: blue;
+}
+
+.other {
+	background-color: pink;
+}
+
+@media (min-width: 479px) {
+	section.pricing {
+		overflow: hidden;
+		> div {
+			float: left;
+			width: 50%;
+			box-sizing: border-box;
+			border-left: 0.5em solid rgba(255, 255, 255, 0.1);
+			border-right: 0.5em solid rgba(255, 255, 255, 0.1);
+			margin-bottom: 0.5em;
+		}
+	}
+}
