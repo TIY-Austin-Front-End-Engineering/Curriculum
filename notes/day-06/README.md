@@ -34,8 +34,8 @@
 
 ## Notes
 
-<!-- ## Code
-[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-06/examples) -->
+## Code
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-06/examples)
 
 ## Assignments
 1. [Mad Lib](https://online.theironyard.com/library/paths/115/units/378/assignments/678)
