@@ -23,12 +23,12 @@
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-09/examples) -->
 
 ## Assignments
-[Number Guessing Game](https://online.theironyard.com/library/paths/115/units/378/assignments/995)
-[JavaScript Function Practice](https://online.theironyard.com/library/paths/115/units/378/assignments/996)
+* [Number Guessing Game](https://online.theironyard.com/library/* paths/115/units/378/assignments/995)
+* [JavaScript Function Practice](https://online.theironyard.com/library/paths/115/units/378/assignments/996)
 
 ## Resources
-[`.forEach()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-[`.map()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-[`.filter()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-[`.reduce()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
-[5 Array Methods](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
+* [`.forEach()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+* [`.map()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [`.filter()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+* [`.reduce()` - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+* [5 Array Methods](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
