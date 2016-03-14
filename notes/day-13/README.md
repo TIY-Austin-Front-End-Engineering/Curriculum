@@ -26,9 +26,6 @@
 [Code that we wrote today](/notes/day-13/code)
 
 ## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [jQuery Like Button](https://github.com/TIY-Austin-Front-End-Engineering/jquery-like)
-* [jQuery Loading Button](https://github.com/TIY-Austin-Front-End-Engineering/jquery-loading-button)
-* [jQuery Tabs](https://github.com/TIY-Austin-Front-End-Engineering/jquery-tabs)
+* Constructor assignment
 
 <!-- right amount of difficulty. hard / nightmare mode are good too -->

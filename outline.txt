@@ -74,7 +74,6 @@ Day 12
 Day 13
   [5] JS this, call, apply
   [5] JS Constructors
-  [1] JS Dates
 
 Day 14 (Jess)
   [4] JS Prototypes

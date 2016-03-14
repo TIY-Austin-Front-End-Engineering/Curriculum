@@ -164,7 +164,7 @@ Be sure to run the command that starts with `ln -sfv ...` before moving on.
 
 Using iTerm2, type the following command: `brew install hub`
 
-Then run `git config --global hub.protocol http`
+Then run `git config --global hub.protocol https`
 
 ### npm packages
 > A streaming build system.

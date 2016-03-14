@@ -67,25 +67,14 @@
 * [03/23/2016 - Day 18 - AJAX](/notes/day-15/README.md)
 * [03/22/2016 - Day 17 - jQuery Forms, `this`](/notes/day-14/README.md)
 * [03/21/2016 - Day 16 - Intro jQuery](/notes/day-13/README.md)
+-->
 
 ### Week 3: Advanced JS
-* [03/19/2016 - Day 15 - EXTRA EXTRA: JS Review](/notes/day-04/README.md)
-* [03/17/2016 - Day 14 - Interacting with the DOM, Events](/notes/day-12/README.md)
-* [03/16/2016 - Day 13 - Functions Review](/notes/day-11/README.md)
-* [03/15/2016 - Day 12 - Functions Review & Unit Testing](/notes/day-10/README.md)
-* [03/14/2016 - Day 11 - Functions](/notes/day-09/README.md)
-
-### Week 2: Advanced HTML/CSS, Basic JS
-* [03/11/2016 - Day 10 - One on Ones](/notes/day-04/README.md)
-* [03/10/2016 - Day 09 - JS: Objects and Loops](/notes/day-08/README.md)
-* [03/09/2016 - Day 08 - JS: Functions and Arrays](/notes/day-07/README.md)
-* [03/08/2016 - Day 07 - HTML: Form Elements, CSS: Sass, JS: Booleans and Conditional Logic](/notes/day-06/README.md)
-* [03/07/2016 - Day 06 - JS: Numbers, CSS: Specificity and Positioning](/notes/day-05/README.md)
-
-
-* [03/04/2016 - Day 05 - EXTRA EXTRA: Code Review](/notes/day-04/README.md)
-* [03/03/2016 - Day 04 - JS Variables, CSS Media Queries and Selectors](/notes/day-04/README.md)
--->
+* [03/19/2016 - Day 15 - EXTRA EXTRA: JS Review](/notes/day-15/README.md)
+* [03/17/2016 - Day 14 - Prototypes, Regex](/notes/day-14/README.md)
+* [03/16/2016 - Day 13 - this, call apply, constructors](/notes/day-13/README.md)
+* [03/15/2016 - Day 12 - JS Scoping, Hoisting and Events](/notes/day-12/README.md)
+* [03/14/2016 - Day 11 - JS Objects, CSS Positioning and Grid Systems](/notes/day-11/README.md)
 
 ### Week 2: Hello JavaScript
 * [03/11/2016 - Day 10 - One on Ones](/notes/day-10/README.md)

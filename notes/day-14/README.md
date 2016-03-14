@@ -27,7 +27,7 @@
 
 ## Assignments
 [Regex Crossword](https://regexcrossword.com/) (tutorial and beginner level)
-[Vanilla JS ToDo](https://github.com/TIY-Austin-Front-End-Engineering/vanilla-todo)
+[Vanilla JS ToDo](https://online.theironyard.com/library/paths/115/units/378/assignments/1271)
 
 ## Resources
 * [Prototypes - JS is Sexy](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
