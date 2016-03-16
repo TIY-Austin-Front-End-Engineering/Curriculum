@@ -17,6 +17,8 @@
     * patterns
     * flags
   * `.match()`, `.replace()`
+* this, call, apply
+* Array methods: mutable vs. immutable
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
