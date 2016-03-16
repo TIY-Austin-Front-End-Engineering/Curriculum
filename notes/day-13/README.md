@@ -5,8 +5,8 @@
 ## Topics
 * Array methods: mutable vs. immutable
 * [JS Hoisting](https://github.com/TIY-Austin-Front-End-Engineering/hoisting-worksheet)
-* Interacting with the DOM
-* Events Listeners
+* Constructors
+* this, call, apply
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
