@@ -19,6 +19,7 @@
   * `.match()`, `.replace()`
 * this, call, apply
 * Array methods: mutable vs. immutable
+* Positioning
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
