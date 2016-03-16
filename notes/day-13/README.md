@@ -1,31 +1,21 @@
 [Table of Contents](/README.md)
 
-# Day 13
+# Day 13 - Scoping, Hoisting, DOM events
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+## Topics
+* Array methods: mutable vs. immutable
+* [JS Hoisting](https://github.com/TIY-Austin-Front-End-Engineering/hoisting-worksheet)
+* Interacting with the DOM
+* Events Listeners
 
-## Notes:
-* Review QotD
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Goals:
-* jQuery
-	* Acting / play example
-	* Selecting elements
-	* Adding event listeners
-	* Changing HTML
-	* Changing CSS
-	* Others
-		* Animate
-		* Toggle
-		* Slide
-* Data attributes
-* setInterval
+<!-- ## Code
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-11/examples) -->
 
-## In-Class Code
-[Code that we wrote today](/notes/day-13/code)
+## Assignments
+* [Games of Chance](https://online.theironyard.com/library/paths/115/units/383/assignments/1301)
 
-## Homework
-* Constructor assignment
-
-<!-- right amount of difficulty. hard / nightmare mode are good too -->
+## Resources
+* [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

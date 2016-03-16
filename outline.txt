@@ -61,23 +61,24 @@ Day 11
   [5] JS Objects
   - - https://github.com/theironyard/js-assignments/tree/master/JavaScript%20Basics/js-arrays-map-filter
   [3] JS Pass by value / reference
-  [5] CSS Grid Systems
+  [5] CSS Grid Systems (this was rushed)
   - simplified grid system
-  [4] CSS Positioning
+  [4] CSS Positioning (didn't get to this)
 
 Day 12
   [3] JS Scoping
-  [3] JS Hoisting
   [2] JS Interacting with the DOM
   [3] JS Events I (practical)
 
 Day 13
-  [5] JS this, call, apply
   [5] JS Constructors
+  [5] JS this, call, apply
+  [3] JS Hoisting
 
 Day 14 (Jess)
   [4] JS Prototypes
   [4] JS Regex
+  [4] CSS Positioning
 
 Day 15
   ** Review ** 
