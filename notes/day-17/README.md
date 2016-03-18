@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 17 - JS: the `data` attribute, AJAX, `hashchange` routing, functional programming
+# Day 17 - JS: the `data` attribute and AJAX
 
 ## Topics
 * jQuery Data Attributes

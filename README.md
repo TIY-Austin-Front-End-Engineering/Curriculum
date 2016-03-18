@@ -60,14 +60,15 @@
 * [03/30/2016 - Day 23 - Views](/notes/day-19/README.md)
 * [03/29/2016 - Day 22 - Models, Collections](/notes/day-18/README.md)
 * [03/28/2016 - Day 21 - Router, Classes, Models](/notes/day-17/README.md)
-
-### Week 4: jQuery
-* [03/25/2016 - Day 20 - One on Ones](/notes/day-04/README.md)
-* [03/24/2016 - Day 19 - Multi-user git projects, Review](/notes/day-16/README.md)
-* [03/23/2016 - Day 18 - AJAX](/notes/day-15/README.md)
-* [03/22/2016 - Day 17 - jQuery Forms, `this`](/notes/day-14/README.md)
 * [03/21/2016 - Day 16 - Intro jQuery](/notes/day-13/README.md)
 -->
+
+### Week 4: jQuery
+* [03/25/2016 - Day 20 - One on Ones](/notes/day-20/README.md)
+* [03/25/2016 - Day 19 - Node Introduction](/notes/day-19/README.md)
+* [03/24/2016 - Day 18 - More AJAX, Client Side Routing, Functional Programming](/notes/day-18/README.md)
+* [03/23/2016 - Day 17 - the `data` attribute and AJAX](/notes/day-17/README.md)
+* [03/22/2016 - Day 16 - jQuery Introduction](/notes/day-16/README.md)
 
 ### Week 3: Advanced JS
 * [03/19/2016 - Day 15 - EXTRA EXTRA: JS Review](/notes/day-15/README.md)
