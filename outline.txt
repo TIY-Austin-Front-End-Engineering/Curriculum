@@ -66,19 +66,18 @@ Day 11
   [4] CSS Positioning (didn't get to this)
 
 Day 12
-  [3] JS Scoping
-  [2] JS Interacting with the DOM
+  [3] JS Scoping (maybe introduce this with functions)
+  [2] JS Interacting with the DOM (this should be on Wednesday to lead into weekend assignment)
   [3] JS Events I (practical)
 
 Day 13
   [5] JS Constructors
-  [5] JS this, call, apply
-  [3] JS Hoisting
+  [3] JS Hoisting (maybe introduce this with functions)
 
 Day 14 (Jess)
   [4] JS Prototypes
-  [4] JS Regex
-  [4] CSS Positioning
+  [4] JS Regex (didn't get to this, that's okay)
+  [4] CSS Positioning (didn't get to this, that's okay, do later)
 
 Day 15
   ** Review ** 
@@ -88,6 +87,7 @@ Day 15
 ::::::: Week 4 - jQuery :::::::
 
 Day 16
+  [5] JS this, call, apply
   [3] npm / package manager
   [3] jQuery Introduction
   [3] jQuery Forms
@@ -96,13 +96,11 @@ Day 16
 Day 17 (Jess)
   [3] jQuery Data Attributes
   [4] AJAX 1
-  [3] Client Side Routing
-  [2] JS Functional Programming (theory)
 
 Day 18
-  [3] jQuery Plugins
   [4] AJAX 2
-  [5] JS Currying
+  [3] Client Side Routing
+  [2] JS Functional Programming (theory)
 
 Day 19
   Node introduction

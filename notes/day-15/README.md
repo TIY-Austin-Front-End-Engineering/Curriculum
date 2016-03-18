@@ -1,22 +1,16 @@
 [Table of Contents](/README.md)
 
-# Day 15
+# Day 15 - JS: Prototypes, Regex
 
-## QotD:
-* [Questions of the Day](http://www.classmarker.com/)
+## Topics
 
-## Notes:
-* Review QotD
+## Notes
+<!-- More detailed notes from class, including whiteboard photos etc -->
 
-## Goals:
-* AJAX (http://tiyfe.herokuapp.com/collections/...)
-* In-class chat example
+## Code
+<!-- Make sure to update the XX in the folder name if you uncomment this block-->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-14/code) -->
 
-## In-Class Code
-[Code that we wrote today](/notes/day-15/code)
-
-## Homework
-* Ask *and answer* one question on [Breadcrumbs](http://tiy.breadcrumbsqa.com/)
-* [jQuery Chat Application](https://github.com/TIY-Austin-Front-End-Engineering/jquery-chat-application)
-
-<!-- students really love this assignment and seem to be able to tackle it in a night -->
+## Assignments
+[Regex Crossword](https://regexcrossword.com/) (tutorial and beginner level)
+[Vanilla JS ToDo](https://online.theironyard.com/library/paths/115/units/378/assignments/1271)
