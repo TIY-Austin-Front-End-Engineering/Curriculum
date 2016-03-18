@@ -1,6 +1,6 @@
 [Table of Contents](/README.md)
 
-# Day 16 - JS: Prototypes, Regex
+# Day 16 - jQuery Introduction
 
 ## Topics
 * Review: this, call, apply
