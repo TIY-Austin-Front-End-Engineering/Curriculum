@@ -1,0 +1,29 @@
+{
+  "name": "jquery-introduction",
+  "version": "1.0.0",
+  "description": "A introduction to the jQuery library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIY-Austin-Front-End-Engineering/Curriculum.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "fun!"
+  ],
+  "author": "Aaron Larner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/issues"
+  },
+  "homepage": "https://github.com/TIY-Austin-Front-End-Engineering/Curriculum#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2",
+    "normalize.css": "^4.0.0"
+  }
+}
