@@ -11,6 +11,7 @@ Specific requirements goes here
   * A link to a repo containing:
     * index.html
     * main.js
+    * .surgeignore with contents of `!node_modules/`
 * Notes:
   * Your confidence level for this assignment, 0-5. (0 is no confidence, 5 is master)
   * Less than 5? Submit 1 question and 1 answer on Breadcrumbs and include a link to them.

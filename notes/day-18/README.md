@@ -21,8 +21,9 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-14/code) -->
 
 ## Assignments
-* [jQuery Instagram Clone]()
-
+* [Continue Working on Etsy Search Page](https://online.theironyard.com/library/paths/115/units/863/assignments/1424)
+	* It should be responsive and styles to look exactly like the etsy website.
+	
 ## Resources
 * [jQuery Ajax Tutorial #1 - Using AJAX & API's (jQuery Tutorial #7)](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
 * [Deep dive into client-side routing](http://krasimirtsonev.com/blog/article/deep-dive-into-client-side-routing-navigo-pushstate-hash)
