@@ -1,0 +1,64 @@
+body {
+  font-family: 'Graphik Web', Arial, Helvetica, sans-serif; }
+
+.item-container {
+  width: 14.1875em;
+  height: 14.1875em;
+  border-radius: 3px;
+  border: 1px solid #E1E3DF;
+  border-bottom-color: #CBCCC9; }
+
+.image {
+  background-image: url(https://img1.etsystatic.com/042/2/6193270/il_340x270.609983435_dn0w.jpg);
+  height: 11.125em;
+  display: block; }
+  .image:hover .heart {
+    display: block; }
+  .image:hover .list {
+    display: block; }
+
+.item-title {
+  height: 1em;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0.375rem;
+  text-overflow: ellipsis;
+  font-size: 0.75em;
+  color: #444444; }
+
+.item-info {
+  padding: 0 0.375em; }
+
+.user {
+  float: left;
+  display: block;
+  font-size: 0.75em;
+  color: #9a9a9a;
+  text-decoration: none; }
+  .user:hover {
+    text-decoration: underline; }
+
+.price {
+  float: right;
+  font-size: 0.75em;
+  color: #78c042; }
+
+.heart {
+  float: right;
+  width: 2em;
+  height: 2em;
+  background-color: black;
+  display: block;
+  margin: 0.3em;
+  display: none; }
+
+.list {
+  float: right;
+  width: 2.5em;
+  height: 2em;
+  background-color: black;
+  display: block;
+  margin: 0.3em;
+  display: none; }
+
+/*# sourceMappingURL=main.css.map */
