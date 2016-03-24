@@ -65,8 +65,8 @@
 
 ### Week 4: jQuery
 * [03/25/2016 - Day 20 - One on Ones](/notes/day-20/README.md)
-* [03/25/2016 - Day 19 - Node Introduction](/notes/day-19/README.md)
-* [03/24/2016 - Day 18 - More AJAX, Client Side Routing, Functional Programming](/notes/day-18/README.md)
+* [03/25/2016 - Day 19 - Client Side Routing, Functional Programming](/notes/day-19/README.md)
+* [03/24/2016 - Day 18 - More AJAX](/notes/day-18/README.md)
 * [03/23/2016 - Day 17 - the `data` attribute and AJAX](/notes/day-17/README.md)
 * [03/22/2016 - Day 16 - jQuery Introduction](/notes/day-16/README.md)
 
