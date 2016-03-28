@@ -1,0 +1,25 @@
+{
+  "name": "unit-test-install",
+  "version": "1.0.0",
+  "description": "Practice installing mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "birthday": "echo 'Happy birthday!!!'"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "unit",
+    "tests"
+  ],
+  "author": "Aaron Larner",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
