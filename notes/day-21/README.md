@@ -15,7 +15,7 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-21/examples) -->
 
 ## Assignments
-* [Unit Testing Functions]()
+* [Unit Testing Functions](https://online.theironyard.com/library/paths/115/units/863/assignments/1515)
 
 ## Resources
 * [Unit Testing with Mocha and Chai](/units/unit-testing/README.md)

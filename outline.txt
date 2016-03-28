@@ -132,7 +132,6 @@ Day 24
 
 Day 25
   * Exam #2 Review
-  ** SQL Extra Lecture **
 
 ======= Whiteboarding Problems? Phaser Game? =======
 
