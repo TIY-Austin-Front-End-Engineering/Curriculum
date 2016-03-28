@@ -99,11 +99,13 @@ Day 17 (Jess)
 
 Day 18
   [4] AJAX 2
-  [3] Client Side Routing
-  [2] JS Functional Programming (theory)
+  [3] Client Side Routing (didn't get to this)
+  [2] JS Functional Programming (theory, didn't get to this)
 
 Day 19
-  Node introduction
+  Node introduction (this was not the right time for node so we didn't do it)
+  [3] Client Side Routing (didn't get to this)
+  [2] JS Functional Programming (theory, moved from the previous, wasn't the best lecture)
 
 Day 20
   ** One on ones **
@@ -113,19 +115,23 @@ Day 20
 ::::::: Week 5 - Review :::::::
 
 Day 21
-  Unit Testing Introduction
+  * Unit Testing Introduction
   Unit Testing Functions Assignment
 
 Day 22
+  * Exam #1
   Unit Testing Functions Assignment
 
 Day 23
+  * Exam #1 Review
   Unit Testing Functions Assignment
 
 Day 24
+  * Exam #2
   Unit Testing Functions Assignment
 
 Day 25
+  * Exam #2 Review
   ** SQL Extra Lecture **
 
 ======= Whiteboarding Problems? Phaser Game? =======
@@ -141,6 +147,7 @@ Day 26 (Jess)
 Day 27 (Jess)
   Morning Whiteboarding
   Backbone Introduction
+  [4] CSS Positioning 
   [5] Views Part 1
 
 Day 28

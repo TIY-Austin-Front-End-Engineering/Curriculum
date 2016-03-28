@@ -53,15 +53,14 @@
 * [04/06/2016 - Day 28 - Rendering lists in React](/notes/day-23/README.md)
 * [04/05/2016 - Day 27 - Data driven components](/notes/day-22/README.md)
 * [04/04/2016 - Day 26 - Hackathon Retro, Rendering React Components](/notes/day-21/README.md)
-
-### Week 5: Backbone
-* [04/01/2016 - Day 25 - EXTRA EXTRA: SQL](/notes/day-20/README.md)
-* [03/31/2016 - Day 24 - Advanced Git/GitHub, Hackathon](/notes/day-20/README.md)
-* [03/30/2016 - Day 23 - Views](/notes/day-19/README.md)
-* [03/29/2016 - Day 22 - Models, Collections](/notes/day-18/README.md)
-* [03/28/2016 - Day 21 - Router, Classes, Models](/notes/day-17/README.md)
-* [03/21/2016 - Day 16 - Intro jQuery](/notes/day-13/README.md)
 -->
+
+### Week 5: Review
+* [03/31/2016 - Day 25 - Exam 2 Review](/notes/day-25/README.md)
+* [03/30/2016 - Day 24 - Exam 2](/notes/day-24/README.md)
+* [03/29/2016 - Day 23 - Exam 1 Review](/notes/day-23/README.md)
+* [03/28/2016 - Day 22 - Exam 1](/notes/day-22/README.md)
+* [03/21/2016 - Day 21 - Unit Testing](/notes/day-21/README.md)
 
 ### Week 4: jQuery
 * [03/25/2016 - Day 20 - One on Ones](/notes/day-20/README.md)

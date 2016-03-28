@@ -1,16 +1,19 @@
 [Table of Contents](/README.md)
 
-# Day 24 - Exam 2 Review
+# Day 22 - Exam 1
 
 ## Topics
-* Exam 2 Review
+* Exam 1
+	* 2 hour time limit
+	* Part 1 with computer
+	* Part 2 pen / paper only
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-25/examples) -->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-22/examples) -->
 
 ## Assignments
 * [Unit Testing Functions]()
