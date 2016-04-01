@@ -114,6 +114,9 @@ Day 20
 
 ::::::: Week 5 - Review :::::::
 
+- This week assignment needs checkpoints
+- One on ones worked out really well. Got a great picture of where everyone was.
+
 Day 21
   * Unit Testing Introduction
   Unit Testing Functions Assignment
@@ -141,6 +144,8 @@ Day 26 (Jess)
   Morning Whiteboarding
   [4] Babel / ES2015
   [4] Gulp
+  Browserify
+  require
   [3] Node CLI scripts
 
 Day 27 (Jess)
@@ -154,6 +159,7 @@ Day 28
   [5] Views Part 2
   [3] Models
   [3] Collections
+  - Refactor todo list using backbone
 
 Day 29
   Morning Whiteboarding
