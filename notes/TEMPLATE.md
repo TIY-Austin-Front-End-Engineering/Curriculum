@@ -12,7 +12,7 @@
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-XX/examples) -->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-XX/examples) -->
 
 ## Assignments
 * Current Assignment [ported to TIY-Online](https://online.theironyard.com/library/paths/109/units/370/assignments/569)

@@ -20,7 +20,7 @@
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-14/code) -->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-14/code) -->
 
 ## Assignments
 * [jQuery Image Board](https://online.theironyard.com/library/paths/115/units/863/assignments/1476)

@@ -28,7 +28,7 @@
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/feb2016/notes/day-31/code) -->
+<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-31/code) -->
 
 ## Assignments
 
