@@ -45,7 +45,7 @@ These lines configure our browserify to first run the code through the babel tra
 To compile es2015 or later code:
 ```shell
 $ npm install --save-dev babelify
-$ watchify <path to source js file> -d --outfile <path to dist file>
+$ watchify <path to source js file> -d -v --outfile <path to dist file>
 ```
 For this to work you must have at some point in the past globally installed browserify and watchify.
 The `-d` flag enables source mapping.
