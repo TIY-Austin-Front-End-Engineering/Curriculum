@@ -1,1 +1,4 @@
-console.log("hi")
+import hello from './hello.js';
+console.log("bye")
+
+hello();
