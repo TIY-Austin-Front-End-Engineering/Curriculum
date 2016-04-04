@@ -17,8 +17,8 @@
     * Run development servers
     * Watch for file changes
     * Deploy
-  * Gulp
-    * `gulpfile.js`
+  <!-- * Gulp
+    * `gulpfile.js` -->
   * Node CLI Scripts
 
 ## Notes
@@ -26,7 +26,7 @@
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
-<!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-26/code) -->
+[Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-26/code)
 
 ## Assignments
-?? Refactoring project? Make the battleship assignment work in the browser? incorporate ES2015 into it?
+[Refactored Image Board](https://online.theironyard.com/library/paths/115/units/383/assignments/1636)
