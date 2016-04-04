@@ -25,12 +25,30 @@ To compile your sass into a different directory:
 $ sass --watch <path to source scss file>:<path to dist file>
 ```
 Use underscores to denote partials - scss files that will be imported into the main scss file. They will not be compiled into their own scss file, but can be imported in to other scss files.
+add the following to your `package.json` object
+
+```js
+"browserify": {
+  "transform": [
+    "babelify"
+  ]
+},
+"babel": {
+  "sourceType": "module",
+  "presets": [
+    "es2015"
+  ]
+},
+```
+These lines configure our browserify to first run the code through the babel transpiler, and configure babel to allow modules (imports and exports) and use the es2015 library.
 
 To compile es2015 or later code:
 ```shell
 $ npm install --save-dev babelify
-$ browserify <path to source js file> -t babelify --outfile <path to dist file>
+$ watchify <path to source js file> -d --outfile <path to dist file>
 ```
+For this to work you must have at some point in the past globally installed browserify and watchify.
+The `-d` flag enables source mapping.
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->

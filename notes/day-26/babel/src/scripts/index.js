@@ -1,4 +1,4 @@
-var hello  = require('./hello.js');
+import hello from './hello.js';
 console.log("bye")
 
 hello();
