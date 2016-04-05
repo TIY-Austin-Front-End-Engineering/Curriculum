@@ -3,6 +3,8 @@
 # Day 27 - Backbone: Introduction, Views part 1
 
 ## Topics
+* Build tool (examples: Grunt, Gulp, Broccoli, Webpack)
+* Webpack setup
 * Backbone Introduction
   * What and why is MVC?
   * Dependencies
@@ -29,4 +31,4 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-27/code) -->
 
 ## Assignments
-Start a 2 day Backbone project. Day 1 (this day) is just making a site with static views
+<!-- Start a 2 day Backbone project. Day 1 (this day) is just making a site with static views -->
