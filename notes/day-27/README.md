@@ -3,6 +3,8 @@
 # Day 27 - Backbone: Introduction, Views part 1
 
 ## Topics
+* Build tool (examples: Grunt, Gulp, Broccoli, Webpack)
+* Webpack setup
 * Backbone Introduction
   * What and why is MVC?
   * Dependencies
