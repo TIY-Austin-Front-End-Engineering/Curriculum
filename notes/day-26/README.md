@@ -55,4 +55,4 @@ The `-d` flag enables source mapping.
 [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-26/code)
 
 ## Assignments
-[Refactored Image Board](https://online.theironyard.com/library/paths/115/units/383/assignments/1636)
+* [Refactored Image Board](https://online.theironyard.com/library/paths/115/units/383/assignments/1636)

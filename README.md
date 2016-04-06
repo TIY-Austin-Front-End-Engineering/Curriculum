@@ -46,14 +46,14 @@
 * [04/13/2016 - Day 33 - Parse CRUD, Hoisting](/notes/day-27/README.md)
 * [04/12/2016 - Day 32 - Component communication with events, Regex](/notes/day-26/README.md)
 * [04/11/2016 - Day 31 - Parse user authentication](/notes/day-25/README.md)
-
-### Week 6: React
-* [04/08/2016 - Day 30 - One on Ones](/notes/day-20/README.md)
-* [04/07/2016 - Day 29 - React Review](/notes/day-24/README.md)
-* [04/06/2016 - Day 28 - Rendering lists in React](/notes/day-23/README.md)
-* [04/05/2016 - Day 27 - Data driven components](/notes/day-22/README.md)
-* [04/04/2016 - Day 26 - Hackathon Retro, Rendering React Components](/notes/day-21/README.md)
 -->
+
+### Week 6: Backbone
+* [04/08/2016 - Day 30 - One on Ones](/notes/day-30/README.md)
+* [04/07/2016 - Day 29 - Router](/notes/day-29/README.md)
+* [04/06/2016 - Day 28 - Models & Collections](/notes/day-28/README.md)
+* [04/05/2016 - Day 27 - Backbone Introduction](/notes/day-27/README.md)
+* [04/04/2016 - Day 26 - Babel & Browserify](/notes/day-26/README.md)
 
 ### Week 5: Review
 * [03/31/2016 - Day 25 - Exam 2 Review](/notes/day-25/README.md)

@@ -147,6 +147,7 @@ Day 26 (Jess)
   Browserify
   require
   [3] Node CLI scripts
+  * Had a good long review of e.target
 
 Day 27 (Jess)
   Morning Whiteboarding
