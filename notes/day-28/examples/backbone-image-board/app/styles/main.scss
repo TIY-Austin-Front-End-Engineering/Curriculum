@@ -1,0 +1,25 @@
+@import 'variables';
+
+body {
+  background: $light-grey;
+}
+
+#image-list {
+	margin: 0 8em;
+}
+
+.image {
+	position: relative;
+	padding: 1em;
+	background-color: #fff;
+	img {
+		display: block;
+		width: 100%;
+	}
+
+	button {
+		position: absolute;
+		right: 2em;
+		top: 2em;
+	}
+}
