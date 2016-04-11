@@ -24,5 +24,7 @@
 <!-- [Code we wrote in class today](https://github.com/TIY-Austin-Front-End-Engineering/Curriculum/tree/master/notes/day-32/code) -->
 
 ## Assignments
+[Fresh Job Board Data Modeling](https://online.theironyard.com/library/paths/115/units/1130/assignments/1836)
+[Fresh Job Board Data Backed Components](https://online.theironyard.com/library/paths/115/units/1130/assignments/1837)
 
 ## Resources
