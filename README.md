@@ -32,21 +32,21 @@
 * [04/27/2016 - Day 43 - APIs](/notes/day-35/README.md)
 * [04/26/2016 - Day 42 - Express / Sending Emails / Texts](/notes/day-34/README.md)
 * [04/25/2016 - Day 41 - ES2015](/notes/day-33/README.md)
-
-### Week 8: Client Project
-* 04/22/2016 - Day 40 - One on Ones
-* 04/21/2016 - Day 39 - Client Project Work Day & Design Review
-* 04/20/2016 - Day 38 - Client Project Sprint 1 Retrospective & Work Day
-* 04/19/2016 - Day 37 - Client Project Work Day
-* 04/18/2016 - Day 36 - Client Project Introduction
-
-### Week 7: React / Parse
-* [04/15/2016 - Day 35 - EXTRA EXTRA: Server Side JS 1](/notes/day-28/README.md)
-* [04/14/2016 - Day 34 - Review](/notes/day-28/README.md)
-* [04/13/2016 - Day 33 - Parse CRUD, Hoisting](/notes/day-27/README.md)
-* [04/12/2016 - Day 32 - Component communication with events, Regex](/notes/day-26/README.md)
-* [04/11/2016 - Day 31 - Parse user authentication](/notes/day-25/README.md)
 -->
+
+### Week 8: Node & Client Project
+* [04/22/2016 - Day 40 - Client Project Work Day](/notes/day-40/README.md)
+* [04/21/2016 - Day 39 - Client Project Kickoff](/notes/day-39/README.md)
+* [04/20/2016 - Day 38 - User Authentication](/notes/day-38/README.md)
+* [04/19/2016 - Day 37 - Node APIs](/notes/day-37/README.md)
+* [04/18/2016 - Day 36 - Working in a Backend Node Environment](/notes/day-36/README.md)
+
+### Week 7: React
+* [04/15/2016 - Day 35 - Review](/notes/day-35/README.md)
+* [04/14/2016 - Day 34 - React: Callback Props](/notes/day-34/README.md)
+* [04/13/2016 - Day 33 - React: Rendering Lists, Events](/notes/day-33/README.md)
+* [04/12/2016 - Day 32 - React: Props, State, Component Lifecycle](/notes/day-32/README.md)
+* [04/11/2016 - Day 31 - React: Introduction, Components](/notes/day-31/README.md)
 
 ### Week 6: Backbone
 * [04/08/2016 - Day 30 - One on Ones](/notes/day-30/README.md)

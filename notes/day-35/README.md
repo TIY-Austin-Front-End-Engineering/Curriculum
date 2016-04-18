@@ -1,9 +1,9 @@
 [Table of Contents](/README.md)
 
-# Day 35 - EXTRA, EXTRA: Flux, Redux
+# Day 35 - Review
 
 ## Topics
-* Flux
+* Review
 
 ## Notes
 <!-- More detailed notes from class, including whiteboard photos etc -->
