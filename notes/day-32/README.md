@@ -6,18 +6,28 @@
 * Props
   * Passing values as props
   * Using `this.props`
-* State
+* Backbone Models/Collections
+* Data modeling
+<!-- * State
   * Props v. state
   * Where does state live?
   * Setting initial state
-  * Updating state: `this.setState()`
-* Component Lifecycle
+  * Updating state: `this.setState()` -->
+<!-- * Component Lifecycle
   * `componentWillMount`
   * `componentDidMount`
-  * Updated state or props
+  * Updated state or props -->
 
 ## Notes
-<!-- More detailed notes from class, including whiteboard photos etc -->
+* Why do we want to use models/collections instead of just plain object?
+  * consolidate data related behavior
+  * save to server
+  * fetch from server
+  * uniform data structure (defaults)
+  * data validation
+  * custom functions to manipulate data
+  * safe keeping of data via getters and setters
+  * notification of changes via events
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
