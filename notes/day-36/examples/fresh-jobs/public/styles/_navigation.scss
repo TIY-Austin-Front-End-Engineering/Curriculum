@@ -1,0 +1,46 @@
+@import 'variables';
+nav {
+	border-top: 0.625rem solid $border-color;
+	background: #fff;
+	margin-bottom: 1rem;
+
+	.nav-container {
+		max-width: $max-width;
+		margin: 0 auto;
+		padding: 0 2em;
+		overflow: hidden;
+	}
+
+	.logo-container {
+		display: block;
+		float: left;
+
+		img, h1 {
+			display: block;
+			float: left;
+		}
+
+		h1 {
+			margin: 0;
+			line-height: 4.25rem;
+			padding-left: 0.5rem;
+		}
+
+		img {
+			height: 2.25rem;
+			margin: 1rem 0;
+		}
+	}
+
+	.links {
+		float: left;
+		margin-left: 2rem;
+
+		a {
+			display: block;
+			float: left;
+			line-height: 4.25rem;
+			padding: 0 1rem;
+		}
+	}
+}
