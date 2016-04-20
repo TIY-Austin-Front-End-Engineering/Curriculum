@@ -26,7 +26,7 @@
 * Start working
 
 ## Notes
-<!-- More detailed notes from class, including whiteboard photos etc -->
+* Broken homework links
 
 ## Code
 <!-- Make sure to update the XX in the folder name if you uncomment this block-->
