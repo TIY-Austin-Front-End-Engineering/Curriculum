@@ -1,4 +1,4 @@
-# JavaScript Operators
+# JavaScript Variables
 
 ### You should already know about
 * [JavaScript Primitives](../javascript-primitives/README.md)
